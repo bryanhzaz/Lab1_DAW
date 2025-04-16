@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"> <!-- Codificación de caracteres en UTF-8 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Escalado para dispositivos móviles -->
+    <title>Mi Lista de Tareas</title> <!-- Título que aparece en la pestaña del navegador -->
+    <link rel="stylesheet" href="style.css"> <!-- Vinculación del archivo CSS -->
+    <script src="script.js" defer></script> <!-- Vinculación del archivo JavaScript, se carga después del HTML -->
+</head>
+<body>
+    <div class="container"> <!-- Contenedor principal de la página -->
+
+        <!-- Encabezado con título y subtítulo -->
+        <header>
+            <h1><span class="icon">✓</span> Mis Tareas</h1> <!-- Título principal con icono de check -->
+            <p class="subtitle">Organiza tu día de manera eficiente</p> <!-- Subtítulo descriptivo -->
+        </header>
+        
+        <!-- Contenedor del input y botón de añadir tarea -->
+        <div class="input-container">
+            <input type="text" id="tarea" placeholder="¿Qué necesitas hacer hoy?" class="task-input"> <!-- Campo para ingresar tareas -->
+            <button id="agregarTarea" class="add-btn">
+                <span class="plus-icon">+</span> Añadir <!-- Botón para agregar la tarea -->
+            </button>
+            <button id="cargarTarea" class="add-btn azul">Cargar tarea aleatoria</button>
+        </div>
+        
+        <!-- Lista que contendrá las tareas agregadas -->
+        <ul id="listaTareas" class="task-list"></ul>
+        
+        <!-- Pie de página con contador de tareas -->
+        <footer class="stats">
+            <span id="contador">0 tareas pendientes</span> <!-- Contador de tareas activas -->
+        </footer>
+    </div>
+</body>
+</html>
