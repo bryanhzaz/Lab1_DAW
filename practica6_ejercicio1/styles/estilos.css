@@ -1,0 +1,118 @@
+/* 1. Fuentes principales */
+h1, h2, h3, h4, footer {
+    font-family: "Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
+  }
+  
+  /* 2. Estilo general del cuerpo */
+  body {
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+    font-size: 100%;
+    background-color: rgb(33, 54, 66);
+  }
+  
+  /* 3. Contenedor principal */
+  main {
+    background-color: white;
+    margin: 1em 4em;
+    padding: 0.5em;
+  }
+  
+  /* 4. Encabezados */
+  h1 {
+    font-size: 1.5rem;
+  }
+  h2 {
+    font-size: 0.75rem;
+  }
+  h3 {
+    font-size: 1em;
+    border-bottom: solid 1pt white;
+    margin-bottom: 0.5em;
+  }
+  
+  /* 5. Párrafos */
+  p {
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    letter-spacing: 1px;
+  }
+  
+  /* 6. Navegación */
+  nav {
+    font-size: 1.125rem;
+    background-color: rgb(61, 98, 113);
+    padding: 0.25em;
+  }
+  
+  nav ul li {
+    list-style: none;
+    display: inline;
+  }
+  
+  nav a {
+    padding: 0.25em;
+  }
+  
+  /* 9. Enlaces */
+  a:link {
+    font-weight: bold;
+    color: rgb(71, 179, 215);
+  }
+  a:visited {
+    color: rgb(187, 120, 255);
+  }
+  a:hover {
+    background-color: rgb(255, 255, 204);
+  }
+  
+  /* 10. Clase título */
+  .titulo {
+    font-size: 0.875rem;
+    color: #728B96;
+    font-style: italic;
+  }
+  
+  /* 11. Figuras */
+  figure {
+    margin: 0.5em 0;
+  }
+  figure img {
+    padding: 0.25em;
+    border: solid 1.5px #999999;
+  }
+  
+  /* 13-14. Contenedor dentro de figura */
+  figure div {
+    margin: 0.25em 0 2em 0;
+    padding: 0.5em;
+    width: 500px;
+    border: solid 1.5px #999999;
+    border-radius: 4px;
+    background: linear-gradient(gray, white);
+  }
+  figure div p {
+    font-size: 70%;
+    margin: 0;
+  }
+  figure div img {
+    padding: 0;
+    border: 0;
+  }
+  
+  /* 15. Reseñas */
+  #revisiones {
+    margin-top: 1em;
+  }
+  #revisiones div {
+    border-bottom: dashed 1pt #999999;
+    margin-bottom: 1.25em;
+  }
+  
+  /* 16. Header y footer */
+  header, footer {
+    color: white;
+    background-color: #3D6271;
+    margin: 0 4em 0.5em 4em;
+    padding: 1em;
+  }
+  
