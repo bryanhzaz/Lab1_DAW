@@ -14,10 +14,17 @@ export class Prestamo {
   }
 
   registrarDevolucion() {
-    this.fechaDevolucion = new Date();
-    this.multa = this.calcularMulta();
-    this.libro.devolver();
-  }
+  this.fechaDevolucion = new Date();
+  this.multa = this.calcularMulta();
+  this.libro.devolver();
+
+  // Registrar en historial del usuario
+  this.usuario.registrarEnHistorial({
+    accion: `Devolución: ${this.libro.titulo}`,
+    fecha: this.fechaDevolucion
+  });
+}
+
 
   calcularMulta = () => {
     if (!this.fechaDevolucion) return 0;

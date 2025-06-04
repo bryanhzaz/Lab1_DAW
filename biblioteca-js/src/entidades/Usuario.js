@@ -34,9 +34,13 @@ export class Usuario {
   }
 
   mostrarHistorial() {
-    console.log(`Historial de ${this.nombre}:`);
-    this.historial.forEach((item, index) => {
-      console.log(`${index + 1}. ${item.accion} - ${item.fecha.toLocaleString()}`);
-    });
-  }
+  console.log(`Historial de ${this.nombre}:`);
+  this.historial.forEach((item, index) => {
+    if (typeof item === 'object' && item.accion && item.fecha) {
+      console.log(`${index + 1}. ${item.accion} - ${new Date(item.fecha).toLocaleString()}`);
+    } else {
+      console.log(`${index + 1}. ${item}`);
+    }
+  });
+}
 }
