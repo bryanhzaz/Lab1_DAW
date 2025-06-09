@@ -1,0 +1,90 @@
+:root {
+  --rojo-oscuro: #900;
+  --rojo-claro: #e9967a;
+  --rojo-fuerte: #b22222;
+  --oro: gold;
+  --fondo: #ffe6e6;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--fondo);
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  color: var(--rojo-oscuro);
+  text-shadow: 2px 2px 5px #600;
+  margin-bottom: 20px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+article {
+  background: var(--rojo-oscuro);
+  padding: 20px;
+  border-radius: 20px;
+  max-width: 350px;
+  width: 90%;
+}
+
+#tablero {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+#tablero button {
+  width: 100%;
+  aspect-ratio: 1;
+  font-size: 1.4em;
+  font-weight: bold;
+  background: var(--rojo-claro);
+  color: var(--oro);
+  border: none;
+  border-radius: 10px;
+  transition: transform 0.1s;
+}
+
+#tablero button:active {
+  transform: scale(0.95);
+}
+
+#tablero .vacio {
+  background: var(--rojo-fuerte);
+}
+
+footer .barra-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+}
+
+#jugar {
+  background: yellow;
+  color: var(--rojo-oscuro);
+  font-weight: bold;
+  padding: 5px 15px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+footer span {
+  color: white;
+  font-weight: bold;
+}
