@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: backend
+  template:
+    metadata:
+      labels:
+        app: backend
+    spec:
+      containers:
+      - name: backend
+        image: tu-registro/backend:latest
+        ports:
+        - containerPort: 5000
+        env:
+        - name: DATABASE_URI
+          value: "postgresql://user:secret@db:5432/dw"

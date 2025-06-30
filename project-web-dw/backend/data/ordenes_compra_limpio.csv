@@ -1,0 +1,1481 @@
+id_orden,cliente,producto,cantidad,precio_unitario,fecha,destino,estado_pago
+8c2fb6bc-a68e-46f6-ba31-ef25ea1e56bc,"Mitchell, Hunter and Rodriguez",Monitor,10.0,1000,2025-03-17,CDMX,Rechazado
+02e7f572-b243-4bba-990c-cd83c16f2195,Prince-Moses,Tablet,20.0,1500,2025-03-03,Hamburgo,Pendiente
+162715e6-9d2c-45eb-835e-e58a036d6c88,Young LLC,Monitor,5.0,1500,2025-05-03,Hamburgo,Pagado
+01edadda-f6ea-4840-9e39-7cf10e2f45e9,Holt-Montgomery,Impresora,10.0,1000,2025-01-16,CDMX,Rechazado
+da707d5c-348c-4cf5-ba32-993cdb9aed58,Stout Inc,Tablet,20.0,500,2025-03-19,Hamburgo,Rechazado
+308193ff-93f8-4cee-915b-b2b1ce1cf417,"Ward, Smith and Henry",Laptop,1.0,500,2025-02-15,Shenzhen,Rechazado
+2755eda2-8797-468d-92df-4ef3823ad89a,Parker-Jimenez,Tablet,1.0,500,2025-01-30,CDMX,Rechazado
+4379cff5-23a0-47cf-b429-7fe7a1552e58,Dawson LLC,Laptop,20.0,1500,2025-04-13,CDMX,Pagado
+577663b3-a6e2-4628-b9c8-40f41acdf5f2,Jackson and Sons,Tablet,1.0,500,2025-05-19,Shenzhen,Pendiente
+a09158f1-be15-4c2f-b450-4d0de69d4162,Huffman-Hobbs,Laptop,10.0,2000,2025-05-14,Hamburgo,Pendiente
+3a9e9273-89c3-4d03-8656-ca7a3b9ecb7a,Macdonald-Brown,Tablet,20.0,1000,2025-05-19,Los Angeles,Rechazado
+ce763a54-96c1-4f29-bc42-9c207b832ad1,Dawson LLC,Tablet,5.0,500,2025-05-26,Shenzhen,Pagado
+8109c948-2b70-43b8-9fde-f8848bb0521c,Pierce and Sons,Smartphone,20.0,1000,2025-02-23,CDMX,Pagado
+33f2b74c-1477-4773-ad70-725129fcd019,Green-Hays,Monitor,5.0,500,2025-05-04,Hamburgo,Pagado
+1b4d8ef9-aeff-4e77-bf00-17a5401587f9,Dawson LLC,Laptop,20.0,1000,2025-01-18,CDMX,Pagado
+d0db5581-5f88-43f7-9448-1469759f86a0,Morse-Marshall,Monitor,20.0,2000,2025-01-11,CDMX,Pendiente
+8a32afb0-7911-4bac-8d76-33a79a092d09,"Young, Bryant and Rodriguez",Monitor,1.0,2000,2025-04-24,CDMX,Rechazado
+4a16d114-fd00-4dd4-b30c-012589d980b4,Macdonald-Brown,Monitor,10.0,1500,2025-06-15,Hamburgo,Rechazado
+6659ef8a-d7ed-4ee6-830a-4198b89c4459,Macdonald-Brown,Smartphone,1.0,1000,2025-04-24,Shenzhen,Pendiente
+4e82122d-8cdb-4264-ab91-d32f251761bc,"Young, Bryant and Rodriguez",Impresora,5.0,1000,2025-01-19,Monterrey,Rechazado
+c2a3a287-3ecc-46d0-a3b9-16c237dce50a,"Hernandez, Lane and Lewis",Laptop,1.0,1500,2025-02-12,Hamburgo,Pagado
+f02011c0-7180-4f7d-a47d-0b16fe732d42,Johnston-Gonzalez,Laptop,5.0,500,2025-02-05,CDMX,Pendiente
+5172afd0-0baf-4bfd-9e3b-ec4018ee737e,Braun-Garcia,Impresora,1.0,2000,2025-04-23,Hamburgo,Pendiente
+f5b43c52-1a45-46a4-884b-840b21230f11,Green-Nelson,Smartphone,1.0,1500,2025-04-03,Los Angeles,Rechazado
+119baa1a-7d0f-45e1-b8cd-be41eae5f0bd,"Young, Bryant and Rodriguez",Monitor,1.0,2000,2025-04-09,CDMX,Rechazado
+ec81c1c9-8814-40ed-800e-591f30b7e1c5,Tucker-Ball,Laptop,20.0,500,2025-05-06,Monterrey,Pagado
+1237f0c6-21bb-45c7-93fe-df400ab8e070,Johnston-Gonzalez,Impresora,20.0,1000,2025-04-19,Hamburgo,Pendiente
+9e91af2b-6f04-4b07-b568-640a955820cc,Campos LLC,Smartphone,20.0,2000,2025-02-03,Hamburgo,Pendiente
+0ef742ec-afee-44f1-9004-f74bbc54a6b4,Mercado Group,Impresora,1.0,500,2025-01-17,Hamburgo,Rechazado
+8810cbb6-a51f-435f-bbd6-a8197181c0a1,Buck-Mcgee,Impresora,20.0,1500,2025-01-11,Los Angeles,Pendiente
+8b9076fb-29a6-49a4-aa8c-14dfad1f1703,Griffith-Rivera,Tablet,20.0,2000,2025-02-17,CDMX,Pendiente
+55c298f5-908a-4687-a548-d082e76634f9,"Lewis, Cole and Salazar",Smartphone,20.0,2000,2025-02-26,Monterrey,Pagado
+b522243e-871c-4f2b-abf1-4b28b81d40d0,"Lewis, Cole and Salazar",Laptop,1.0,1000,2025-04-23,Shenzhen,Pendiente
+74b05d00-5918-4fc7-9f6c-aec4c88810bf,Gonzalez-Weiss,Tablet,10.0,2000,2025-02-15,Los Angeles,Pendiente
+96c3f2cc-66a6-4cde-805c-c564f5068d80,"Taylor, Wright and Horn",Smartphone,1.0,1000,2024-12-30,Shenzhen,Rechazado
+bb61ff6e-be16-4f63-8995-36bf83de91ed,Pierce and Sons,Laptop,10.0,500,2025-01-05,Shenzhen,Pagado
+efb7643a-fb90-4c87-a8bb-2659cfddf695,"Lewis, Cole and Salazar",Laptop,1.0,500,2025-02-01,Hamburgo,Pendiente
+2a9cda8b-4547-4c81-9714-878497a8c729,Morse-Marshall,Tablet,10.0,500,2025-03-07,Monterrey,Pendiente
+c941dc99-8ace-4302-95a8-4af5809f7ccf,Griffith-Rivera,Smartphone,5.0,2000,2025-02-15,Shenzhen,Pagado
+643a4251-7391-422a-8835-629aeea85e82,Johnston-Gonzalez,Smartphone,1.0,1500,2024-12-31,Shenzhen,Rechazado
+f1888b9f-a155-4bd1-94db-603cb0397ab8,"Bentley, Sullivan and Keller",Tablet,1.0,2000,2025-05-06,Shenzhen,Rechazado
+7e7938c6-8b1b-4c85-b9fd-40b0fc772486,"Hernandez, Lane and Lewis",Impresora,5.0,1000,2025-01-23,Shenzhen,Pendiente
+6126bad2-15fe-4134-be56-a7c7d1d928fa,"Bentley, Sullivan and Keller",Monitor,10.0,2000,2025-05-05,Monterrey,Pendiente
+e21a9038-0dae-4b1f-8c1e-02d966e8d772,Buck-Mcgee,Tablet,20.0,500,2025-02-11,CDMX,Rechazado
+73d6c6d6-2840-4572-9818-0973052d3c5a,Perez and Sons,Laptop,10.0,500,2025-02-11,Hamburgo,Pagado
+c79c1033-b83a-4bb9-9dcd-c52bf47009f7,Wilkins Inc,Impresora,1.0,2000,2025-03-13,Shenzhen,Pendiente
+6d5e1f35-e1fe-47bb-b637-5e7901b61fc0,Lopez-Butler,Smartphone,20.0,1500,2025-05-05,Los Angeles,Pendiente
+ed93cd9c-7668-426d-84d8-586545466243,"Hernandez, Lane and Lewis",Impresora,20.0,1000,2025-02-14,Shenzhen,Pagado
+33e8a9b1-ffb8-4046-983c-d1433f07b377,"Campbell, Ochoa and Price",Monitor,20.0,1000,2025-05-15,Monterrey,Rechazado
+16e03d15-e1ca-4bbb-803f-9a2848c67fea,Mercado Group,Laptop,10.0,2000,2025-04-22,Shenzhen,Pagado
+b65d7e61-a10f-4fd3-9358-c1f724538abb,Lopez-Butler,Tablet,20.0,2000,2024-12-24,Monterrey,Pendiente
+bc3a6272-96ba-4c99-a7c5-604fb4dbea53,Holt-Montgomery,Smartphone,1.0,1000,2025-03-12,CDMX,Rechazado
+38694b75-aa4a-4261-9b6f-6a2f138f540e,Rodriguez-Bell,Tablet,20.0,500,2025-05-16,Monterrey,Pendiente
+d4aaaf66-f82c-47bf-a1fc-2d3aa479aaa4,"Ward, Smith and Henry",Laptop,20.0,1000,2024-12-27,Monterrey,Rechazado
+d4694ceb-2bae-4c19-9a84-15f79013b070,Lopez-Butler,Tablet,20.0,1000,2025-01-26,Shenzhen,Pendiente
+c90e56b9-3cdc-416a-9586-023ab04ad941,"Taylor, Wright and Horn",Laptop,10.0,1000,2025-01-21,Monterrey,Pendiente
+ce4babe6-aad0-4b80-9731-460b1f67a9f3,Griffith-Rivera,Smartphone,1.0,2000,2025-04-08,Los Angeles,Rechazado
+19359d32-1e4e-4a4d-8ca2-c20d727ec0b5,Wilkins Inc,Impresora,5.0,1500,2025-03-17,Los Angeles,Rechazado
+1b4a142d-e654-4dae-94ab-283a748e34f9,"Harris, Harris and Vasquez",Impresora,5.0,1000,2025-01-11,CDMX,Rechazado
+12d56cd8-4be1-4658-8597-ff83505bab3f,"Campbell, Ochoa and Price",Smartphone,1.0,1000,2025-03-28,CDMX,Pagado
+1390e3bf-4be4-48cc-b9fb-291b46a35cfc,Parker-Jimenez,Monitor,10.0,1500,2025-01-31,Monterrey,Rechazado
+2ab7b0a8-2b36-48e1-b29e-784ec3d88be5,"Hernandez, Lane and Lewis",Tablet,10.0,1000,2025-06-20,Monterrey,Rechazado
+fdebd9a3-0507-4280-bb77-1a3617f74ca3,Wilkins Inc,Monitor,20.0,2000,2025-04-22,Shenzhen,Pendiente
+e5c8070f-358d-4fe4-8621-f226eb1d0b7e,Green-Hays,Smartphone,1.0,1000,2025-03-10,Hamburgo,Pagado
+77d8fd14-84d3-467e-ac28-7038b3be3473,Rodriguez-Bell,Tablet,10.0,1500,2025-03-23,Los Angeles,Pendiente
+22859d32-9b9b-4b04-91e9-10d10314b54d,Pierce and Sons,Impresora,20.0,1500,2024-12-24,Los Angeles,Pendiente
+1708713b-2346-4f5e-b5c6-28c1e31239c4,Jackson and Sons,Laptop,10.0,500,2025-03-16,Los Angeles,Pagado
+77927204-e5a5-4561-bb28-df7bd14da023,Gonzalez-Weiss,Smartphone,10.0,1500,2025-05-28,Monterrey,Pagado
+35717a86-f2da-4d09-9e3a-f9d030f64822,"Anderson, Benson and Duncan",Laptop,5.0,2000,2025-06-17,Shenzhen,Pagado
+4dd1e4a7-a47a-498c-8f6e-1407cbf63201,"Hernandez, Lane and Lewis",Tablet,20.0,1500,2025-02-08,Monterrey,Rechazado
+2d2ee1a8-18e6-4a77-9e71-fd88a8a24b6e,Green-Hays,Monitor,5.0,1000,2025-02-05,Los Angeles,Pagado
+e32b525d-66da-4015-8cb8-67b4864846fd,Macdonald-Brown,Impresora,20.0,2000,2025-04-27,Shenzhen,Rechazado
+dc52a166-c0c7-444b-89cd-d9714a6678c5,Green-Hays,Smartphone,20.0,1000,2025-04-10,Shenzhen,Pendiente
+cec579ee-9560-4793-9f75-6d79cb67d9cb,Rodriguez-Bell,Monitor,10.0,500,2025-05-09,Monterrey,Pendiente
+19f6b3d6-6ac8-43c9-8e9c-39c252bff773,Stout Inc,Impresora,20.0,1500,2025-05-30,Monterrey,Rechazado
+301ff3b9-285b-4814-be34-8b553b2801ac,Young LLC,Impresora,1.0,1500,2025-03-07,Shenzhen,Rechazado
+f03ac497-c71a-483d-843d-a56df0527963,Patel LLC,Laptop,5.0,1500,2024-12-26,Monterrey,Pendiente
+75c447aa-4b0e-4f29-ac00-e180ae411e63,Dougherty Group,Smartphone,1.0,1500,2025-05-17,Los Angeles,Rechazado
+baa9b791-b2f7-48d5-955f-799597cbc879,Holt-Montgomery,Impresora,5.0,1500,2025-03-02,Los Angeles,Pendiente
+af54ec1c-629f-4d6e-96c0-463bf42a07d1,Alexander-Bowman,Tablet,10.0,500,2025-02-27,Shenzhen,Pendiente
+1d0f453f-95bb-4fc3-8a16-3241d1694c80,Morse-Marshall,Laptop,20.0,500,2025-04-15,Shenzhen,Pendiente
+6fa6755b-d563-4f42-b9e9-c6680ecdefbc,Fletcher LLC,Laptop,5.0,500,2025-01-03,Hamburgo,Pagado
+cd2db66e-4a0d-47ef-93d1-ecee1f8348f5,Morse-Marshall,Impresora,1.0,2000,2025-02-19,Hamburgo,Pendiente
+2f09180b-d2cb-42f8-9d4e-e134337adf25,Mercado Group,Smartphone,1.0,1500,2025-03-21,Los Angeles,Pagado
+783a8de7-2313-4fc5-9d3c-736c8ca86536,"Bentley, Sullivan and Keller",Monitor,1.0,1500,2025-06-08,Los Angeles,Pendiente
+4ddb5d17-e8f4-4a16-863d-d426a440e080,"Copeland, Miller and Shaw",Tablet,20.0,1500,2025-04-29,Los Angeles,Rechazado
+7dac000b-e50c-46b5-b7c4-661a0eb6cecb,"Rich, Bradley and Roberts",Impresora,10.0,1000,2025-05-11,Shenzhen,Pagado
+ddbf8025-099e-4682-8702-56163357defc,Alexander-Bowman,Tablet,10.0,2000,2025-03-13,Los Angeles,Rechazado
+ddecce7b-c9bc-4993-b1ea-884c2f1e718a,Young LLC,Tablet,20.0,500,2025-02-18,CDMX,Pagado
+b39eff2c-3d16-4f06-a921-d0c50d1eea41,"Young, Bryant and Rodriguez",Tablet,5.0,1000,2025-03-22,Shenzhen,Pendiente
+b9694604-5eca-4d71-8fa3-76ee3c4bf66a,"Ward, Smith and Henry",Impresora,1.0,500,2025-05-08,Los Angeles,Pagado
+de865f82-2152-4d36-98ee-316443598668,Wilkins Inc,Laptop,20.0,1500,2025-06-03,CDMX,Pendiente
+5a587a08-d26e-4d73-a0c3-c805801fdd25,"Harris, Harris and Vasquez",Monitor,10.0,500,2025-05-31,Monterrey,Pendiente
+946953e6-172c-420b-a63d-84d51c0f1c61,Huffman-Hobbs,Laptop,20.0,1500,2025-06-19,Shenzhen,Pendiente
+382f3308-d42d-4ca0-9fcd-cc76086976f4,Parker-Jimenez,Tablet,10.0,2000,2024-12-24,CDMX,Pendiente
+4b866c50-ed1a-430f-a281-7db89c7bd2c8,Holt-Montgomery,Tablet,20.0,2000,2025-05-01,CDMX,Pendiente
+2ce57297-a41d-4b2c-9dc2-dc17537d2453,"Bentley, Sullivan and Keller",Impresora,10.0,2000,2025-04-30,Los Angeles,Pendiente
+112c6068-7aea-4980-a377-5fce2252682b,Mercado Group,Laptop,20.0,500,2025-04-10,Los Angeles,Pendiente
+dbfc1f36-19d9-4c69-8f46-fa5ad4e0d34e,"Hernandez, Lane and Lewis",Smartphone,10.0,500,2025-02-22,CDMX,Pagado
+cfbc27fe-6e82-4ee4-8394-11bca3340f44,Jones and Sons,Monitor,5.0,1500,2025-04-06,CDMX,Pagado
+846b98ce-9c23-4ded-a94e-a8c0b9df19e5,"Copeland, Miller and Shaw",Tablet,1.0,500,2025-04-30,Monterrey,Pagado
+e14437ea-7f71-4c71-abfb-a248ee6152cb,Bryant-Wilson,Laptop,10.0,500,2025-02-16,Monterrey,Pagado
+5dbcf0e1-6420-49e3-a821-b16698bffee8,Dawson LLC,Laptop,20.0,500,2024-12-25,Los Angeles,Pagado
+b1693ba7-0085-481f-bbcd-58d2bd61c8a1,Johnston-Gonzalez,Laptop,5.0,500,2024-12-23,Shenzhen,Pagado
+034fb95e-9852-4fa4-840c-2f0065137ded,Parker-Jimenez,Impresora,10.0,1000,2025-02-14,Shenzhen,Rechazado
+ffdd928e-94b9-4a16-ade9-a0e30c8ed3af,"Copeland, Miller and Shaw",Tablet,1.0,2000,2025-03-13,Los Angeles,Rechazado
+322271df-7ccd-42a9-83bd-0ceac9094ee5,"Young, Bryant and Rodriguez",Monitor,10.0,2000,2025-03-04,Shenzhen,Rechazado
+e3061918-f546-4205-8f52-794b4634c8bb,Macdonald-Brown,Smartphone,20.0,1000,2025-02-18,Monterrey,Pendiente
+ebe32c3a-b065-44eb-a520-8c0ec0f629d8,Prince-Moses,Monitor,5.0,1500,2025-05-13,CDMX,Rechazado
+01515eed-80d2-460a-9578-e2fda560ce55,Schroeder Inc,Monitor,5.0,2000,2025-01-07,Los Angeles,Pagado
+6408172b-5cf3-4f90-ac5c-eb8fdbeff2a6,Morse-Marshall,Laptop,1.0,2000,2025-01-24,Hamburgo,Pendiente
+ee5f3281-1af6-44b0-9424-2014aff15fd5,Braun-Garcia,Tablet,5.0,1000,2024-12-30,Monterrey,Rechazado
+560f7f44-ca49-4b86-aba5-196afcc58369,Schroeder Inc,Impresora,20.0,1000,2025-01-16,Hamburgo,Pendiente
+813fbee6-0ba9-49bb-8fbe-f31da6c20c75,Fletcher LLC,Smartphone,20.0,1500,2024-12-27,Hamburgo,Pagado
+07aef1a2-f36a-4c19-965e-01a988c78794,"Anderson, Benson and Duncan",Monitor,20.0,2000,2025-03-17,CDMX,Rechazado
+c985ac5e-c922-4d5a-b4af-3874251e2437,Campos LLC,Laptop,20.0,1500,2025-02-04,Monterrey,Rechazado
+b7da9870-b3d5-4f2d-b114-d468772e1bd2,"Rich, Bradley and Roberts",Impresora,1.0,1500,2025-03-31,Los Angeles,Pendiente
+cec59065-1b97-426e-aa7f-2c46fb186165,"Taylor, Wright and Horn",Smartphone,20.0,500,2025-02-26,CDMX,Rechazado
+3b8076e8-434b-4774-adcd-1ff8f81cdbf4,"Mitchell, Hunter and Rodriguez",Laptop,10.0,500,2025-05-21,Los Angeles,Pagado
+e9d5462a-bff0-451e-bffa-c5c5025e6d0a,Ibarra-Brown,Laptop,20.0,2000,2025-06-21,Monterrey,Pendiente
+f62e2e61-17d1-4a67-9b6a-d3dc142eab3a,Mercado Group,Impresora,5.0,500,2025-04-27,Hamburgo,Rechazado
+d8b9a5dc-aac3-447e-8ab8-96e39547ec07,"Harris, Harris and Vasquez",Smartphone,10.0,1000,2025-02-27,Shenzhen,Rechazado
+04b938cd-6dd7-42c8-bf58-8fbf6d3c0cae,"Young, Bryant and Rodriguez",Smartphone,1.0,2000,2025-02-20,Shenzhen,Rechazado
+2f4ae171-36e3-447a-a17e-f0acd4135fc8,Green-Nelson,Tablet,1.0,1000,2025-03-03,Hamburgo,Pagado
+2da6955c-dd0f-46b8-90ae-e80513b83c9a,Mercado Group,Tablet,1.0,1000,2025-06-21,Los Angeles,Pagado
+2f355148-4889-40fd-aa6a-7065553f41af,Young LLC,Tablet,20.0,1500,2025-06-14,Los Angeles,Pagado
+348d8fa2-7514-4fc3-813f-3cbf8e9401b3,"Taylor, Wright and Horn",Smartphone,10.0,1000,2025-06-18,CDMX,Pagado
+3fac768c-6312-41bb-8560-efccbb16d815,"Mitchell, Hunter and Rodriguez",Laptop,10.0,1500,2025-05-01,Monterrey,Pagado
+17335114-80ef-42f5-b598-ee7b37e0cb76,"Young, Bryant and Rodriguez",Laptop,1.0,2000,2025-01-19,CDMX,Pendiente
+650d098d-fcb6-4798-b89f-ff1a416ce5c9,Alexander-Bowman,Smartphone,20.0,1000,2025-04-17,Monterrey,Pendiente
+ff21e277-9138-4507-a405-314d1c762f11,Alexander-Bowman,Laptop,1.0,2000,2025-05-09,Shenzhen,Pendiente
+204351ac-1bf9-4dab-a0b6-f90c954a3cdb,"Anderson, Benson and Duncan",Impresora,20.0,2000,2025-01-24,Shenzhen,Pendiente
+b68ee621-f6db-4099-a4a9-db711d59b0fe,Green-Hays,Monitor,10.0,1500,2025-05-14,Hamburgo,Rechazado
+bda5d8b4-7500-4d30-8251-8338c410c483,Perez and Sons,Tablet,5.0,500,2025-06-22,Shenzhen,Pendiente
+120f975c-e936-4e65-b5b7-5bc2fb9167c7,Buck-Mcgee,Impresora,20.0,2000,2024-12-29,Hamburgo,Pagado
+9dee35ad-3654-4729-8437-ca4608d6528b,Dawson LLC,Laptop,1.0,1500,2025-06-05,Los Angeles,Pendiente
+b9fbe0ae-5d48-4a89-87b4-e54e53c8350d,Jackson and Sons,Tablet,1.0,2000,2025-03-25,Los Angeles,Pagado
+42ad3b17-634d-4e91-8ef4-6996aee9b209,"Young, Bryant and Rodriguez",Tablet,5.0,2000,2025-04-15,CDMX,Pagado
+c3d1be7d-8938-4dba-848e-4943005fcbed,Macdonald-Brown,Monitor,1.0,2000,2025-01-19,Los Angeles,Pagado
+92862aed-7fb9-4c90-80ec-38d0270913db,"Ward, Smith and Henry",Laptop,1.0,2000,2025-06-23,Hamburgo,Pendiente
+df9d355a-1dbe-4492-82e0-52dcf87901bc,Griffith-Rivera,Tablet,10.0,1500,2025-05-08,Shenzhen,Pagado
+bd6da04c-4a38-4a4a-80dc-6a45497c088e,Jones and Sons,Smartphone,20.0,1500,2025-01-23,CDMX,Pagado
+d0ddcac5-d427-4291-bc87-6c58420dfb9b,Buck-Mcgee,Monitor,5.0,1500,2025-04-26,Hamburgo,Pagado
+a95450f5-1aed-4f6a-a60d-2f90c3c3870a,Green-Hays,Smartphone,1.0,500,2025-04-04,CDMX,Pendiente
+e1e68368-aacc-4c22-a5d1-b0ba07d01973,"Bentley, Sullivan and Keller",Laptop,10.0,2000,2024-12-26,Hamburgo,Pagado
+4319b529-e69a-49b9-b8fe-e2948653e9d0,Jones and Sons,Monitor,10.0,1500,2025-01-21,Shenzhen,Pendiente
+4e9b1148-4408-4a51-b792-19f4f4338b27,Pierce and Sons,Impresora,5.0,1500,2025-01-26,Monterrey,Pendiente
+12d5e1b2-5198-413b-bc71-c65a9cabcddf,Campos LLC,Laptop,10.0,500,2025-02-17,Monterrey,Pagado
+af0f9cc4-0ac6-4fe2-b45b-230843ccd89b,Perez and Sons,Monitor,20.0,1000,2025-03-05,CDMX,Pagado
+88a09039-e971-48b1-9004-7a0fd686639e,Rodriguez-Bell,Smartphone,5.0,2000,2025-04-07,Los Angeles,Pagado
+e6c24f61-30eb-4cfe-8868-10f69103e9af,Johnston-Gonzalez,Impresora,1.0,2000,2025-04-22,Monterrey,Pendiente
+25144a10-8a85-4ef3-9517-29b776046e7b,Morse-Marshall,Laptop,5.0,1500,2025-01-01,Shenzhen,Pendiente
+829c275b-ba25-4c40-82fe-3ea6c35804cc,White PLC,Laptop,1.0,500,2025-06-03,Hamburgo,Pagado
+7f2ba6cb-6109-47f6-ae2d-298137e314d5,Griffith-Rivera,Impresora,1.0,2000,2025-02-01,Los Angeles,Rechazado
+dadada76-2077-4338-8433-590dcc4b1ad9,"Ward, Smith and Henry",Monitor,10.0,1500,2025-05-31,Los Angeles,Rechazado
+f82af15e-8831-4d62-9e6e-7a4961818cca,Mercado Group,Tablet,5.0,2000,2025-06-05,CDMX,Rechazado
+231d1f7c-241f-461c-8b77-7512c274784a,Jackson and Sons,Impresora,5.0,2000,2025-01-14,CDMX,Pendiente
+65f8122e-0f15-4b05-9f68-b8269c5d8f91,Buck-Mcgee,Tablet,1.0,2000,2025-01-18,Shenzhen,Pagado
+d47e461e-bef3-41ad-8cbc-10c9cc31ac27,"Taylor, Wright and Horn",Laptop,5.0,1000,2025-05-31,Shenzhen,Pendiente
+03e486ee-e5fe-4392-bf74-88f12bb18659,Perez and Sons,Monitor,1.0,500,2025-04-18,Los Angeles,Pendiente
+8729753a-debc-4d4c-be66-7e51ce709c86,"Copeland, Miller and Shaw",Impresora,10.0,2000,2025-04-12,Shenzhen,Rechazado
+51c91f8c-abb8-46db-8282-6fdca357b3be,Morse-Marshall,Monitor,1.0,2000,2025-05-18,CDMX,Pendiente
+1e322f5f-e619-4800-8bae-57e40c64facd,Perez and Sons,Smartphone,1.0,2000,2025-01-11,CDMX,Pendiente
+d04b3606-846a-442d-a31c-bc6d18a8525a,Lopez-Butler,Smartphone,5.0,500,2024-12-30,Los Angeles,Rechazado
+b41ce51d-35f4-4851-ac1d-7262a24910c6,"Campbell, Ochoa and Price",Laptop,1.0,1500,2025-02-13,Hamburgo,Pendiente
+c227395b-eec2-4ac0-98e8-d25f471ee516,Stout Inc,Tablet,5.0,2000,2025-05-02,CDMX,Rechazado
+90111c37-1197-4193-8063-1aa1952568d5,"Harris, Harris and Vasquez",Laptop,1.0,1000,2025-06-07,Los Angeles,Pendiente
+c7355423-a0b1-4cbc-b5d9-91f40a021d83,"Bentley, Sullivan and Keller",Impresora,5.0,2000,2025-01-11,Los Angeles,Pendiente
+773aa880-017d-496d-95dc-d3ec3ad3c906,Ibarra-Brown,Monitor,10.0,1000,2024-12-31,Hamburgo,Pagado
+d01ab1d3-3c48-4fbc-b3fe-7511b3ca08c0,Perez and Sons,Impresora,10.0,2000,2025-04-03,Hamburgo,Pagado
+2d42a8e3-ff62-48b6-80a1-0703cea6b509,Lopez-Butler,Impresora,1.0,1500,2025-01-26,Hamburgo,Pendiente
+8d628752-55a7-4711-8526-875a6547b080,Campos LLC,Impresora,20.0,500,2025-05-28,CDMX,Pagado
+f8edf224-8286-45ba-b745-fe98ea171813,Mercado Group,Impresora,1.0,2000,2025-04-02,Hamburgo,Pagado
+37969e94-bac5-474d-aeb1-98318434a859,Campos LLC,Laptop,5.0,500,2025-04-25,Monterrey,Pagado
+a4f48d1e-4ee7-4fe9-bfd5-b3933e1a2478,Green-Hays,Laptop,5.0,1000,2025-01-10,Shenzhen,Pendiente
+7ff6b5a1-1b9f-4fdb-9179-14eeba6c2e1d,"Copeland, Miller and Shaw",Monitor,10.0,500,2025-01-04,Los Angeles,Pagado
+0658c0ff-2be5-4dfa-8242-d0092ab19d24,Griffith-Rivera,Laptop,5.0,500,2025-06-08,Shenzhen,Pagado
+b436ae2b-8986-4211-8563-df991413250a,Martinez-Le,Tablet,20.0,2000,2025-03-10,CDMX,Pendiente
+5cb6e60e-1ec4-412e-88a9-9569f6d6ecb5,Jones and Sons,Smartphone,10.0,500,2025-04-17,CDMX,Pagado
+6a988cdf-69a9-46bc-a348-af2677250d99,"Anderson, Benson and Duncan",Tablet,20.0,2000,2025-02-15,Shenzhen,Pagado
+1923c2f3-7f3a-4c2e-ae90-4fdfcb232806,"Lewis, Cole and Salazar",Laptop,10.0,500,2025-06-11,Los Angeles,Rechazado
+fd4cf858-4cf8-4df0-90a2-735499cd4795,Morse-Marshall,Impresora,10.0,1000,2025-06-08,Los Angeles,Rechazado
+71bd07ac-73b9-419f-a837-8013bce72a0e,Taylor Inc,Tablet,5.0,500,2025-04-08,Los Angeles,Pagado
+d7222878-4c7a-48d0-81fd-6f9e89c816d4,Campos LLC,Impresora,5.0,2000,2025-06-13,Hamburgo,Rechazado
+476233d4-d07b-4119-ae24-4fd53bde4f2b,"Campbell, Ochoa and Price",Tablet,10.0,1000,2025-02-21,Los Angeles,Rechazado
+0b94afd2-ed90-449f-989f-d44b2e8b5d88,Pierce and Sons,Tablet,20.0,1000,2025-03-05,Hamburgo,Rechazado
+5ca8acab-26d1-482e-a770-a1b3fb3330e1,Wilkins Inc,Impresora,10.0,500,2025-03-18,Monterrey,Pendiente
+a168e428-5f91-468f-bea9-1b4917c5ecb5,Taylor Inc,Tablet,5.0,1000,2025-01-15,Monterrey,Rechazado
+8cfe2dc9-c4a0-4b2f-a58d-085fd1cb1bc3,"Rich, Bradley and Roberts",Laptop,10.0,1000,2025-04-30,Monterrey,Rechazado
+65295dcc-b21b-49a6-9f54-7f1ed0ea9366,Braun-Garcia,Monitor,20.0,1500,2024-12-29,Shenzhen,Pendiente
+5b0e34b1-9ff8-400b-9e78-9bf7789efef4,Prince-Moses,Impresora,1.0,1000,2024-12-26,CDMX,Rechazado
+2b09ac50-5d64-42de-ba5d-1ac367499929,White PLC,Tablet,1.0,1000,2025-04-04,Los Angeles,Pagado
+82d3d605-3d1d-44ae-a959-188eafdeac5d,Prince-Moses,Smartphone,10.0,1500,2024-12-31,Shenzhen,Pendiente
+b54db50b-b20e-4b32-b37d-55033d8d29ad,Patel LLC,Laptop,5.0,1500,2025-02-17,Hamburgo,Pagado
+33a82ccc-84b3-4415-a394-c43c51ddb1aa,Braun-Garcia,Tablet,5.0,1000,2025-04-01,Shenzhen,Rechazado
+5ed47009-5154-4cbc-b2d1-8bf4381d258e,Green-Nelson,Impresora,10.0,500,2025-03-08,Shenzhen,Pagado
+c8b8d452-72f7-406a-9224-d3dd7922d155,Jones and Sons,Tablet,20.0,2000,2025-03-30,Monterrey,Pendiente
+9d1eac7e-2580-43e0-95ab-792c64f4c1b5,Mercado Group,Smartphone,5.0,2000,2024-12-24,Shenzhen,Rechazado
+1b75aabe-2d7f-4966-880e-cd9f108bb153,Schroeder Inc,Laptop,1.0,1500,2024-12-28,Shenzhen,Rechazado
+8791b22e-aea5-41ee-9f31-63024571aafd,Braun-Garcia,Smartphone,5.0,1000,2025-04-03,Los Angeles,Pagado
+8cf3e59a-e0b2-4ce2-91e8-24797e65ce21,Griffith-Rivera,Impresora,10.0,1000,2025-05-22,Monterrey,Pendiente
+6dc148a6-e7e2-4c93-8586-f34823d9ea1a,Mercado Group,Monitor,5.0,500,2025-04-05,CDMX,Rechazado
+4663e4f6-fe5c-4406-91c9-2187ccb2b86c,Macdonald-Brown,Smartphone,10.0,1500,2025-06-14,Shenzhen,Pendiente
+d8c92f38-eaae-456c-ae01-a02db21d2155,Gonzalez-Weiss,Monitor,10.0,2000,2024-12-31,Monterrey,Pendiente
+cb84c205-90a5-4867-9c06-730f40ca57d9,Young LLC,Impresora,1.0,1500,2025-01-05,Monterrey,Pendiente
+6e7c8305-d7f4-4c46-9730-862c07994bef,"Ward, Smith and Henry",Tablet,10.0,1500,2025-05-08,Monterrey,Pagado
+8ffc62e3-9a0f-48ca-89fc-3488e2b91e3d,Stout Inc,Laptop,10.0,500,2025-05-03,CDMX,Rechazado
+68c0a556-7ce8-4de3-84a0-31b0011c84ef,"Copeland, Miller and Shaw",Impresora,20.0,2000,2025-04-10,Monterrey,Pendiente
+6beec9bd-df91-4f17-80ee-6b0d3662f5cc,Braun-Garcia,Impresora,10.0,1500,2025-05-10,Monterrey,Pendiente
+b34e3ad6-73af-406e-ba44-4b1d6fc90fe3,Taylor Inc,Impresora,5.0,1500,2025-01-12,CDMX,Pagado
+f8ef404b-9cf4-48b9-a75e-9b4aee1b14fe,"Lewis, Cole and Salazar",Laptop,5.0,1000,2025-06-17,Monterrey,Pagado
+09e9d18f-b28a-431f-a217-12407ab44d7d,Campos LLC,Laptop,20.0,2000,2025-02-07,Los Angeles,Pendiente
+ed7c9146-57db-406d-a4bd-bf033dde99d5,"Rich, Bradley and Roberts",Laptop,5.0,1000,2025-01-03,Los Angeles,Rechazado
+a3cdbe4c-3e8f-4b75-a080-ebf1055ebe0d,Fletcher LLC,Laptop,1.0,1500,2025-01-07,Hamburgo,Rechazado
+6a51c4a2-5ec5-46f7-82e4-7a5f96175f84,Hogan-Bradley,Laptop,10.0,1500,2025-03-16,Shenzhen,Rechazado
+2fb14ae7-9194-4335-871f-5d8cb0b0de12,"Mitchell, Hunter and Rodriguez",Tablet,20.0,500,2025-06-08,Hamburgo,Pendiente
+bd1fcb10-88ef-46e0-8ef4-42ff3e7599f3,"Taylor, Wright and Horn",Smartphone,5.0,2000,2025-01-06,CDMX,Pendiente
+b99ec364-33bd-4518-b6d2-ae9c2ad6e20c,"Harris, Harris and Vasquez",Tablet,5.0,1000,2025-03-30,Shenzhen,Pendiente
+8958e91c-a60f-45f1-a1ce-0e3d24543afe,Wilkins Inc,Impresora,1.0,1000,2024-12-24,Shenzhen,Pagado
+6a0af612-b2b7-4d46-a778-fe76e8690d98,Perez and Sons,Smartphone,20.0,1000,2025-05-26,Hamburgo,Pagado
+ba57f70e-20ba-4ca3-bc61-2a5931067bbc,Campos LLC,Laptop,10.0,500,2025-04-01,Monterrey,Rechazado
+5a1631ce-dd8b-4530-bbb7-8a7fd874b9f7,"Campbell, Ochoa and Price",Smartphone,20.0,1500,2025-01-03,Shenzhen,Pendiente
+03fad8b9-6ec6-4e11-8aa4-5973fff4cd2a,White PLC,Smartphone,10.0,2000,2025-03-26,Hamburgo,Rechazado
+c853c22a-2c22-455c-961d-2ba3b7acb6ef,"Taylor, Wright and Horn",Monitor,5.0,500,2025-06-07,Monterrey,Rechazado
+9b751ecd-c9ba-4812-9882-5a98455c19a6,Hogan-Bradley,Monitor,20.0,2000,2025-04-24,CDMX,Pagado
+749c2209-aca2-467f-b343-f2e78a3d63da,Lopez-Butler,Monitor,10.0,500,2025-06-07,CDMX,Pagado
+47ca4272-13c5-47e4-8497-c3c9df5f59d5,Griffith-Rivera,Monitor,10.0,1000,2025-04-03,Monterrey,Rechazado
+83a7d612-8de9-478c-8ee0-0e767d290df9,Rodriguez-Bell,Smartphone,20.0,500,2025-05-25,Hamburgo,Pagado
+0cd88ee8-5dc0-441f-b1d7-17f9ba2596a9,Jackson and Sons,Laptop,10.0,2000,2025-05-03,CDMX,Rechazado
+53bf4f88-23f0-49e4-a75e-766fa1830914,"Lewis, Cole and Salazar",Smartphone,20.0,1000,2025-03-13,Los Angeles,Pagado
+6f5cb51d-9db0-484f-b8fd-410a08868ae7,"Rich, Bradley and Roberts",Laptop,20.0,2000,2025-01-28,Los Angeles,Pagado
+7fe08c5f-4c67-411b-ba7d-3e17906dcf09,Ibarra-Brown,Smartphone,20.0,500,2025-02-21,CDMX,Pendiente
+3fa48d8b-f4fd-45e5-847a-105c0dd21c1b,Holt-Montgomery,Tablet,20.0,500,2025-03-01,Hamburgo,Rechazado
+cadd77c3-de19-4978-8bd2-58cd12dc6f17,Braun-Garcia,Impresora,20.0,500,2025-06-20,CDMX,Rechazado
+10f1bf22-3276-4b6a-be3b-08fc6beea7b0,Huffman-Hobbs,Impresora,5.0,1500,2024-12-25,CDMX,Pendiente
+16f18b3b-5b9c-4a92-8d06-0aaf947882e2,Holt-Montgomery,Tablet,5.0,500,2025-01-13,CDMX,Rechazado
+ca5babbd-319a-4bfc-a506-80fd8e7b0421,Johnston-Gonzalez,Smartphone,1.0,1000,2025-05-14,Monterrey,Pendiente
+0eeb71be-e300-4e81-997a-ed9dcef91ba5,"Hernandez, Lane and Lewis",Smartphone,20.0,2000,2025-02-13,Los Angeles,Rechazado
+85dc0571-cf49-4e83-b0eb-9092ca6f987f,Jackson and Sons,Tablet,20.0,500,2025-01-29,Shenzhen,Rechazado
+5c85861a-e1ba-418e-91d5-72b5a76a90b3,Lopez-Butler,Tablet,20.0,500,2025-03-30,Hamburgo,Pendiente
+573f6116-0b00-4f45-b04a-e4e72c5c6cc1,"Mitchell, Hunter and Rodriguez",Impresora,1.0,1500,2025-01-21,Monterrey,Pendiente
+e99e020f-1d1b-4026-8498-66df1aec0cc1,Campos LLC,Tablet,1.0,1500,2025-04-13,Los Angeles,Rechazado
+73712dd0-cbc4-4881-9f0b-5db58ef78ad4,Taylor Inc,Tablet,20.0,500,2025-03-22,CDMX,Pagado
+5353dd02-3409-43e9-ad2c-7c6d631e2bca,Braun-Garcia,Impresora,5.0,500,2025-05-06,Monterrey,Pendiente
+9b34fdcf-e26e-4695-b160-113c067b3a3a,Taylor Inc,Monitor,5.0,1000,2024-12-26,Monterrey,Pendiente
+1a72aa86-5782-4535-8acc-c179d8233b6c,Johnston-Gonzalez,Smartphone,1.0,1000,2025-02-23,Shenzhen,Pagado
+c1b31d12-86c9-4e76-9a94-c45e6d5c55b8,Tucker-Ball,Tablet,20.0,500,2025-06-02,Los Angeles,Rechazado
+63e1752f-3b93-4c52-98bd-f26731e2afe0,Bryant-Wilson,Laptop,1.0,500,2025-04-03,Shenzhen,Pendiente
+e857ee9b-74fa-4066-bdf1-576c637310ac,"Copeland, Miller and Shaw",Impresora,20.0,1500,2025-02-18,Los Angeles,Pendiente
+914d2087-a72e-412a-8055-e272d989e91a,"Taylor, Wright and Horn",Tablet,5.0,2000,2025-02-22,Monterrey,Pagado
+7ebb0d2e-b7e4-4b07-b190-0727e08d8bbd,Holt-Montgomery,Smartphone,20.0,500,2025-06-11,Monterrey,Rechazado
+2a592e03-9117-470b-9f2c-6429918dab51,"Copeland, Miller and Shaw",Monitor,10.0,500,2025-02-08,Hamburgo,Rechazado
+042900e8-7edb-4856-88af-e31d604af22a,Holt-Montgomery,Laptop,10.0,1000,2025-01-26,Los Angeles,Pendiente
+c44ca70b-d984-4c0e-baff-627b40ed8c02,Schroeder Inc,Smartphone,5.0,500,2025-03-04,Shenzhen,Pagado
+543940b0-fa71-4606-b5fc-cbd443645500,Dougherty Group,Tablet,5.0,2000,2025-01-18,CDMX,Rechazado
+650d7446-b911-4c4c-bf35-b3cf24d00ecd,Green-Hays,Smartphone,1.0,500,2025-04-27,Shenzhen,Pendiente
+91af0233-c822-4405-964e-088bee5646d1,Prince-Moses,Monitor,1.0,2000,2025-02-19,Monterrey,Rechazado
+76c0468d-680d-4563-9dc2-62b34b59dd41,Dougherty Group,Smartphone,5.0,2000,2025-02-19,Shenzhen,Pendiente
+c09e7552-abd7-40d6-8bae-46ba689b1980,Patel LLC,Laptop,20.0,2000,2025-01-21,Shenzhen,Pendiente
+76730667-a3ce-48b8-a177-dd3125421ef4,Johnston-Gonzalez,Laptop,1.0,1000,2025-02-16,CDMX,Rechazado
+60bcea90-1aaf-4e28-8579-70cde8be63e0,Taylor Inc,Impresora,5.0,2000,2025-06-05,Shenzhen,Pagado
+b48d1d9a-0808-4994-814d-e4dce01670a6,Taylor Inc,Laptop,1.0,1500,2024-12-24,Monterrey,Pendiente
+b6c185f1-f215-45cb-a797-e37f6f9b6122,"Ward, Smith and Henry",Tablet,10.0,2000,2025-03-18,Hamburgo,Pagado
+e4a3d5e4-b2c1-4435-8869-ef72a5944d24,"Young, Bryant and Rodriguez",Impresora,20.0,2000,2025-02-10,CDMX,Pagado
+37b7aa14-3352-4b49-98fd-5868f002ffea,Hogan-Bradley,Monitor,1.0,1000,2025-06-03,Shenzhen,Pagado
+35f8b9d7-462f-42fd-82ff-e5ba40dd7907,Pierce and Sons,Laptop,10.0,1000,2025-04-10,CDMX,Pendiente
+2b48ba14-dfdc-4b16-9531-618d6e5f09f4,Taylor Inc,Smartphone,20.0,1000,2025-03-15,CDMX,Pendiente
+24f6be11-dab4-43a9-a21a-2cc23234f76d,Morse-Marshall,Smartphone,20.0,1000,2025-06-07,Shenzhen,Rechazado
+f1662dc2-0a54-4c5d-9d27-29a97ebbdccd,Martinez-Le,Tablet,10.0,500,2025-05-10,Hamburgo,Pendiente
+c45ccc7b-6318-407f-b9a1-eafda89ee416,"Lewis, Cole and Salazar",Impresora,5.0,500,2025-02-13,CDMX,Rechazado
+d2b627b6-d5b3-408b-a513-187b5db9fef7,Campos LLC,Monitor,10.0,2000,2025-01-31,CDMX,Rechazado
+0044c4dc-7623-4637-ba6f-e06f6aaf3d4d,Young LLC,Smartphone,10.0,1500,2025-04-30,Los Angeles,Rechazado
+9cd9902d-3c3e-4a71-ba5a-f87d2d46ca30,Lopez-Butler,Monitor,5.0,1500,2025-05-12,Shenzhen,Pagado
+14a7f0a8-d9d3-4c6f-bf86-941c4e02734f,Huffman-Hobbs,Smartphone,20.0,1000,2025-05-10,Hamburgo,Pagado
+d48898fb-f8b8-40bd-8799-a6828644405a,Johnston-Gonzalez,Monitor,20.0,1500,2025-02-23,Hamburgo,Pagado
+f0e3d40a-8eec-433e-8a70-7e024c23b47a,"Rich, Bradley and Roberts",Tablet,10.0,1500,2025-04-12,Monterrey,Pendiente
+47aaaa46-6c40-4f6b-acc0-2be96cfb2755,Patel LLC,Monitor,5.0,2000,2025-03-08,Monterrey,Pendiente
+2a755d0a-0f63-428e-a135-1479a73d50d9,Lopez-Butler,Impresora,5.0,1000,2025-01-09,Los Angeles,Pendiente
+7992cd5e-d244-4d0d-b0d8-43c5efc1e3d9,Macdonald-Brown,Laptop,5.0,1000,2025-01-12,CDMX,Rechazado
+381674e1-b550-4611-8937-34e7640ba555,"Hernandez, Lane and Lewis",Tablet,20.0,1500,2025-01-25,Monterrey,Rechazado
+48697102-909f-4dd3-83fa-8b609eb158e7,Johnston-Gonzalez,Impresora,5.0,1000,2025-03-05,Hamburgo,Pagado
+c275a7c0-6ecc-4b25-aad3-df9beb2f49e2,Macdonald-Brown,Impresora,5.0,2000,2024-12-23,Shenzhen,Pagado
+85b6bae3-cda7-4b31-af5a-b1768b56737e,Mercado Group,Smartphone,10.0,2000,2025-05-10,Los Angeles,Rechazado
+2c627fea-6ff8-4604-8fab-fb2013fe62bc,Griffith-Rivera,Smartphone,1.0,2000,2025-01-12,Hamburgo,Pendiente
+710f0094-1e28-4cc3-bb2e-e1bb61a85c3a,Huffman-Hobbs,Smartphone,5.0,2000,2025-06-03,CDMX,Rechazado
+00da2596-afeb-4ac8-bfb7-031ad71348d3,Gonzalez-Weiss,Impresora,10.0,500,2025-02-11,Shenzhen,Pendiente
+6ea14312-f564-498b-adc3-0f33f5bf2d43,"Rich, Bradley and Roberts",Impresora,1.0,2000,2025-04-21,Monterrey,Rechazado
+46ba6403-8a22-4c29-b79b-8c84170b1dc1,Griffith-Rivera,Impresora,10.0,500,2025-06-06,Los Angeles,Rechazado
+2def5e45-ca28-4666-abcc-cd4489b4d5ee,Pierce and Sons,Monitor,10.0,1000,2025-03-16,CDMX,Rechazado
+91746b2f-6248-4cbf-84fd-2227e9323106,Campos LLC,Monitor,10.0,500,2025-06-11,Shenzhen,Rechazado
+ce71d720-3e7c-43ac-bc40-b98c57393960,Stout Inc,Monitor,20.0,500,2024-12-26,Shenzhen,Rechazado
+097cf0bc-48ef-45e7-ad7d-f00bbdf66fc1,Martinez-Le,Tablet,20.0,2000,2025-02-23,Los Angeles,Rechazado
+b92ebca5-cdc9-4a72-9cbf-8fd93b0801fb,"Lewis, Cole and Salazar",Smartphone,20.0,2000,2025-05-16,Hamburgo,Pendiente
+aa4359e3-7137-4dfd-bb9e-719d0bd445b2,Morse-Marshall,Smartphone,20.0,500,2025-05-14,Monterrey,Pagado
+6422af8e-d9d5-4e18-8bf6-a270c7e2b16f,Pierce and Sons,Monitor,10.0,500,2025-05-03,Shenzhen,Rechazado
+1f31f363-e7d9-4c37-a80c-abfd714cd8cb,Griffith-Rivera,Impresora,20.0,1500,2025-02-11,Hamburgo,Rechazado
+6af2127f-2b93-4027-b1a4-d36bd90d5b09,Tucker-Ball,Tablet,20.0,2000,2025-03-28,Shenzhen,Pagado
+60a3ed2f-8111-4eac-9342-34ac6b189dc8,Griffith-Rivera,Impresora,10.0,500,2025-03-15,Monterrey,Rechazado
+60b3e6c1-d718-47db-b5c7-bcaeeca2b699,"Anderson, Benson and Duncan",Tablet,1.0,1000,2025-05-26,CDMX,Pendiente
+facbafa7-e69e-45e4-b6c8-908f6ee6dbfc,Holt-Montgomery,Smartphone,20.0,2000,2025-05-20,Los Angeles,Rechazado
+99748dc8-808c-4e7b-a64c-9e47ad6062a3,"Mitchell, Hunter and Rodriguez",Monitor,10.0,1500,2025-06-20,Los Angeles,Pendiente
+aabfc208-e242-4743-84ff-c86ef96fafbc,"Anderson, Benson and Duncan",Tablet,5.0,1500,2025-02-17,Shenzhen,Rechazado
+e5353d15-1c5c-4cea-9f9d-8fc62e2c32f9,Braun-Garcia,Smartphone,10.0,1000,2025-03-03,Monterrey,Rechazado
+d308e0c7-376d-4f82-b6a8-50bed907031e,"Lewis, Cole and Salazar",Impresora,10.0,1000,2024-12-29,CDMX,Pendiente
+ef1b4c17-af78-4833-8c62-b1b013c9fe1c,Campos LLC,Smartphone,1.0,1000,2025-01-29,Monterrey,Rechazado
+5ceefcfe-fdd5-4ff9-8f9f-08c2017aa6cb,Parker-Jimenez,Tablet,5.0,500,2025-03-23,Los Angeles,Pendiente
+14ca7c97-0a13-4f9a-a36f-0abd5075697a,Green-Hays,Smartphone,10.0,1000,2025-04-23,Los Angeles,Pagado
+44ae5a95-2dc5-44e7-8ab6-c6bfbdd89ae6,Green-Nelson,Smartphone,10.0,500,2025-01-25,Shenzhen,Pagado
+ba12ac06-e188-4905-9ded-9016164ed5c6,Gonzalez PLC,Monitor,20.0,2000,2025-06-20,Shenzhen,Rechazado
+266a5866-34a0-484e-8834-e5b389f7acec,Bryant-Wilson,Monitor,10.0,1000,2025-03-18,Shenzhen,Pagado
+ea2c5769-95d7-43b9-bb38-25327178f6bb,Lopez-Butler,Tablet,20.0,1000,2025-02-27,Los Angeles,Pagado
+ac6ba4cb-c763-4366-ad60-4ec93bdcf66f,Young LLC,Monitor,10.0,2000,2025-04-13,CDMX,Pagado
+3e3f3ec0-7c9e-4970-87d1-9ef004c7614d,Perez and Sons,Laptop,10.0,500,2025-05-24,Hamburgo,Rechazado
+c3a2ec6f-5f9d-4518-b141-232c1f82f677,Alexander-Bowman,Tablet,5.0,2000,2025-03-28,Los Angeles,Pagado
+3f714cb4-e8da-46d3-b02a-067fa05a7e95,White PLC,Tablet,1.0,2000,2025-05-27,Los Angeles,Pagado
+db74c02a-d14d-4342-8cc8-b85e497394fc,Stout Inc,Smartphone,10.0,2000,2025-06-20,CDMX,Pendiente
+8aaf27a3-3c25-4a8e-b013-3fbb98410e63,White PLC,Laptop,1.0,500,2025-03-30,CDMX,Pagado
+e1d3d9c6-64fd-4275-9e44-f344193b02cc,"Harris, Harris and Vasquez",Tablet,10.0,1000,2025-04-23,Monterrey,Rechazado
+a3cc59cc-5102-4231-9fe4-a551fc6ebabe,Bryant-Wilson,Monitor,5.0,1000,2025-01-25,CDMX,Pendiente
+bc77304d-e181-4d9f-b66e-a36257addc84,Parker-Jimenez,Smartphone,1.0,1000,2025-05-03,CDMX,Pendiente
+312bf252-e5cf-41e6-8201-950ffc584a27,Alexander-Bowman,Smartphone,5.0,1500,2025-03-17,CDMX,Rechazado
+2ec2ceef-bd68-4157-bceb-748e72789833,"Taylor, Wright and Horn",Laptop,5.0,500,2025-01-27,Los Angeles,Rechazado
+85b720f9-897c-465b-9e7d-6badc157cff6,"Campbell, Ochoa and Price",Impresora,20.0,1000,2025-03-01,CDMX,Pendiente
+2b158bd0-4ad0-48e5-a321-1b6c07c7ec30,Green-Hays,Smartphone,1.0,500,2025-05-29,Hamburgo,Rechazado
+7bf6552c-ade2-4c75-b253-2b4a67c60ac1,Macdonald-Brown,Smartphone,10.0,1000,2025-04-23,Hamburgo,Rechazado
+93375e21-fd6e-40c0-b50b-5596bf9a1ae7,Gonzalez PLC,Smartphone,5.0,1500,2025-06-22,Hamburgo,Pendiente
+de711f3f-a371-4d45-81d2-d0dea00a6663,"Harris, Harris and Vasquez",Monitor,5.0,500,2025-04-05,Monterrey,Rechazado
+6e77d4d7-6350-4155-b9b4-e94748b097da,Alexander-Bowman,Impresora,5.0,1500,2025-02-25,Shenzhen,Rechazado
+6867adce-adac-4324-b8b4-58e918fd5ae9,Dougherty Group,Laptop,1.0,1500,2025-02-25,Los Angeles,Pagado
+f44f7ff3-3abf-447c-8af6-03fad5914f7b,Bryant-Wilson,Laptop,5.0,500,2025-05-28,Los Angeles,Pendiente
+1b0f4ace-c15a-4bc4-82ae-2e32c411c262,"Rich, Bradley and Roberts",Impresora,1.0,1500,2025-02-21,Shenzhen,Pagado
+12257e02-832e-4d01-a61f-95601dbf6b45,Stout Inc,Laptop,10.0,1500,2025-03-24,Los Angeles,Pendiente
+aed28c20-b0d9-4f6e-8f04-bd3638fd0005,Griffith-Rivera,Monitor,10.0,2000,2025-06-19,Los Angeles,Pendiente
+18f01af1-33ae-40aa-a5b0-2e884172a34d,"Campbell, Ochoa and Price",Tablet,20.0,1000,2025-06-06,Hamburgo,Pagado
+8445b9a8-2113-4d68-baba-3ac2375b2aaa,Hogan-Bradley,Tablet,5.0,1500,2025-04-18,CDMX,Pagado
+f904c550-fda6-44c6-9433-0b9c75cbd953,Morse-Marshall,Smartphone,1.0,2000,2025-03-07,Hamburgo,Pagado
+46160c56-ea84-4ad8-b4b9-e59237df19ce,"Campbell, Ochoa and Price",Tablet,1.0,1000,2025-06-01,Hamburgo,Pendiente
+7e2f430c-8a52-422f-8eac-6a677e9d48f3,Martinez-Le,Smartphone,10.0,1500,2025-02-20,Los Angeles,Rechazado
+15498847-7687-44f7-9607-93dcae026d4c,Huffman-Hobbs,Impresora,1.0,1000,2025-06-06,Monterrey,Pendiente
+550ff294-7a8a-48df-af3c-6066b9ad684c,Ibarra-Brown,Laptop,10.0,500,2025-02-01,Los Angeles,Rechazado
+f43cae6a-b281-4572-ab54-2d76f69c506b,Holt-Montgomery,Tablet,1.0,1000,2025-04-23,Monterrey,Pendiente
+9cf4f1c7-49c2-46a2-9c00-abbb69d3da30,Huffman-Hobbs,Smartphone,5.0,1500,2024-12-31,Los Angeles,Rechazado
+3d2ea0ea-fd28-4373-a3fe-714847500674,White PLC,Monitor,1.0,2000,2025-06-19,Los Angeles,Pendiente
+24703c38-039d-457b-ada4-8c6a0a87b51d,"Hernandez, Lane and Lewis",Laptop,10.0,1500,2025-05-18,Los Angeles,Pendiente
+27654308-d4a4-4173-a8f3-5703c339a641,Johnston-Gonzalez,Tablet,20.0,1500,2025-01-09,Monterrey,Rechazado
+1d0aadb2-fe04-4a06-a9d5-f20b0580200c,Schroeder Inc,Smartphone,1.0,1500,2025-03-01,Hamburgo,Rechazado
+e0957dd2-369d-4dd4-aed7-b0ee0c196b1c,"Young, Bryant and Rodriguez",Tablet,10.0,1500,2025-05-15,Shenzhen,Rechazado
+de78f315-f86f-4b7d-b9ec-8fed5cf089c9,"Lewis, Cole and Salazar",Smartphone,20.0,2000,2025-02-03,CDMX,Pagado
+62b24827-5a00-4ef7-8a72-8411067cf6c1,Pierce and Sons,Smartphone,5.0,500,2025-02-08,CDMX,Pagado
+db4d701e-18c4-47a1-9b35-dbc27e96f533,Taylor Inc,Tablet,20.0,500,2025-02-17,Monterrey,Pendiente
+0d7e0546-3083-422a-a919-5ad4af7c0d28,Mercado Group,Laptop,1.0,1000,2024-12-29,CDMX,Pendiente
+f44a952d-bc8d-4f8c-8e1c-10eaeb65d077,Mercado Group,Smartphone,5.0,1500,2025-03-24,Hamburgo,Pagado
+d5ea22d3-ca15-4ddd-8b4e-7fd8766e1e09,Dougherty Group,Smartphone,10.0,500,2025-01-05,Monterrey,Pendiente
+983f640b-b138-4c6a-91d3-650b6e63d598,Jones and Sons,Monitor,20.0,2000,2025-02-15,Shenzhen,Rechazado
+d366f097-0fe2-4dd6-a9df-6fd65de49bda,Fletcher LLC,Monitor,20.0,2000,2025-04-13,Hamburgo,Pendiente
+aa6c8c2f-745f-483c-8798-d11c6c75b33d,Jackson and Sons,Impresora,10.0,1000,2025-05-06,CDMX,Pagado
+177d0467-f126-4470-ac83-f30057f3b25e,Schroeder Inc,Monitor,20.0,1000,2025-04-04,Hamburgo,Pagado
+d2f349c0-de2c-43c1-b0b8-a75432c733fc,Macdonald-Brown,Smartphone,10.0,1500,2025-03-19,Hamburgo,Pendiente
+a0c899a3-429f-4402-b568-ac6f3273b88e,Green-Nelson,Impresora,1.0,1000,2024-12-29,Shenzhen,Pagado
+9f691f0d-8b2b-47ce-a756-2c90d8cad287,Ibarra-Brown,Impresora,1.0,1000,2025-05-16,Monterrey,Rechazado
+ba4428b6-4a92-4e33-87b1-db9f69975122,Pierce and Sons,Impresora,10.0,2000,2025-05-27,Shenzhen,Pagado
+c798f729-6eb7-40cb-8448-978845b7ccba,Pierce and Sons,Tablet,5.0,1000,2025-03-19,CDMX,Pagado
+c8f63e7c-175d-4eb9-8bfa-2c134e3d1e86,Wilkins Inc,Laptop,5.0,500,2025-05-10,Shenzhen,Pendiente
+22244a10-e0d7-41f3-b143-d94d8962ad21,Bryant-Wilson,Impresora,1.0,1000,2025-05-26,Shenzhen,Rechazado
+cbe2af10-e9b2-45a6-873f-247fd4f2d5f6,Buck-Mcgee,Smartphone,1.0,500,2025-05-25,CDMX,Rechazado
+6194f15e-e07c-4033-8998-cc64485f4a2e,Green-Hays,Smartphone,1.0,1500,2025-05-04,Hamburgo,Pendiente
+8bb92aed-71b3-42a2-a7de-443ba4e10cf3,Green-Nelson,Tablet,1.0,2000,2025-03-04,Los Angeles,Pendiente
+7cd01b0e-3e53-42e4-8d74-8e4e9bb68118,Gonzalez PLC,Impresora,10.0,1500,2025-02-15,Los Angeles,Pagado
+ed69eb6e-186b-4759-b905-0959d0d915fa,Buck-Mcgee,Impresora,1.0,1500,2025-01-12,Shenzhen,Rechazado
+c28b306d-93d2-49f3-b2fa-9cd875a6d6c7,Stout Inc,Tablet,10.0,500,2025-01-25,Los Angeles,Rechazado
+853e025b-7fe7-43ad-a99e-ea1049c53803,Green-Hays,Impresora,10.0,2000,2025-01-22,Hamburgo,Pagado
+600d790d-15f5-472f-85bc-6015bc58ff3d,Young LLC,Monitor,20.0,2000,2025-05-11,Los Angeles,Pagado
+cc4970fe-fad7-401c-8408-2c7514fc8eae,Griffith-Rivera,Impresora,5.0,2000,2025-04-27,CDMX,Rechazado
+c5c0b3d0-c405-4a61-a43f-ab4f357e68ad,Jones and Sons,Impresora,5.0,2000,2025-03-19,Monterrey,Pendiente
+d487a3b6-caae-4c63-b304-92e98e614a20,Dougherty Group,Impresora,20.0,1500,2025-02-07,CDMX,Rechazado
+cea4f98f-b7e1-4812-906d-efbc9f0faf30,"Bentley, Sullivan and Keller",Tablet,5.0,500,2025-01-11,Los Angeles,Pendiente
+7a774b0d-d145-4f94-a08d-e533ada87af6,Huffman-Hobbs,Smartphone,5.0,500,2025-02-14,Los Angeles,Pendiente
+248fe73f-fc71-4736-a3f2-4827eb542d92,Holt-Montgomery,Smartphone,20.0,2000,2025-01-12,Monterrey,Pagado
+95e6aa02-cd50-4b49-a5d6-dc47eb64bfbb,Green-Nelson,Monitor,1.0,1500,2025-01-24,Shenzhen,Pendiente
+ada462d8-a931-4939-b425-c42c6cd6b51b,Hogan-Bradley,Laptop,5.0,1000,2025-06-14,Hamburgo,Pagado
+c5f74c95-e3ad-4e8b-a31c-e5a6f7dcc7e0,"Mitchell, Hunter and Rodriguez",Impresora,20.0,500,2025-03-24,Hamburgo,Pagado
+b20938ff-88a5-4ff3-a793-1c6db001ba1f,Alexander-Bowman,Smartphone,5.0,500,2025-02-02,CDMX,Rechazado
+bbf12e14-0456-4d8e-b257-1fd3c511e98a,Rodriguez-Bell,Smartphone,10.0,1000,2025-03-05,Hamburgo,Pendiente
+7c40c07a-554f-438e-9bc3-ab40713e20c9,"Lewis, Cole and Salazar",Laptop,10.0,1000,2025-05-14,Shenzhen,Rechazado
+d184be1c-42a1-418c-8737-7c61cb9f4993,"Bentley, Sullivan and Keller",Smartphone,5.0,500,2025-05-15,Hamburgo,Rechazado
+8b0ec672-5a2a-450f-8c7b-a9ea4f47d005,Dougherty Group,Impresora,1.0,2000,2025-04-02,CDMX,Pagado
+139218a1-46f9-4ff0-837a-c9895b8a6074,Johnston-Gonzalez,Tablet,20.0,1500,2025-04-10,Los Angeles,Pendiente
+91030b4b-1f14-45a3-a21a-c9d7c8fdb38a,Huffman-Hobbs,Laptop,10.0,2000,2025-06-10,Hamburgo,Rechazado
+6a5dbad0-1e25-4c1e-8472-87c169b3f4b3,Patel LLC,Monitor,1.0,500,2025-06-04,Hamburgo,Rechazado
+f07f4e16-9089-49a0-953e-13b8c2eb1219,"Lewis, Cole and Salazar",Tablet,5.0,2000,2025-02-25,Monterrey,Rechazado
+0eef6eba-74e1-44bf-a03a-3441133e7b7a,Taylor Inc,Monitor,10.0,1000,2025-05-02,Los Angeles,Pagado
+4f429f3f-1c05-4af6-8dca-cdc9fc380e09,"Hernandez, Lane and Lewis",Tablet,20.0,2000,2025-02-24,Hamburgo,Pagado
+6dec7d54-9787-4a6b-b735-35e27e0a833d,"Lewis, Cole and Salazar",Monitor,1.0,1500,2025-03-02,Los Angeles,Pendiente
+3cb971d0-0efb-432e-ab61-f316ad01d3a7,Dougherty Group,Laptop,20.0,2000,2025-02-24,Los Angeles,Pagado
+6d574198-4649-45e8-bc72-3cb8be72cbd7,Fletcher LLC,Monitor,5.0,1000,2025-06-09,Hamburgo,Pagado
+d6c259a8-43fe-45b0-ac1e-f7af1252459a,Ibarra-Brown,Smartphone,1.0,1000,2025-03-21,Monterrey,Pendiente
+29c0e3a6-af79-4dd5-950b-3af7a107d675,Macdonald-Brown,Impresora,20.0,1500,2025-04-25,Hamburgo,Pagado
+8f6c0e83-a89d-4288-b9f1-61eca7fa8faa,"Harris, Harris and Vasquez",Laptop,1.0,500,2025-05-05,CDMX,Pagado
+89433918-979b-43f9-9182-6bc4a75cd654,Taylor Inc,Laptop,20.0,500,2025-06-02,Shenzhen,Pagado
+f3a59982-7aea-4797-9773-31178cfb82f9,"Harris, Harris and Vasquez",Impresora,20.0,1000,2025-05-31,Hamburgo,Rechazado
+ee0d9deb-6ba4-4a46-aad7-51dce740fbc8,Jackson and Sons,Impresora,1.0,1500,2025-04-13,Hamburgo,Rechazado
+e6eaa70f-d258-42f5-b6bb-00c9e9c7af68,"Campbell, Ochoa and Price",Smartphone,5.0,2000,2025-05-05,CDMX,Rechazado
+bc13afaf-799f-4040-a9c3-35a08f4741e5,Lopez-Butler,Impresora,1.0,2000,2025-04-24,Shenzhen,Pendiente
+de7072b8-4bcb-4c42-be27-f8542bef467d,Taylor Inc,Impresora,1.0,500,2025-05-19,CDMX,Pagado
+4fd5ac7d-37c7-4e16-8954-4952ea75ba51,Stout Inc,Tablet,1.0,2000,2025-01-13,CDMX,Pagado
+72ce44c9-1b0c-4524-a372-cb0158f15706,"Mitchell, Hunter and Rodriguez",Tablet,1.0,2000,2025-03-04,Hamburgo,Rechazado
+59504460-f6ec-464d-83d9-9e666512d043,Braun-Garcia,Monitor,20.0,1500,2025-05-26,Monterrey,Rechazado
+8336f664-febe-4645-bb55-26da171460b4,Gonzalez-Weiss,Tablet,1.0,1000,2025-01-04,Hamburgo,Pendiente
+f1dd8a60-526e-4e00-97cc-93316fdca232,Wilkins Inc,Laptop,5.0,500,2025-03-24,Los Angeles,Pagado
+46e3e8a2-2674-47dd-a3d3-13d255bf4af1,Lopez-Butler,Laptop,20.0,1000,2025-05-30,Hamburgo,Rechazado
+fda818a1-018e-471f-ae80-359d02285eae,Gonzalez-Weiss,Impresora,20.0,1500,2025-04-17,Los Angeles,Rechazado
+809467f7-bcd8-4073-9284-d1175b3ebd19,Johnston-Gonzalez,Smartphone,1.0,500,2025-01-24,CDMX,Pendiente
+4b2375c6-3393-4dc4-ac14-17a98071b2be,"Campbell, Ochoa and Price",Smartphone,20.0,1000,2025-03-27,CDMX,Pendiente
+94242950-67d4-481f-8c19-bd05999ab0e3,Ibarra-Brown,Laptop,5.0,500,2025-04-07,CDMX,Rechazado
+165dfc79-ba4d-4f52-a197-f329ba09d61a,Mercado Group,Smartphone,1.0,2000,2025-03-01,Monterrey,Pagado
+2a81fe14-f1bd-479f-bfa7-cda05fc7da26,Taylor Inc,Monitor,5.0,1000,2025-06-06,Shenzhen,Rechazado
+a513fa3b-c797-4827-b9d5-7c8e23fae995,"Young, Bryant and Rodriguez",Laptop,20.0,500,2025-01-04,Monterrey,Pagado
+23134f61-a4e6-49a3-b721-74a5a99320ad,Lopez-Butler,Impresora,20.0,2000,2025-06-02,Monterrey,Pendiente
+bfebf12a-5cc0-476a-a9af-d6cf70f3389d,Dougherty Group,Impresora,1.0,1000,2025-06-07,CDMX,Pagado
+53f9a729-8f3d-4798-8b89-11ae5d42335e,Schroeder Inc,Tablet,20.0,500,2025-03-04,Los Angeles,Rechazado
+3f0ba5d6-3584-4e3d-a12c-fe22fa733c57,"Young, Bryant and Rodriguez",Monitor,1.0,500,2025-01-04,Hamburgo,Rechazado
+953ba3eb-33f7-4e59-bbb9-7891fc99b4f2,Tucker-Ball,Laptop,5.0,500,2025-03-30,Los Angeles,Pagado
+da76760b-3553-41d7-8aae-5e915127bbca,Martinez-Le,Smartphone,10.0,1000,2025-04-06,Shenzhen,Pendiente
+d0a2912e-8022-4f2b-9dee-3b9cd312ba76,Tucker-Ball,Laptop,20.0,2000,2025-01-12,Monterrey,Pendiente
+b7b76a31-4a26-4710-b85b-4e8ba7d4efd7,Gonzalez-Weiss,Tablet,1.0,2000,2025-02-07,CDMX,Pendiente
+bdf5625a-2133-488b-a240-99df0eed7248,"Lewis, Cole and Salazar",Monitor,10.0,2000,2025-03-05,Monterrey,Pendiente
+64364318-97a5-4934-9345-1db3aec139bb,Prince-Moses,Tablet,5.0,500,2025-04-23,Shenzhen,Pagado
+3c7108d6-d4a5-4f13-b91b-8ebb6ad4d9cf,Morse-Marshall,Tablet,20.0,2000,2025-01-28,CDMX,Rechazado
+1a94eb3b-4185-44ae-b907-619c143f0fc5,Ibarra-Brown,Laptop,5.0,500,2025-05-11,Hamburgo,Rechazado
+7761ba84-d951-4cb1-bc01-276af11aeb94,Green-Nelson,Impresora,10.0,500,2025-01-05,Hamburgo,Pagado
+78986f6e-8969-4034-a5ac-c2499182e422,Gonzalez-Weiss,Monitor,10.0,2000,2025-05-19,Los Angeles,Rechazado
+8b981f23-261b-4388-a934-0e7f243800d3,Rodriguez-Bell,Smartphone,10.0,2000,2025-01-15,Hamburgo,Pendiente
+b61a8fe3-4cb5-467e-b564-b4aa421615c2,Alexander-Bowman,Monitor,10.0,1000,2025-03-22,Monterrey,Pendiente
+02fe212d-9370-49d5-95ad-adedf5af79c0,Gonzalez PLC,Laptop,5.0,1000,2025-03-17,Monterrey,Rechazado
+01b94c61-e253-435b-8fc9-e118446222ca,Alexander-Bowman,Laptop,1.0,500,2025-06-16,Hamburgo,Pendiente
+3df1d296-84f1-4d1f-94e8-d8080d22b2ae,Bryant-Wilson,Laptop,1.0,1000,2025-02-26,Hamburgo,Pendiente
+17ec60e8-7cee-4789-a807-3eaf6e5fbaa4,Stout Inc,Tablet,20.0,1000,2025-04-10,CDMX,Pagado
+11af23a6-3836-4829-993c-bb88fdcba5f2,Stout Inc,Monitor,1.0,1000,2025-06-17,Los Angeles,Rechazado
+87e00489-55f0-465f-9651-2923a63cd52e,Martinez-Le,Tablet,5.0,1500,2025-01-16,Hamburgo,Rechazado
+a7cbdab2-b3a6-48a5-b2f7-755ece73fa03,Prince-Moses,Smartphone,10.0,500,2025-02-21,Shenzhen,Pendiente
+d37dfdec-7d37-40a9-9b78-35decf2fa8db,Campos LLC,Monitor,1.0,1000,2025-05-06,CDMX,Pendiente
+bd81859f-9f46-4855-a087-95b6d52fd4f8,"Hernandez, Lane and Lewis",Smartphone,10.0,1500,2025-03-13,Monterrey,Pagado
+9cff727a-55e9-4e57-8938-89671700225b,Lopez-Butler,Tablet,10.0,1000,2025-03-23,Los Angeles,Pagado
+5e14f2cf-137b-403e-bfee-0ae690b37ad8,Prince-Moses,Laptop,10.0,2000,2025-01-04,Los Angeles,Rechazado
+afbbe939-5f2e-4030-b0ed-2c1cc1e006a1,Hogan-Bradley,Laptop,1.0,1000,2025-01-21,CDMX,Pagado
+cab7d1ae-73ee-4cdf-a70b-0fde24123a7a,"Harris, Harris and Vasquez",Laptop,20.0,1000,2025-04-29,Monterrey,Pendiente
+43dce0c2-63dd-498c-90e4-dda9907ceb10,"Hernandez, Lane and Lewis",Tablet,20.0,500,2025-06-20,Los Angeles,Pagado
+d3a0350a-2aaa-4c63-9719-4af550d41c79,Griffith-Rivera,Impresora,1.0,500,2025-02-01,Los Angeles,Rechazado
+4e0ca1b5-0ee8-4d76-9264-fb6a87279963,"Ward, Smith and Henry",Laptop,20.0,1500,2025-06-18,Hamburgo,Rechazado
+e3e8a5d9-f3e1-4083-a032-effbdee853c1,Fletcher LLC,Impresora,10.0,1000,2025-03-09,CDMX,Pendiente
+05cd759b-5d3a-4191-ab59-f0c061fb0bc9,"Young, Bryant and Rodriguez",Laptop,5.0,1000,2025-01-21,Shenzhen,Pendiente
+6669e4c2-9559-44d2-83ae-5b775f1a6c99,Rodriguez-Bell,Tablet,1.0,500,2025-06-17,Shenzhen,Rechazado
+82fd3be2-c7ca-4d3a-aa37-35399c6d8877,"Bentley, Sullivan and Keller",Tablet,10.0,500,2025-01-04,Los Angeles,Pagado
+818f6a92-fe2a-455b-86f6-22c29e4aa069,Taylor Inc,Tablet,20.0,500,2025-04-10,CDMX,Rechazado
+91c6da4d-a406-437d-a0df-dae7280d37e6,Green-Hays,Smartphone,20.0,500,2025-05-16,CDMX,Pendiente
+a45683fb-9617-4ff8-be1f-5ed92ffba18d,"Lewis, Cole and Salazar",Impresora,10.0,500,2025-04-19,Monterrey,Rechazado
+ceecf9b0-0c28-48da-a551-632488f5dc29,Schroeder Inc,Smartphone,1.0,1500,2025-02-14,CDMX,Pendiente
+30c6e56b-655d-40cd-a2a1-f853119c19fc,Lopez-Butler,Monitor,10.0,2000,2025-05-20,CDMX,Rechazado
+7fac6302-4cf3-441c-8f32-60d468fddcef,Braun-Garcia,Impresora,20.0,2000,2025-03-28,Hamburgo,Pagado
+732f6ea5-169d-4216-9d90-13b682c5d012,Stout Inc,Laptop,10.0,1000,2025-03-01,Shenzhen,Rechazado
+e28b070c-606a-4733-835d-faf4e95eb070,Ibarra-Brown,Tablet,20.0,2000,2025-05-10,Monterrey,Rechazado
+acf8bb4c-a739-468f-bfe5-cc3b84b82cf1,Morse-Marshall,Impresora,20.0,2000,2025-05-28,Los Angeles,Pagado
+6dd01b1f-0ef3-43da-9b33-e37d3f0c64ab,Campos LLC,Smartphone,1.0,1000,2025-03-14,Hamburgo,Rechazado
+ffcf4d6f-bd51-41a6-a3bb-53e7622b4135,Pierce and Sons,Monitor,20.0,500,2025-04-25,Monterrey,Pagado
+447419ad-9c99-4192-aec2-dca8443a9e63,Morse-Marshall,Tablet,10.0,1000,2025-04-19,CDMX,Pendiente
+6d1a449c-3d01-47b5-9e3c-7b869270f8c3,"Bentley, Sullivan and Keller",Laptop,1.0,2000,2025-05-26,Hamburgo,Pendiente
+165a2538-b583-41f0-afbb-ea70f83bdc52,Morse-Marshall,Tablet,5.0,1500,2025-05-27,Shenzhen,Rechazado
+78c0b7c2-67f2-4952-a7a5-3800d4806888,Bryant-Wilson,Smartphone,1.0,1500,2025-05-22,Shenzhen,Pagado
+d6d2001f-fa9d-44f6-a956-15f2cd4bb373,Wilkins Inc,Monitor,1.0,500,2025-04-03,Hamburgo,Pendiente
+c258cdf9-4501-4539-a3a6-019b8addb24d,"Copeland, Miller and Shaw",Laptop,5.0,2000,2025-04-10,Shenzhen,Pagado
+80739b0d-7ea9-4ba5-8f8c-70729f9665b5,Morse-Marshall,Tablet,5.0,1500,2025-05-09,CDMX,Pendiente
+ba707a80-ee71-4a54-98b8-eef07d4d3ad8,Mercado Group,Laptop,20.0,1000,2025-02-09,Shenzhen,Pagado
+3d914f54-6952-4248-b6df-981a899ffc10,Hogan-Bradley,Monitor,10.0,500,2025-05-28,Shenzhen,Pendiente
+6b13f528-9c4c-40d0-8a9b-68a60a2e314c,Griffith-Rivera,Impresora,20.0,1000,2025-03-16,Monterrey,Pendiente
+8ca08e93-1b41-4f10-9989-272539714467,Holt-Montgomery,Smartphone,20.0,1500,2025-05-28,Shenzhen,Pendiente
+f8ad967b-3f5a-461d-a884-ac99810572ec,Martinez-Le,Monitor,10.0,2000,2025-05-14,Los Angeles,Pagado
+b8a4bdad-b55e-488b-bbd8-371e0ac86a86,Parker-Jimenez,Laptop,20.0,500,2025-05-21,CDMX,Pagado
+7d1121f4-96aa-472b-8ac7-a331efa8bc54,Bryant-Wilson,Laptop,1.0,1000,2024-12-28,Shenzhen,Pagado
+706eb53e-d1ab-4239-a750-5985c3065cf2,Fletcher LLC,Smartphone,20.0,2000,2025-06-11,Los Angeles,Pendiente
+78f124e0-3237-4a75-943d-018ccb8136da,"Mitchell, Hunter and Rodriguez",Monitor,10.0,1500,2025-01-22,CDMX,Pendiente
+156ce568-b80b-40a7-ab1a-1b8006f4e295,Morse-Marshall,Laptop,20.0,1500,2025-05-13,CDMX,Pendiente
+6981f4ef-760c-4316-9994-8f88d8a5aeec,Rodriguez-Bell,Monitor,20.0,1000,2025-03-20,Hamburgo,Pagado
+b24d91d7-1e90-4368-aec8-f4d4a47fc2bc,Prince-Moses,Monitor,20.0,2000,2025-03-12,Los Angeles,Rechazado
+833e9819-1533-43fc-9d0f-edc6cb51441e,"Campbell, Ochoa and Price",Smartphone,20.0,2000,2025-05-09,Shenzhen,Rechazado
+83183fa2-8423-46f9-97fb-002f5289eb6f,Campos LLC,Smartphone,5.0,1000,2025-03-09,CDMX,Rechazado
+3ef13b7b-36a1-4a82-8a28-ada6eaf1c25e,Macdonald-Brown,Tablet,5.0,2000,2025-03-01,CDMX,Pagado
+09f9caf9-8fbb-4001-8b69-e8b4279aaa0b,Green-Hays,Tablet,1.0,1000,2025-01-28,CDMX,Pendiente
+e385c09d-3c2a-4fec-843b-521a26560409,Parker-Jimenez,Impresora,10.0,2000,2025-02-04,Los Angeles,Rechazado
+30c3641a-7708-4222-a705-38414ad45a69,Alexander-Bowman,Tablet,20.0,1500,2025-06-16,Shenzhen,Rechazado
+0f0507b2-b3d4-4ff1-92b1-c01237579b97,Stout Inc,Impresora,1.0,1500,2025-04-21,Shenzhen,Rechazado
+054a9e0d-877e-45b8-87e4-3f0c2bc6e34d,"Rich, Bradley and Roberts",Laptop,1.0,500,2025-03-22,Shenzhen,Pagado
+e017acca-0432-4f78-ae28-e4bc12ad3876,"Anderson, Benson and Duncan",Smartphone,1.0,1000,2025-04-26,Los Angeles,Pagado
+144d1b3e-f445-43a0-87d1-48fec0e152a3,Jones and Sons,Impresora,20.0,2000,2025-02-18,Shenzhen,Rechazado
+de99b6e9-75b6-4d00-8d81-d5c780ef7ba3,White PLC,Laptop,5.0,1000,2025-02-17,Shenzhen,Pendiente
+e19bef5f-7e73-4f56-b66f-4d96615de989,Gonzalez-Weiss,Laptop,1.0,2000,2025-06-16,CDMX,Pendiente
+634138ea-4dfe-4b06-855b-d0d0fbea7e0e,Prince-Moses,Tablet,20.0,1000,2025-03-07,Los Angeles,Pendiente
+b3e5b8b8-9fca-4c19-ab2d-ee5f11cea252,"Young, Bryant and Rodriguez",Tablet,20.0,2000,2025-05-30,Hamburgo,Pagado
+28b2c377-dd0f-4aa3-a188-604c31c2c351,Tucker-Ball,Tablet,1.0,1500,2025-01-07,Los Angeles,Pendiente
+98c2b24d-802c-4624-ae54-a84797e121d5,"Young, Bryant and Rodriguez",Impresora,5.0,1000,2025-05-16,Hamburgo,Pendiente
+5d59d9ec-de61-48c8-b4a2-f8a122160640,Hogan-Bradley,Impresora,10.0,1000,2025-03-21,CDMX,Pendiente
+d202cc2e-9dde-44dc-8ac1-39f54f91be19,"Harris, Harris and Vasquez",Laptop,5.0,1500,2025-02-07,Monterrey,Pagado
+325a104e-33a0-4071-a40f-e87ee549ea90,"Rich, Bradley and Roberts",Laptop,20.0,2000,2025-01-19,Hamburgo,Rechazado
+f1f30fca-3a36-4610-b23f-12aaa939edd3,Parker-Jimenez,Monitor,10.0,1500,2025-03-15,Los Angeles,Pendiente
+5b219e8a-9825-4645-a932-a4c34eb79afd,Griffith-Rivera,Laptop,10.0,500,2025-01-15,CDMX,Pagado
+df24eb52-981e-411f-a08d-ee0463d437bc,"Campbell, Ochoa and Price",Smartphone,1.0,1500,2025-01-20,Hamburgo,Pendiente
+3b306967-94ef-493d-bbd1-5c5ae9b03a7d,"Young, Bryant and Rodriguez",Tablet,20.0,2000,2025-03-17,Monterrey,Pendiente
+970bda70-2751-44b5-8021-10d87cbab7fe,Holt-Montgomery,Monitor,5.0,500,2025-03-06,CDMX,Rechazado
+60c08a79-f133-4468-adca-d12918db5985,Mercado Group,Laptop,1.0,500,2025-05-04,Monterrey,Pagado
+50519675-e604-4630-b36a-084d45d33fdd,"Mitchell, Hunter and Rodriguez",Impresora,20.0,1500,2025-02-05,Los Angeles,Rechazado
+c6329c34-b95f-4240-81f3-c29955e15187,Rodriguez-Bell,Smartphone,5.0,500,2025-01-17,Los Angeles,Pendiente
+13283447-d45d-4e44-a54e-528c5a72b15d,Jackson and Sons,Laptop,5.0,2000,2024-12-26,Monterrey,Pagado
+5af1356a-b5c2-42ee-adcc-c2a8cf3d2cb2,Campos LLC,Impresora,5.0,1500,2025-05-09,Los Angeles,Pagado
+88f18afb-b317-4804-9eae-d576e6e2e9bf,Fletcher LLC,Laptop,1.0,500,2025-02-15,Shenzhen,Pagado
+f4b10128-0b98-41d1-93a9-ed9d2e8e5de9,Rodriguez-Bell,Monitor,1.0,1000,2025-04-08,Hamburgo,Rechazado
+6365c685-0072-42dc-8382-5c885998b70b,Green-Nelson,Impresora,20.0,2000,2025-03-24,Monterrey,Pagado
+66192137-b6f5-434d-9e8a-7bd0ecdafd8b,Taylor Inc,Laptop,20.0,1000,2025-03-12,Shenzhen,Pagado
+bc9a0c95-4b5b-4611-b990-9d0ba74413ba,Braun-Garcia,Monitor,10.0,2000,2025-04-09,Hamburgo,Pendiente
+fd846f25-5746-465f-b03e-23c820b72ba8,Jackson and Sons,Impresora,5.0,500,2025-03-26,Shenzhen,Rechazado
+4bcde372-7c74-44c1-b3c4-ff06227d5cba,Hogan-Bradley,Smartphone,20.0,1000,2025-03-03,CDMX,Pendiente
+05fe8e8f-24cc-4735-b2c0-38526f94930d,"Ward, Smith and Henry",Laptop,20.0,2000,2025-01-07,CDMX,Pendiente
+1e97e070-3fd2-4726-b78f-b08cb40f94c4,Mercado Group,Monitor,20.0,500,2025-03-25,Los Angeles,Pendiente
+58b76585-43b1-40a6-9fba-058dd7079aef,Green-Nelson,Laptop,5.0,500,2025-04-09,Shenzhen,Pagado
+16e6f703-30b1-4a73-b6d1-5b2828ce13cf,Bryant-Wilson,Smartphone,20.0,500,2025-01-03,Monterrey,Pagado
+c118952f-37ad-4028-8a90-dcf5e1867e9c,Gonzalez PLC,Laptop,5.0,500,2025-01-26,CDMX,Pagado
+6ca71f6e-22bc-4782-8e92-42f09fc20beb,Morse-Marshall,Laptop,5.0,2000,2025-01-13,CDMX,Pagado
+40e034ef-81bc-41f9-9593-0cc58f687b02,Macdonald-Brown,Laptop,20.0,2000,2025-03-20,Monterrey,Pendiente
+86fc4bac-d0ef-4e5f-a498-870749bf34a6,"Rich, Bradley and Roberts",Tablet,1.0,500,2025-04-12,Los Angeles,Rechazado
+cd2d5fb4-d912-494c-b462-06d7a34131bc,Perez and Sons,Impresora,1.0,2000,2025-06-21,Shenzhen,Pendiente
+ab29e9fa-7171-43df-862d-fab8dc413874,Schroeder Inc,Monitor,5.0,1500,2024-12-24,CDMX,Rechazado
+a0e2e1b2-52a3-416e-a5cc-75ca07d8c5a1,"Copeland, Miller and Shaw",Impresora,5.0,1500,2025-04-06,Los Angeles,Rechazado
+ff936c0c-b92a-492a-9414-da22e8c51de5,Jones and Sons,Laptop,20.0,1000,2025-05-23,Los Angeles,Rechazado
+820f8e03-8809-49ff-bc74-cd19af3056a9,Ibarra-Brown,Smartphone,10.0,500,2025-04-08,Shenzhen,Pendiente
+2d09e26b-2369-44b0-92e8-3d30fd5493a3,Morse-Marshall,Impresora,5.0,1500,2025-03-12,Shenzhen,Pendiente
+2ef0c93f-163b-4c49-8b54-899852e81a81,Braun-Garcia,Impresora,20.0,500,2025-04-06,Hamburgo,Pendiente
+7a8671f0-af68-437d-b646-4c25995cf82d,Jones and Sons,Impresora,5.0,1000,2025-04-20,Hamburgo,Rechazado
+3925bed6-4026-4144-91a0-307ae423ea30,Dawson LLC,Smartphone,20.0,500,2025-05-14,CDMX,Pendiente
+74c3a7bf-088d-4e04-b859-202cf0037770,Mercado Group,Impresora,20.0,500,2025-03-28,Monterrey,Rechazado
+38967865-fb9d-43cf-8605-1e1fb7f0f21a,"Ward, Smith and Henry",Smartphone,1.0,1500,2025-06-18,Los Angeles,Rechazado
+cff1ee01-0e33-4bb7-8276-2b4a4cf6d2e9,Prince-Moses,Tablet,5.0,1500,2025-06-16,Monterrey,Pagado
+afd65a2f-960c-42fe-838e-1155659278c2,"Harris, Harris and Vasquez",Smartphone,5.0,500,2025-01-28,Hamburgo,Rechazado
+1ff635fc-c943-437b-b226-07bbe8b34f5d,Jones and Sons,Smartphone,20.0,500,2025-01-18,Shenzhen,Pagado
+9d109a4d-d1b5-438b-9480-c4573eb2545b,Griffith-Rivera,Tablet,5.0,1000,2025-05-14,Los Angeles,Rechazado
+1e5b1655-e0ec-48a5-95d2-df607a6df58a,Dougherty Group,Impresora,5.0,500,2025-02-27,Los Angeles,Pagado
+90ab3f26-20ac-4493-8bad-56e2c1ec8afd,Gonzalez PLC,Smartphone,5.0,1500,2025-05-17,Hamburgo,Pagado
+bee3d052-f425-4bfd-bb91-58fd4b48b308,Dougherty Group,Laptop,5.0,1000,2025-01-20,Monterrey,Rechazado
+1e23985c-f49e-4719-aa4c-8be71c5857e4,"Campbell, Ochoa and Price",Tablet,10.0,1000,2025-02-17,Los Angeles,Rechazado
+52f00409-c24e-45ef-9684-57134e396221,Green-Nelson,Tablet,10.0,500,2025-03-08,Los Angeles,Rechazado
+0140c5c5-e7d3-4d8d-b476-4de5370f4cb3,Griffith-Rivera,Tablet,5.0,500,2025-03-29,Shenzhen,Rechazado
+aa4b11ba-fdd8-4025-b752-bf28fd01a2bf,Tucker-Ball,Laptop,1.0,2000,2025-03-11,Shenzhen,Pendiente
+9bce377a-4457-4384-861b-9d7dcb671215,Johnston-Gonzalez,Impresora,5.0,500,2025-02-15,CDMX,Pendiente
+b919b2d3-8a8d-4c76-84b4-bec3761a8352,Schroeder Inc,Monitor,20.0,1500,2025-06-16,CDMX,Pendiente
+acc0e6f1-c41c-4fc9-879f-90d1bb3dc143,Fletcher LLC,Monitor,20.0,1000,2025-05-20,Hamburgo,Pendiente
+cba28c6e-9d5b-423d-b993-da54954066da,Schroeder Inc,Tablet,5.0,2000,2025-04-25,Monterrey,Pendiente
+18281721-bd24-450c-be06-526d76f717db,"Taylor, Wright and Horn",Monitor,20.0,1500,2025-05-04,Shenzhen,Pendiente
+f12ccfd1-ed47-4818-9f42-4c28553969e0,Huffman-Hobbs,Laptop,20.0,1500,2025-01-05,CDMX,Pagado
+13da3397-8640-42d7-8fa8-0faed5b9ef5c,Fletcher LLC,Smartphone,10.0,1000,2025-03-08,Los Angeles,Pendiente
+337dace6-b946-408e-9e35-50e488bfadea,Mercado Group,Laptop,1.0,1000,2025-01-26,Shenzhen,Rechazado
+f08ca026-4927-4f5d-b8fb-050546fb891d,Parker-Jimenez,Laptop,1.0,500,2025-01-31,Los Angeles,Pagado
+e11f53a5-5ee3-4a50-b44e-cdb52f36d712,Braun-Garcia,Smartphone,10.0,2000,2025-01-08,Los Angeles,Rechazado
+d33bee4d-6ce6-4b7b-b2f5-e11566d1b4a0,Schroeder Inc,Tablet,20.0,1500,2025-05-05,Shenzhen,Pendiente
+e97e23b5-08e8-4879-96ef-895ad5fa9bbd,Parker-Jimenez,Tablet,20.0,1500,2025-05-21,Shenzhen,Rechazado
+8c75ed5a-6d4a-457f-aa36-69c29c9d3341,Young LLC,Smartphone,1.0,1000,2025-06-12,Monterrey,Rechazado
+a52294ca-0e72-4347-a6a1-b2842abd1f6c,Jackson and Sons,Laptop,20.0,1000,2025-04-26,Los Angeles,Rechazado
+a88a32ac-e19c-40da-a960-a8b3992fb731,Jackson and Sons,Impresora,1.0,1500,2025-04-07,Shenzhen,Rechazado
+4dfbd147-27da-41ac-839d-1f0eef311a0f,Alexander-Bowman,Smartphone,20.0,2000,2025-05-05,Monterrey,Pendiente
+c946c7d0-aa85-4342-bc96-a3438f276890,"Taylor, Wright and Horn",Smartphone,10.0,1000,2025-03-02,Shenzhen,Pagado
+54262939-b663-47e0-96aa-08c109a335d6,Patel LLC,Monitor,20.0,1000,2025-02-04,Hamburgo,Pagado
+b17ac999-5aa6-48d7-8f5c-658e272bc0fd,Tucker-Ball,Monitor,10.0,1500,2025-01-14,Monterrey,Pendiente
+016be678-0103-4c75-8eeb-90e2a4ee7ee6,Alexander-Bowman,Tablet,20.0,2000,2025-04-21,Hamburgo,Pagado
+806337d7-6ff5-4e4f-953f-bedcba784331,"Mitchell, Hunter and Rodriguez",Monitor,5.0,2000,2025-02-12,Hamburgo,Rechazado
+15616559-7ca8-456b-b04f-bb2966141323,Green-Hays,Impresora,1.0,2000,2025-03-06,CDMX,Pendiente
+909b4ba9-554f-4624-8c23-a1ed52ae9156,White PLC,Smartphone,10.0,2000,2025-01-15,Los Angeles,Pendiente
+a03a9353-3291-45b4-9bbb-191c462bca7f,Green-Hays,Monitor,10.0,500,2025-04-26,Los Angeles,Pendiente
+1764cc1e-3f17-46d0-bbf3-68b3b72176bf,Green-Nelson,Impresora,5.0,2000,2025-02-05,Los Angeles,Pagado
+2e9047fe-8484-4866-8d6b-dba788fd53c3,Green-Hays,Impresora,5.0,500,2025-03-25,Hamburgo,Rechazado
+afd59378-092e-4836-b0ea-a3db1571e31d,Taylor Inc,Monitor,5.0,1000,2025-02-25,CDMX,Pagado
+9faa1694-94c6-4685-a22c-ddb7ef10504b,Alexander-Bowman,Smartphone,5.0,2000,2025-04-23,Los Angeles,Pendiente
+d0c531e0-f553-48de-8116-1e5b05d1439e,Rodriguez-Bell,Impresora,1.0,500,2025-06-11,Hamburgo,Rechazado
+609227e3-4280-4393-8cc2-cc6981268173,Ibarra-Brown,Tablet,1.0,2000,2025-02-13,Hamburgo,Pendiente
+610b4f06-e8e3-49db-9a4b-c5c9af4f0617,Tucker-Ball,Laptop,20.0,500,2025-06-17,Hamburgo,Pagado
+41fd2c25-6c5a-42f6-89b4-9724452c0b66,Macdonald-Brown,Tablet,1.0,2000,2025-05-26,Los Angeles,Pagado
+e32ec098-6354-4c05-bc11-a655b0a3da6c,Dawson LLC,Tablet,1.0,1000,2025-02-22,Shenzhen,Pendiente
+0e7bd4c5-7a90-4261-942d-b89abc433213,"Campbell, Ochoa and Price",Smartphone,10.0,2000,2025-06-17,Shenzhen,Rechazado
+da6d3b68-1347-4361-9787-2076d9de74e4,Wilkins Inc,Monitor,20.0,1000,2025-02-23,Monterrey,Pagado
+9c149194-f599-4dff-b2fa-c3189afe433a,Holt-Montgomery,Impresora,1.0,2000,2025-02-18,Shenzhen,Pagado
+da5e83cc-a3c5-4c14-a3d5-233263f1bb64,Campos LLC,Impresora,5.0,2000,2024-12-26,Monterrey,Pagado
+f8930323-0812-44a5-bcb0-618e065562f4,Schroeder Inc,Smartphone,1.0,1500,2025-02-16,Hamburgo,Rechazado
+d39372b8-a6f0-4c60-af9e-51bb614231fc,Parker-Jimenez,Monitor,10.0,500,2024-12-29,Hamburgo,Pendiente
+839fc1f5-b6cb-4516-8151-846b3b71425e,"Copeland, Miller and Shaw",Smartphone,1.0,1500,2025-04-29,Hamburgo,Pagado
+7a0fdea9-1ba8-480f-a2d4-c759f1a67816,Jackson and Sons,Laptop,5.0,2000,2025-02-27,CDMX,Pagado
+852c69be-1d3d-4c8a-a325-716bfaabf5ea,Johnston-Gonzalez,Smartphone,10.0,1000,2025-03-21,Hamburgo,Pagado
+cec3390d-8131-4ff9-8725-5ec5fe2989b2,Pierce and Sons,Laptop,10.0,1000,2025-03-13,Monterrey,Pagado
+ffca9e6c-8842-4051-802b-035dcfcebb64,Gonzalez PLC,Monitor,20.0,1000,2025-03-28,Hamburgo,Rechazado
+0a1d2e53-5ea4-4284-8834-84af322656f2,Wilkins Inc,Monitor,5.0,2000,2025-01-04,Shenzhen,Pendiente
+425cb80c-48a7-4774-a961-c7880d984246,"Rich, Bradley and Roberts",Laptop,20.0,1000,2025-04-14,Hamburgo,Pendiente
+0f2264ca-f81a-493e-8009-0073489f20a7,Martinez-Le,Impresora,20.0,500,2025-04-01,Hamburgo,Pendiente
+3b74ee73-79a0-4a85-b44e-d0e247eecf80,Holt-Montgomery,Laptop,1.0,2000,2025-06-21,Los Angeles,Pagado
+0b05ff55-252c-4659-97db-598f6eaee826,Bryant-Wilson,Impresora,1.0,2000,2025-03-26,Los Angeles,Pendiente
+510c2ab9-1255-406b-9636-4bb600502929,Morse-Marshall,Smartphone,1.0,2000,2025-02-07,Shenzhen,Pendiente
+fc3217fb-cef1-4079-ac65-349dc29892c7,Jackson and Sons,Laptop,5.0,1500,2024-12-25,Monterrey,Rechazado
+5fea449f-ae94-455a-948d-9128b86f9149,Mercado Group,Laptop,10.0,1500,2025-04-13,Los Angeles,Pendiente
+93da7514-5068-4355-853f-fcfab3845e53,Tucker-Ball,Monitor,10.0,1000,2025-05-10,Hamburgo,Pagado
+027042eb-1b65-4db9-b796-b8e3993430e1,"Anderson, Benson and Duncan",Impresora,5.0,1500,2025-01-14,Shenzhen,Pagado
+28f65768-0aa6-49d2-9614-7529cd9fd7d1,"Lewis, Cole and Salazar",Laptop,20.0,2000,2025-03-17,Monterrey,Pendiente
+ffefa18d-b53d-4ad7-ac2a-397bb93391f8,Hogan-Bradley,Laptop,5.0,1000,2025-01-26,Shenzhen,Pagado
+d842f5d1-2466-4587-9b3f-8fab8f06faec,"Taylor, Wright and Horn",Monitor,10.0,2000,2025-05-25,Los Angeles,Pendiente
+930b1425-af18-4ac5-a962-688ba619e7a3,"Bentley, Sullivan and Keller",Laptop,5.0,1000,2025-01-22,Los Angeles,Pendiente
+3c2fa450-63a0-4c4c-ac82-cff0b674ed3a,Taylor Inc,Impresora,10.0,2000,2025-03-17,Shenzhen,Pendiente
+48ba9f81-5f6a-4e34-bc89-696a747975aa,"Ward, Smith and Henry",Tablet,10.0,500,2025-01-23,Shenzhen,Pendiente
+9fc5036a-7efd-4339-8c0f-dc568d340e06,"Lewis, Cole and Salazar",Monitor,1.0,500,2025-03-08,Los Angeles,Rechazado
+24f2334f-692f-4423-9a5f-00bdbee1d08e,Stout Inc,Laptop,10.0,500,2025-06-12,CDMX,Rechazado
+e176302a-290e-457a-8500-ae2d3d476598,Bryant-Wilson,Smartphone,5.0,500,2025-04-22,Hamburgo,Rechazado
+224c3b72-a230-47d1-a2b0-6d70a1f97782,Fletcher LLC,Impresora,1.0,1000,2025-06-18,Hamburgo,Pendiente
+7025bf14-ddff-4525-89b4-e760df31a5d0,"Anderson, Benson and Duncan",Impresora,10.0,1000,2025-05-11,Shenzhen,Rechazado
+acd316ce-7d1d-4b97-bdfd-cf9e1ce1147d,Prince-Moses,Monitor,1.0,500,2025-06-09,CDMX,Rechazado
+36b68cfb-9b65-48b2-ba62-87708f61d74c,Johnston-Gonzalez,Impresora,1.0,500,2025-04-23,Monterrey,Pendiente
+d655f690-21a8-49a2-a770-4f3d1ab3d98d,Green-Nelson,Impresora,10.0,1500,2025-01-28,Monterrey,Pagado
+a538014a-163f-4f17-8f35-080e8552e2e6,Prince-Moses,Impresora,5.0,1000,2025-01-04,Monterrey,Pagado
+3b0d2739-6ec4-440e-94a8-16bb394446ca,"Hernandez, Lane and Lewis",Impresora,10.0,1000,2025-04-30,Monterrey,Pendiente
+c7058e4d-f7c9-479d-864d-e9d9566744de,Gonzalez PLC,Smartphone,10.0,500,2025-03-30,Hamburgo,Rechazado
+47443449-4486-4028-beda-bf3365680272,Schroeder Inc,Tablet,1.0,500,2025-06-03,Hamburgo,Pendiente
+1a984542-5230-4fc2-b385-a361530b135d,Fletcher LLC,Impresora,1.0,2000,2025-04-19,Monterrey,Rechazado
+4b7991cb-5b66-4c42-82cc-2e8f10a7f24a,Fletcher LLC,Smartphone,10.0,2000,2025-04-30,Los Angeles,Pendiente
+b0343fdb-3097-4ca8-bf15-cb77b822d797,"Young, Bryant and Rodriguez",Impresora,1.0,500,2025-02-26,CDMX,Pagado
+86d57b64-4523-402b-9ae6-cf293b373aa8,Martinez-Le,Laptop,10.0,1000,2025-03-25,CDMX,Pendiente
+14e2af72-7394-4e06-9391-26ed8f228cc4,Patel LLC,Tablet,5.0,1500,2025-06-23,CDMX,Pagado
+ff87478e-d5b8-421a-8a89-5f46caa014c6,Campos LLC,Laptop,20.0,500,2025-04-11,Monterrey,Rechazado
+3934a1b4-9a8f-475a-9fc5-3f7e1c8a2350,Mercado Group,Smartphone,20.0,1500,2025-06-05,CDMX,Rechazado
+7d029092-782e-439d-807b-06e21aaacfb2,Braun-Garcia,Impresora,5.0,2000,2025-06-02,Monterrey,Pagado
+a549686c-364e-41fe-a9e2-a6a2828dfdee,Green-Nelson,Impresora,20.0,2000,2025-06-14,Los Angeles,Pagado
+e3dfe9b4-fb90-425e-9d9c-852f3c77cdf3,Green-Hays,Tablet,10.0,1000,2024-12-23,Monterrey,Pagado
+68215eb1-c24c-4df9-b11e-9a51fd2240b8,"Rich, Bradley and Roberts",Tablet,1.0,500,2025-03-17,CDMX,Pendiente
+8a3af4d8-c32d-4ab2-9525-fb5b1d63f25f,Buck-Mcgee,Laptop,5.0,500,2025-05-22,Los Angeles,Pendiente
+f8c9a559-3029-4583-aac5-3d28492c5b4b,Jones and Sons,Monitor,10.0,2000,2025-03-02,Shenzhen,Pagado
+7dca338a-ac60-44dc-84d8-1cc6d1a987aa,"Ward, Smith and Henry",Impresora,10.0,500,2025-01-20,Hamburgo,Rechazado
+473ab5cc-4205-4c9d-b13d-b8aa92fb1757,"Young, Bryant and Rodriguez",Laptop,20.0,1500,2025-01-05,CDMX,Rechazado
+d8ef8970-3cc5-4155-b181-9164e6f19c18,Gonzalez-Weiss,Monitor,10.0,500,2025-05-06,CDMX,Pagado
+c53015df-d56d-4ef5-8038-2c79cf1139bd,Morse-Marshall,Tablet,10.0,1500,2025-04-07,Los Angeles,Rechazado
+fe3bf162-b102-45d6-b74c-5f53be122058,"Harris, Harris and Vasquez",Tablet,5.0,2000,2025-05-05,Los Angeles,Pagado
+8de36208-0dae-4f40-b113-54b250e3e365,Parker-Jimenez,Laptop,20.0,1500,2025-01-13,Los Angeles,Pendiente
+5f7b8db8-7d66-48be-aecb-9cf71c87608f,"Hernandez, Lane and Lewis",Impresora,10.0,1000,2025-03-18,Monterrey,Pendiente
+b2fe666e-6c19-4cc9-8576-d52fe49d4308,Green-Nelson,Laptop,20.0,500,2024-12-27,CDMX,Pendiente
+bc50bf2c-a939-4468-a236-1d82bb12f7fe,Fletcher LLC,Laptop,20.0,1500,2025-05-15,Shenzhen,Pagado
+479ae9e6-935c-4973-9cd3-3c34035ea608,Tucker-Ball,Impresora,10.0,500,2025-03-20,Los Angeles,Pagado
+89fdf242-6bb6-484b-b284-f6f022def68b,Martinez-Le,Impresora,5.0,1500,2025-02-15,Hamburgo,Pagado
+a4592dc3-6e3e-477a-b7f8-348aff1cc4fa,"Lewis, Cole and Salazar",Tablet,1.0,2000,2025-01-01,Los Angeles,Rechazado
+f8a5cca7-65fe-4e4e-9bc5-7db96fb80d96,"Hernandez, Lane and Lewis",Tablet,10.0,500,2025-04-22,CDMX,Pendiente
+84fd29d3-e109-478c-953c-9f2020ea871a,Fletcher LLC,Impresora,10.0,1000,2025-06-21,Shenzhen,Rechazado
+de7a0b0b-c2e5-4ac7-bd5b-e5d67a5a5993,Green-Hays,Monitor,10.0,1500,2025-06-08,Shenzhen,Rechazado
+53a9f5f1-01ba-49a1-8822-11a10252fcdc,Campos LLC,Laptop,10.0,2000,2025-01-01,Monterrey,Pendiente
+26d7b167-077e-4cdd-84da-72e8c807ec8d,Tucker-Ball,Impresora,10.0,500,2025-01-17,Shenzhen,Rechazado
+75948566-5e32-44d6-aeb6-83321ff6ad3a,Hogan-Bradley,Impresora,5.0,2000,2025-03-12,Los Angeles,Rechazado
+bb00b319-cf1a-4b2a-8796-ead35e8f74c8,"Anderson, Benson and Duncan",Laptop,10.0,1000,2025-03-05,Shenzhen,Pagado
+71b8d27b-b842-48b8-8e44-36982915ab15,Pierce and Sons,Tablet,1.0,500,2024-12-28,Hamburgo,Rechazado
+302b0c0b-1845-4514-9e8a-7a5e40b88ef1,"Mitchell, Hunter and Rodriguez",Impresora,20.0,1500,2025-04-26,Monterrey,Pendiente
+dd309043-416f-4440-90aa-94af18b2bae7,"Harris, Harris and Vasquez",Tablet,10.0,1000,2025-01-28,Shenzhen,Pendiente
+68378af8-f865-437d-be9d-370acfae3a0b,Alexander-Bowman,Laptop,10.0,500,2025-04-19,Hamburgo,Pendiente
+61990798-c5b3-4986-b1d1-c9bc74604409,Gonzalez-Weiss,Impresora,20.0,1500,2025-02-07,Hamburgo,Rechazado
+0d37baae-89c2-4eac-a902-e1c10d749604,"Ward, Smith and Henry",Impresora,1.0,2000,2025-01-03,Monterrey,Rechazado
+4e022fd1-34ed-4291-89b9-848051ccd155,Prince-Moses,Laptop,20.0,1000,2025-03-24,Los Angeles,Rechazado
+178e7816-bc22-4ded-be56-5e257ace8688,Griffith-Rivera,Laptop,10.0,2000,2025-05-12,Hamburgo,Pagado
+bc301d1a-5eed-4087-aa2e-b51a5562c526,"Taylor, Wright and Horn",Monitor,20.0,1500,2025-01-05,Shenzhen,Pendiente
+90c9629b-bbeb-4838-afb0-942d5b54315e,Perez and Sons,Laptop,10.0,1500,2025-06-14,Monterrey,Rechazado
+ff6cb806-8ff3-4009-a2a3-ac9acbfdb6d3,Lopez-Butler,Impresora,1.0,2000,2025-03-07,Shenzhen,Rechazado
+ac421392-ca4c-4eb9-88dd-394592f449d9,Macdonald-Brown,Tablet,20.0,2000,2025-02-20,Los Angeles,Pendiente
+c8016f0f-90e9-4214-93a6-09e8247e0dc5,Prince-Moses,Monitor,1.0,500,2025-06-01,Shenzhen,Pagado
+e1a3da44-cfd4-4157-850f-e6711c26a459,"Young, Bryant and Rodriguez",Tablet,1.0,1500,2025-02-15,Los Angeles,Pendiente
+e3945035-b9fc-4a36-bced-290abf887a8b,"Lewis, Cole and Salazar",Impresora,5.0,500,2025-04-05,Shenzhen,Pagado
+e3c92d5f-55cf-48c0-a3ff-627de6948bf9,Green-Nelson,Laptop,20.0,500,2025-04-04,Los Angeles,Pendiente
+1af19259-1e2b-4bea-80db-183389a8f422,Parker-Jimenez,Monitor,20.0,1000,2025-04-03,Shenzhen,Rechazado
+8baa2472-ad2b-429a-b6e3-93af46067fb6,Stout Inc,Monitor,5.0,2000,2025-03-03,Los Angeles,Pendiente
+dab0ff03-7052-460f-91aa-9beec01175b7,Fletcher LLC,Tablet,10.0,1000,2025-01-19,Los Angeles,Rechazado
+84c9d25e-0c23-4d42-89cf-c5ed45add1bc,Campos LLC,Smartphone,20.0,1000,2025-02-22,Hamburgo,Pagado
+a4cb3fbb-aac0-4eef-a47b-90b0cab09b47,Macdonald-Brown,Monitor,1.0,500,2025-03-04,Shenzhen,Rechazado
+3a0c5831-dada-4de7-b242-a0f6b9a11b04,White PLC,Smartphone,5.0,2000,2025-04-08,Monterrey,Rechazado
+4afe1529-73de-4944-af68-13d77a63c74b,Jackson and Sons,Laptop,10.0,1500,2025-03-24,CDMX,Pagado
+8b71cedd-49d0-4ac9-b784-47562a745f8f,Jones and Sons,Tablet,10.0,500,2025-01-02,CDMX,Pendiente
+3a726f45-7b39-41e9-ae51-5e17fdce4ab5,Hogan-Bradley,Tablet,20.0,2000,2025-06-23,Los Angeles,Rechazado
+d5b8a3fc-eb33-458f-ba29-21994c6fe1f1,Perez and Sons,Tablet,5.0,1500,2025-03-08,Los Angeles,Pagado
+4f972a25-d366-4881-9e3f-f5fad0ed6fc2,Dougherty Group,Laptop,10.0,1500,2025-05-02,Los Angeles,Pendiente
+5abd533e-35b7-4fa9-ac7e-1997440c8e1a,Taylor Inc,Laptop,1.0,1000,2025-01-16,Shenzhen,Rechazado
+96354231-3f65-4143-8d92-bcd8508584e1,"Anderson, Benson and Duncan",Impresora,5.0,500,2025-06-17,Hamburgo,Pagado
+30958c6f-cfe9-4fb1-8593-220d9a5988ac,"Bentley, Sullivan and Keller",Tablet,10.0,500,2025-04-28,Hamburgo,Rechazado
+025dac1d-0f89-42e3-8380-8f068254501a,Dawson LLC,Monitor,1.0,1000,2025-05-31,Hamburgo,Pagado
+a5452660-55d2-4187-a519-b536c47a610a,Green-Nelson,Smartphone,1.0,2000,2025-04-23,Shenzhen,Pagado
+6d101e87-92b1-4ac1-a420-a67fe92f3d12,Griffith-Rivera,Monitor,10.0,1000,2025-06-04,CDMX,Rechazado
+cb99c7bf-d476-47b8-9e04-ffa92125dc72,Gonzalez PLC,Laptop,5.0,500,2025-01-29,Hamburgo,Pagado
+67275d3b-19b0-4016-96cd-179215f67906,"Copeland, Miller and Shaw",Tablet,5.0,2000,2025-03-20,CDMX,Rechazado
+744482f9-ca4b-421f-b28d-c9454e49ad99,Johnston-Gonzalez,Smartphone,20.0,1500,2025-01-09,Shenzhen,Pendiente
+1d49ea28-8ea6-4355-82ab-6dfe0ae40e65,"Hernandez, Lane and Lewis",Smartphone,1.0,500,2025-03-10,CDMX,Rechazado
+2bb316ea-19f2-4928-90d2-b727a17217e5,"Bentley, Sullivan and Keller",Laptop,20.0,1000,2025-06-01,Los Angeles,Pagado
+6851dc58-b505-4d53-a282-8bbd602232e7,Morse-Marshall,Impresora,5.0,2000,2025-02-19,Shenzhen,Pendiente
+3ba42a2b-263a-48d0-9c37-0496550e3dfe,"Lewis, Cole and Salazar",Laptop,20.0,1000,2025-01-04,Monterrey,Pendiente
+3da297e0-7acd-43f3-bc96-14ec83beb77c,Alexander-Bowman,Monitor,1.0,500,2025-01-23,CDMX,Rechazado
+600fd655-5ce6-4d93-bc34-49ff39e7e5cc,Mercado Group,Tablet,1.0,1500,2025-04-04,Hamburgo,Pendiente
+d9a5005f-45cf-450a-98f5-cabb2b436731,Fletcher LLC,Monitor,10.0,500,2025-03-24,Monterrey,Pagado
+ea36be96-4335-42c0-8745-c05a182c33ef,Gonzalez-Weiss,Laptop,20.0,1500,2024-12-30,Shenzhen,Pagado
+e30033ed-3db0-4972-a76c-2d819d9e8a09,Parker-Jimenez,Tablet,10.0,2000,2025-01-27,Los Angeles,Pendiente
+38e34e28-0bbe-4424-b266-36cec0b1258b,Stout Inc,Smartphone,1.0,2000,2025-04-03,CDMX,Rechazado
+67acb121-ae29-43ce-966a-6fe4bf473c0e,Green-Nelson,Impresora,5.0,1000,2024-12-28,Los Angeles,Rechazado
+32d63773-e887-4cb5-aa5a-1cab2ea55316,"Lewis, Cole and Salazar",Smartphone,5.0,1500,2025-04-11,Los Angeles,Pagado
+1824376d-aac4-4b43-862b-69b5805e2263,"Harris, Harris and Vasquez",Monitor,10.0,1000,2025-04-21,Hamburgo,Rechazado
+25af2227-d48d-43d6-b05e-46d4903bfe93,Perez and Sons,Smartphone,20.0,2000,2025-04-12,Hamburgo,Pagado
+966a0aab-d91f-475c-b04a-ae38509dd61d,Dougherty Group,Monitor,1.0,1000,2025-04-06,Los Angeles,Pendiente
+7f9c372b-857f-40db-ba7b-6fdfa5d5037f,Holt-Montgomery,Monitor,1.0,1000,2025-04-02,CDMX,Rechazado
+a59ed3be-9d45-492a-94b7-95d9359ccefa,Mercado Group,Smartphone,10.0,2000,2025-01-08,Los Angeles,Pendiente
+0f73fddd-4150-42f4-81c0-2bf9d7cae560,Schroeder Inc,Smartphone,1.0,1000,2025-03-30,Shenzhen,Rechazado
+42618ab3-decc-4c7c-9644-6eb6701ac269,"Anderson, Benson and Duncan",Smartphone,10.0,500,2025-06-22,CDMX,Rechazado
+618a009f-4077-4b56-b552-8204f99b5f82,Campos LLC,Monitor,5.0,1500,2025-06-16,CDMX,Pendiente
+a2eba35a-6be1-45bd-a989-4761b7a59b52,Buck-Mcgee,Smartphone,5.0,500,2024-12-27,Los Angeles,Rechazado
+c007f45e-184d-462d-acef-2e715e3b32bc,Holt-Montgomery,Impresora,20.0,2000,2025-04-26,Hamburgo,Rechazado
+6babfaab-55d8-45b6-b2e6-1ac704fec25a,"Rich, Bradley and Roberts",Impresora,5.0,1000,2025-06-01,CDMX,Pendiente
+749bcd5d-dd02-4760-8bd1-08504ddff3ab,Huffman-Hobbs,Laptop,1.0,1000,2025-02-11,Shenzhen,Rechazado
+16382b8d-bf99-4905-aeb4-72d075ced5e5,Hogan-Bradley,Impresora,20.0,1500,2024-12-28,CDMX,Rechazado
+f7f66c40-6c48-4e8d-b1e7-ebbf299236d8,Taylor Inc,Monitor,20.0,2000,2025-01-27,CDMX,Pendiente
+43d0f0c5-4017-4fa2-8de7-22616a79ea6c,Jackson and Sons,Smartphone,10.0,2000,2025-01-12,CDMX,Pagado
+ddd1e97e-befd-4c63-bdd9-da895afc111d,White PLC,Impresora,5.0,500,2025-03-02,CDMX,Rechazado
+c161c510-5db1-4765-9ae5-2bb3a6b75a23,Gonzalez-Weiss,Monitor,20.0,2000,2025-02-08,Hamburgo,Pendiente
+964b14ab-a91a-4830-a553-39704973fafb,White PLC,Smartphone,1.0,500,2024-12-24,Los Angeles,Pagado
+ef5c9300-6f86-4ee3-83dc-68990f9ac1bc,Fletcher LLC,Impresora,5.0,1000,2025-04-13,CDMX,Rechazado
+1031c731-3cb1-4bea-adcb-1b2ba70cf9b1,Schroeder Inc,Smartphone,20.0,1000,2025-05-09,CDMX,Rechazado
+408b01ef-adee-4b80-bb13-5bbf38f17956,Buck-Mcgee,Smartphone,1.0,1000,2025-03-25,Los Angeles,Pendiente
+c1a8614b-490c-4ffc-93bf-ad3b074148c4,"Campbell, Ochoa and Price",Smartphone,20.0,2000,2025-04-30,Shenzhen,Pagado
+afbbd2bc-d1ab-4e81-a484-879f783f2ee0,Schroeder Inc,Impresora,1.0,2000,2025-06-09,Shenzhen,Pendiente
+02c7c010-0570-40a9-b3eb-dd03ed780de1,Johnston-Gonzalez,Laptop,5.0,2000,2025-06-06,Hamburgo,Pagado
+4de43dbc-342b-46a2-8f26-a393273aa8ec,Huffman-Hobbs,Tablet,1.0,2000,2025-04-16,Shenzhen,Pendiente
+09381801-c919-4222-9768-cb60e24f0add,White PLC,Laptop,20.0,1000,2025-01-04,Shenzhen,Pendiente
+0f2cf9ff-e598-4994-808e-f5dea36490bc,Tucker-Ball,Smartphone,20.0,500,2025-04-05,CDMX,Rechazado
+4990aafb-483f-4518-9419-4352dd0a5956,Fletcher LLC,Laptop,10.0,1000,2025-05-02,Los Angeles,Pendiente
+892975ae-5820-4717-a302-7142ce168216,Tucker-Ball,Impresora,5.0,1000,2025-06-22,Hamburgo,Rechazado
+54c72c26-cbdf-402b-b681-28419c910023,Huffman-Hobbs,Tablet,1.0,500,2025-06-13,CDMX,Pagado
+9c85073f-7ef9-427a-9dc2-e7c97937d824,Johnston-Gonzalez,Laptop,10.0,1000,2025-05-26,CDMX,Pendiente
+fb453e84-d96d-4cdb-bb4e-d7f95ca481e9,Green-Nelson,Laptop,20.0,1000,2025-02-07,Shenzhen,Pagado
+08998562-a798-4116-871c-0969e43f5d54,Ibarra-Brown,Impresora,5.0,2000,2025-03-02,CDMX,Rechazado
+b86e4b03-d4ef-446d-885a-9b710fe0f7ef,"Young, Bryant and Rodriguez",Laptop,10.0,2000,2025-02-06,CDMX,Rechazado
+26d01688-66b8-4650-a698-55c21714d3f4,"Lewis, Cole and Salazar",Monitor,20.0,500,2025-05-03,Shenzhen,Rechazado
+0c97a98f-c661-445e-b485-af9e8afbd19d,Huffman-Hobbs,Tablet,1.0,2000,2025-06-04,CDMX,Pendiente
+0bc2f812-7a59-4237-b180-86427936e95a,Buck-Mcgee,Impresora,10.0,1500,2025-04-05,Shenzhen,Rechazado
+7c3ef945-3a3f-4251-808e-6130f395b733,Taylor Inc,Smartphone,10.0,1500,2025-05-16,Los Angeles,Pagado
+420e4b3b-271c-4381-b4c1-9f0061d6f580,Green-Nelson,Laptop,10.0,1500,2025-01-02,Shenzhen,Pendiente
+b09ef10f-d1e2-4b96-99fe-d05ee0110ff5,"Copeland, Miller and Shaw",Laptop,20.0,1500,2025-01-25,CDMX,Pagado
+bd63b228-e49c-420e-85b2-592bce813aae,Martinez-Le,Smartphone,1.0,500,2025-06-17,Los Angeles,Pagado
+e67efac2-519a-483c-b5d9-17be4128a496,Morse-Marshall,Tablet,5.0,500,2025-04-08,CDMX,Pagado
+201b4761-53d0-4111-ba1e-a1a49c3ca5f7,Johnston-Gonzalez,Smartphone,10.0,500,2025-03-18,Monterrey,Pendiente
+af39b4d7-e50f-48f8-91b4-52dc78d096f2,"Lewis, Cole and Salazar",Laptop,1.0,1500,2025-03-05,Los Angeles,Rechazado
+862033e9-d9b0-479e-94c0-127cb0cebc38,Holt-Montgomery,Impresora,1.0,500,2025-04-15,Hamburgo,Pendiente
+8b933500-4b58-4a2c-abb6-3b7fb1cb8260,Lopez-Butler,Tablet,10.0,500,2025-05-21,Shenzhen,Rechazado
+55097bc5-ef1d-4c15-878c-f8a0ba52f5c9,Alexander-Bowman,Monitor,5.0,500,2025-02-06,Shenzhen,Pagado
+528597b6-7946-44ed-98d5-ca6589558722,Rodriguez-Bell,Smartphone,1.0,1000,2025-06-07,Los Angeles,Rechazado
+788d7bfa-335a-4f7a-8152-d66f83dd6873,"Bentley, Sullivan and Keller",Smartphone,10.0,500,2025-02-21,Los Angeles,Rechazado
+e9f21c06-6f63-430e-bde3-9e598015b287,Macdonald-Brown,Smartphone,5.0,2000,2025-04-08,Los Angeles,Pagado
+0588cbea-d161-4b5e-9c48-9c5f223580fb,"Young, Bryant and Rodriguez",Tablet,10.0,1500,2025-02-03,Shenzhen,Rechazado
+0764fc4d-a392-4554-8d72-fe443c77b077,"Campbell, Ochoa and Price",Monitor,10.0,2000,2025-06-05,CDMX,Rechazado
+cee0137c-1c8b-493d-8ad8-7d653cd39de2,"Mitchell, Hunter and Rodriguez",Tablet,5.0,1500,2025-04-25,Monterrey,Pendiente
+6037b658-0be7-41ac-8421-84fdaa90e7a2,Holt-Montgomery,Tablet,10.0,1500,2025-06-20,CDMX,Rechazado
+b0840d12-9b6c-4699-acd3-2e3ea327a765,"Mitchell, Hunter and Rodriguez",Tablet,20.0,1000,2025-02-19,Monterrey,Rechazado
+4ca7d8f4-5fb0-4a5c-a68b-b842a597e960,Gonzalez PLC,Impresora,20.0,2000,2025-05-26,Shenzhen,Rechazado
+bba36fa8-2e16-47e9-9742-10c453e3cd34,"Young, Bryant and Rodriguez",Smartphone,20.0,1000,2025-05-10,Los Angeles,Pendiente
+bda23ff9-143c-4c1a-88a4-f6d103641ed2,Bryant-Wilson,Laptop,1.0,1000,2025-01-06,Los Angeles,Pendiente
+234e93a4-e6fb-445d-8f79-2c1121e371e2,"Harris, Harris and Vasquez",Tablet,5.0,1500,2025-06-14,Monterrey,Pendiente
+7a9e6e6c-7f3a-4126-aa3e-0eeeed35334a,Tucker-Ball,Laptop,1.0,1500,2025-01-26,CDMX,Pagado
+b3c4d828-4eb4-4745-9599-199d77ef9449,Lopez-Butler,Laptop,5.0,1500,2025-04-01,CDMX,Rechazado
+3d094643-035f-4838-9a3e-d4c021685db0,Huffman-Hobbs,Tablet,5.0,1500,2024-12-25,Monterrey,Pendiente
+5e6ffae5-4ca9-4894-9465-06c0026b6fea,Mercado Group,Laptop,20.0,500,2025-03-02,CDMX,Pendiente
+d0a7152f-6be2-4c27-b11f-aaa4304e4880,"Anderson, Benson and Duncan",Laptop,5.0,1000,2025-05-28,CDMX,Pendiente
+f8b457c9-9363-4e6a-8a85-76e1ddce9e20,"Young, Bryant and Rodriguez",Monitor,5.0,1500,2025-05-16,Monterrey,Pendiente
+f7c2fac4-e6c7-4ece-8483-f14f1c2d4423,Prince-Moses,Monitor,10.0,500,2025-01-02,Monterrey,Pendiente
+73e49921-b169-479d-8751-513942398f75,Dougherty Group,Smartphone,10.0,500,2025-03-27,Hamburgo,Pendiente
+0a4b2ba8-54b7-48a6-a0d3-4cc8a6427db5,Wilkins Inc,Monitor,20.0,1500,2024-12-26,Shenzhen,Pendiente
+a861fbb0-0ab8-4ea5-bf19-6e539373b1b3,Tucker-Ball,Tablet,1.0,1000,2025-02-12,Los Angeles,Pendiente
+e7e72a44-8f33-45c1-a292-8fc54a39358a,Parker-Jimenez,Smartphone,5.0,2000,2025-04-23,Los Angeles,Rechazado
+71990d37-1f13-4078-80a0-a15a87e0a34c,White PLC,Tablet,10.0,2000,2025-01-05,Monterrey,Pendiente
+dfe1ec70-b351-48d1-813d-ef27ddff0013,Stout Inc,Impresora,20.0,500,2025-03-22,Hamburgo,Rechazado
+cb50fc88-4365-4353-baf1-f1a55ce052b9,Buck-Mcgee,Smartphone,10.0,1500,2024-12-31,Los Angeles,Pendiente
+50393495-5e35-4a8a-b9ff-e826949d28ae,Taylor Inc,Impresora,5.0,1000,2025-03-08,Monterrey,Pendiente
+eb495152-dd68-488c-b260-639226eefef7,Pierce and Sons,Impresora,5.0,1500,2025-04-17,Hamburgo,Pendiente
+9603e488-38a4-40a0-ba8d-180372fba581,"Rich, Bradley and Roberts",Tablet,20.0,1500,2025-03-02,Monterrey,Pagado
+234f71b4-6bca-4258-9f34-8f8ee30aaa49,Dougherty Group,Laptop,20.0,1500,2025-04-10,Monterrey,Pagado
+14b25d52-2598-48b9-809e-03bd12e9c906,Macdonald-Brown,Smartphone,1.0,500,2025-02-10,Monterrey,Pendiente
+483f46dc-0375-4a96-a217-2a279bfdff81,Morse-Marshall,Laptop,20.0,500,2025-04-17,CDMX,Rechazado
+b8064ded-8027-4dc7-87d6-46719f56e1d4,Prince-Moses,Smartphone,5.0,500,2025-04-06,Hamburgo,Pagado
+26c164b4-76c7-4e1c-9df3-943d675be2be,Dawson LLC,Tablet,20.0,500,2025-03-18,Los Angeles,Pagado
+3046c6be-937f-4cfc-a485-81613a1a2fff,Patel LLC,Tablet,1.0,500,2025-01-30,Monterrey,Pendiente
+22178a60-2778-439e-945a-44aae94054ec,Buck-Mcgee,Laptop,5.0,500,2025-03-09,Shenzhen,Pagado
+204e95da-68d8-49e8-81fc-8d274683e21d,"Rich, Bradley and Roberts",Impresora,1.0,1500,2025-02-10,CDMX,Pendiente
+e45592bb-31cb-41af-b532-72425baa32b6,White PLC,Tablet,20.0,500,2025-02-07,Hamburgo,Pagado
+b711f6eb-4cff-4a82-81da-49cc6bda755e,Rodriguez-Bell,Laptop,1.0,1500,2025-05-26,Los Angeles,Pendiente
+ac8243bf-e327-445d-ac1e-f133de09c532,Patel LLC,Monitor,1.0,500,2025-06-04,Los Angeles,Rechazado
+8c1e60fb-9fba-4c37-8114-a72d028519be,"Young, Bryant and Rodriguez",Laptop,5.0,1500,2025-02-25,Hamburgo,Rechazado
+d84871b1-b6eb-4cec-b325-a61d83e18f09,Perez and Sons,Impresora,5.0,500,2025-02-20,Monterrey,Pendiente
+78194c57-3de4-4bb3-b475-905324da7fe0,Macdonald-Brown,Laptop,5.0,1000,2025-06-02,Hamburgo,Pagado
+0a155244-ff9d-4fb3-854f-1a1580ce1880,Griffith-Rivera,Laptop,20.0,1000,2025-03-19,Hamburgo,Pagado
+2401c7c6-e744-4710-9305-c4095a50fe21,Green-Nelson,Tablet,1.0,2000,2025-06-07,Monterrey,Pendiente
+6c7aaafa-279e-4480-84fc-a60447686c41,Johnston-Gonzalez,Impresora,10.0,1500,2025-01-02,CDMX,Pendiente
+7ef9e157-d804-494e-ae2d-5297502ccfb8,Fletcher LLC,Smartphone,10.0,1500,2025-01-03,Shenzhen,Pagado
+ef056e56-2fe6-4587-94ce-f7e7d25cab82,"Taylor, Wright and Horn",Laptop,20.0,500,2025-04-06,CDMX,Pagado
+895d0012-71ea-4a7a-92e6-c6cad09d2940,"Anderson, Benson and Duncan",Monitor,20.0,1000,2025-02-07,Monterrey,Pendiente
+0e1a7e44-9fb9-4902-971a-1fb2c6ca29d8,Pierce and Sons,Tablet,10.0,500,2025-04-16,Los Angeles,Pagado
+cfbd92ea-4fdf-49d7-a8e9-8241ed1253fa,Morse-Marshall,Monitor,1.0,500,2025-04-04,Monterrey,Pendiente
+2c44ed0a-b6be-4d3e-9592-e62e70e1ed4d,Gonzalez PLC,Tablet,10.0,1500,2025-03-13,Monterrey,Pagado
+63128fff-277d-4f74-b30f-fca9a57e1ef5,Campos LLC,Laptop,20.0,500,2025-06-16,Monterrey,Pendiente
+6b209be7-e9df-473a-b68f-315a6a59f54a,Ibarra-Brown,Impresora,1.0,1000,2025-01-09,CDMX,Rechazado
+41aaf40c-66fe-4d26-9273-73b478517b97,Gonzalez-Weiss,Smartphone,5.0,500,2025-04-09,Los Angeles,Rechazado
+b232ad63-57ca-4ca9-8f87-b4f917079006,"Rich, Bradley and Roberts",Tablet,5.0,500,2025-03-06,Los Angeles,Rechazado
+2c3aec65-47a3-4e28-906e-406d9fb67cfb,Holt-Montgomery,Impresora,10.0,500,2025-02-10,CDMX,Pendiente
+38895bcc-dccb-46fa-adcb-f92302f21155,Jones and Sons,Tablet,10.0,500,2025-05-12,CDMX,Pendiente
+fd4e5d84-55c9-4e4a-812a-6a36c182d70b,Green-Hays,Impresora,5.0,2000,2025-01-08,Shenzhen,Rechazado
+0d7ed199-048f-4859-83f4-ef7038e720de,Morse-Marshall,Smartphone,5.0,500,2025-06-17,Shenzhen,Rechazado
+4b0bc70a-2876-47a7-87ef-6e67f3ef9f5c,Campos LLC,Impresora,5.0,1000,2025-03-03,CDMX,Pagado
+7d030d8e-0f2f-498f-a510-1cc8f14668e5,"Taylor, Wright and Horn",Laptop,10.0,1000,2025-06-18,Shenzhen,Pendiente
+5ec8afc5-d9bc-4e7e-a9a0-2885c3f6beff,Dawson LLC,Smartphone,20.0,1500,2025-03-15,Shenzhen,Rechazado
+47dd8f32-9300-4ce9-b74c-47ac2cf24252,"Copeland, Miller and Shaw",Monitor,20.0,2000,2025-01-25,Hamburgo,Pendiente
+8015823d-bf1c-4752-8d9a-017ec9f666c9,Hogan-Bradley,Tablet,10.0,2000,2024-12-27,Los Angeles,Pagado
+35c30209-91d4-4211-bcd2-74f1c68b73a3,Green-Hays,Monitor,10.0,1000,2025-04-09,Shenzhen,Pendiente
+8dd4e03e-c70d-43d4-8e53-b3c2322e75d6,Dawson LLC,Smartphone,10.0,500,2025-05-27,Hamburgo,Pagado
+f0c0fe4a-2a62-48c2-9685-b448b7aefc7a,Taylor Inc,Tablet,5.0,1000,2025-04-06,Monterrey,Pendiente
+b847ee48-8dcf-4b5c-8f53-b2b9d8a229d9,"Ward, Smith and Henry",Laptop,1.0,500,2025-01-15,Hamburgo,Pagado
+db914439-d4e5-4ed4-8fcd-afea6863a695,Macdonald-Brown,Impresora,20.0,1000,2025-06-01,Monterrey,Pendiente
+ae77bfed-4eec-4fd8-b7dc-e573e8821dee,Bryant-Wilson,Laptop,10.0,1000,2025-03-15,CDMX,Rechazado
+1415fc83-258b-43f1-8c49-bdb5718833f6,Dougherty Group,Laptop,10.0,1500,2025-06-13,Hamburgo,Pagado
+e41d4100-1edf-45cc-aa7a-1209e5fa4055,Rodriguez-Bell,Impresora,20.0,2000,2025-03-12,CDMX,Rechazado
+98d92fc8-a664-4453-9635-1e7e0588aebf,Bryant-Wilson,Laptop,1.0,1500,2025-04-28,Los Angeles,Pendiente
+244f64dc-de0b-44ba-86ee-ddff16160094,Huffman-Hobbs,Smartphone,1.0,2000,2025-01-21,Hamburgo,Pagado
+edf2dc71-4ef4-4c7e-a6bf-7dfce75c31bf,Gonzalez-Weiss,Tablet,10.0,1500,2025-05-27,Shenzhen,Rechazado
+66c1f8c9-d8a6-4692-8439-06e4ec38dd28,Martinez-Le,Laptop,5.0,1000,2025-03-19,Hamburgo,Pagado
+f69f65e8-a3c7-4d32-94ff-6b7afedbe575,Dougherty Group,Tablet,10.0,500,2025-05-12,Monterrey,Pagado
+bf64a4f8-00bb-436b-9b99-dc4732fae7ff,Tucker-Ball,Smartphone,20.0,500,2025-05-08,Monterrey,Pendiente
+11f0df0e-68df-4a44-b486-2069de07f19a,Griffith-Rivera,Impresora,1.0,500,2025-04-06,Hamburgo,Pagado
+37363fc2-9309-4bae-a858-8dadcdb7d51d,Griffith-Rivera,Tablet,10.0,1500,2025-04-08,Shenzhen,Rechazado
+a5a75320-eae0-4395-963b-01f179bdb0e7,"Hernandez, Lane and Lewis",Tablet,5.0,1500,2025-03-17,Los Angeles,Pendiente
+682c50bc-d18f-4b92-8d4e-f035a959260e,Gonzalez PLC,Monitor,20.0,1500,2025-04-08,Hamburgo,Pendiente
+3ce703af-2c3e-49a2-aab8-c3a1038aae35,Lopez-Butler,Monitor,5.0,1500,2025-04-09,Hamburgo,Pagado
+430c44da-6d0b-4f19-ba0a-8fac5da66a64,"Taylor, Wright and Horn",Tablet,10.0,500,2025-02-04,Monterrey,Pendiente
+1d8fc493-0975-466b-ab59-a2386ba9d58e,Macdonald-Brown,Laptop,20.0,500,2025-04-18,Monterrey,Rechazado
+755bd289-648d-4057-9a0f-be84827cc5a9,"Bentley, Sullivan and Keller",Tablet,20.0,2000,2024-12-27,Shenzhen,Pendiente
+265a185e-c83e-4b5a-b4f9-48ce2a0d5e15,Gonzalez-Weiss,Monitor,10.0,2000,2025-02-14,Shenzhen,Rechazado
+80d0a16e-a58f-4ef8-9d75-95626b432cf4,Bryant-Wilson,Monitor,10.0,2000,2025-06-23,Shenzhen,Rechazado
+d90ec8ed-3b31-4084-a6b2-1c5e0c106391,Martinez-Le,Smartphone,10.0,1500,2025-05-09,Shenzhen,Pendiente
+5fe9efca-2461-46cb-ab9e-e452ca953751,Martinez-Le,Monitor,10.0,2000,2025-06-15,Shenzhen,Pendiente
+f4b5f3a1-2eef-4e00-9eda-73bbf80056d6,Griffith-Rivera,Laptop,20.0,500,2025-02-06,Shenzhen,Rechazado
+0918c792-db6a-48d8-b62e-b1f6670c3670,Lopez-Butler,Tablet,1.0,2000,2025-04-12,CDMX,Pendiente
+ae298862-f83b-4b17-aa55-1aa5cd652b20,"Young, Bryant and Rodriguez",Smartphone,10.0,2000,2025-03-03,Los Angeles,Pagado
+1e89b020-9bf8-42ff-9f75-9392321dc7f9,Dougherty Group,Impresora,10.0,1500,2025-05-28,Los Angeles,Pendiente
+df1737ca-e3d2-4eb8-9426-813ac8d37bdd,"Taylor, Wright and Horn",Monitor,1.0,1500,2025-02-05,Los Angeles,Rechazado
+ffa46bc8-7c2d-4321-8322-ae8ff32f74f6,"Campbell, Ochoa and Price",Impresora,1.0,500,2025-01-03,Los Angeles,Pendiente
+dc5245f7-3937-4fc0-b54c-da2cbd0681f4,Rodriguez-Bell,Smartphone,20.0,1000,2025-01-18,Shenzhen,Rechazado
+271e4fe6-1b7a-4fe7-a992-3cb5d81735c5,Gonzalez-Weiss,Impresora,1.0,1000,2025-03-30,Hamburgo,Pagado
+c192374e-2649-419f-ba2e-7154b306262c,Stout Inc,Impresora,5.0,2000,2025-04-01,CDMX,Pendiente
+92950f78-ae5b-4d90-b25f-eda2710c4f3f,White PLC,Monitor,5.0,1500,2025-01-29,Shenzhen,Pendiente
+93cd4557-bc10-4bed-855e-f0eb9d9bd158,Hogan-Bradley,Smartphone,1.0,1500,2025-01-23,Monterrey,Rechazado
+193a279c-b2cf-445c-a636-74c1329dba3e,Morse-Marshall,Impresora,1.0,1500,2025-03-26,Hamburgo,Pagado
+d70cba31-17d1-451b-b9a6-9200b4605137,Taylor Inc,Monitor,5.0,500,2025-05-23,Monterrey,Pagado
+8a835fe5-6672-413b-a57c-0a63cdc1e2bc,Rodriguez-Bell,Impresora,10.0,1000,2024-12-27,Shenzhen,Pagado
+4aecda56-191e-477f-9abc-9ff05f67f66f,Stout Inc,Laptop,10.0,500,2025-02-10,CDMX,Rechazado
+b4e5b026-1c5e-441e-b691-d12bf0115633,Martinez-Le,Tablet,20.0,1000,2025-05-16,Los Angeles,Pagado
+a2efc069-360b-4cb1-83cc-031d90b70128,Buck-Mcgee,Smartphone,5.0,500,2024-12-29,CDMX,Rechazado
+5c00fd44-b89f-4b08-a2be-5f9bd09823d8,Perez and Sons,Monitor,5.0,1000,2025-05-12,Monterrey,Rechazado
+da28dc26-90dc-4651-820b-cc5548b07d14,Dawson LLC,Monitor,1.0,2000,2025-01-19,Los Angeles,Pendiente
+2b17bf9d-b951-441d-9874-0bcbae845e73,Johnston-Gonzalez,Smartphone,20.0,2000,2025-04-21,Monterrey,Pagado
+4a7c8bb6-60e3-49e7-b1e3-6bb5915eb64e,Griffith-Rivera,Impresora,1.0,2000,2025-03-12,Hamburgo,Pagado
+4f22fb4d-b52a-4666-b2bc-78412f7625e7,"Taylor, Wright and Horn",Monitor,10.0,1500,2025-03-05,Shenzhen,Rechazado
+184d8fb7-3d22-4513-b18d-c70586c3704c,Parker-Jimenez,Laptop,20.0,500,2025-01-19,Shenzhen,Rechazado
+61423121-7ac3-4035-9ad4-a58a0bfb2ca2,Dawson LLC,Smartphone,1.0,1500,2025-06-04,Los Angeles,Pendiente
+1f9005c2-48c8-40eb-87a8-a9cc76bd4550,"Ward, Smith and Henry",Laptop,1.0,500,2024-12-26,CDMX,Pendiente
+dfc7ebeb-ae8e-4128-9d7e-c52a4884c8c0,"Bentley, Sullivan and Keller",Smartphone,5.0,2000,2025-04-17,Monterrey,Rechazado
+88677b42-5a9d-4ab3-ae1e-4fe15f35583d,Gonzalez PLC,Smartphone,5.0,1000,2025-03-08,CDMX,Rechazado
+eb1de8a0-fecc-4ad7-a0ee-fee616ad039a,"Anderson, Benson and Duncan",Smartphone,1.0,1000,2025-02-14,Monterrey,Pendiente
+f3233eb0-7947-45f8-918a-1587a8ba737b,"Lewis, Cole and Salazar",Impresora,10.0,1000,2025-01-01,Los Angeles,Pendiente
+2578e143-6177-411b-8c33-2034be195c92,Green-Nelson,Smartphone,20.0,500,2025-02-28,Los Angeles,Rechazado
+93e285b0-e456-4332-bc68-a4fbd87f402e,Holt-Montgomery,Monitor,20.0,500,2025-02-28,Shenzhen,Pagado
+b3431ca7-fa4d-4c94-8b9d-f9e063bb95bc,Wilkins Inc,Smartphone,10.0,1000,2025-02-26,Hamburgo,Rechazado
+fcc518ea-0e5c-4bb1-b21d-82974b30d408,"Harris, Harris and Vasquez",Smartphone,10.0,1500,2025-04-23,Monterrey,Pagado
+d9fb5147-7676-4581-a4b5-ddc747105391,"Ward, Smith and Henry",Monitor,5.0,2000,2025-02-18,CDMX,Pagado
+c01d7386-0dfc-41f4-8619-0b911c8c738b,"Taylor, Wright and Horn",Monitor,1.0,1000,2025-05-17,Hamburgo,Pendiente
+e394a9a7-2519-487c-a1c6-0d9ad8ff051c,Mercado Group,Impresora,20.0,500,2025-05-25,Monterrey,Rechazado
+01024e31-84e9-4e77-98b8-bbd79afa4ac3,Braun-Garcia,Smartphone,20.0,500,2025-01-03,CDMX,Pagado
+be199a42-8d65-4c8c-98fc-e1474ad8b8cf,"Lewis, Cole and Salazar",Monitor,1.0,1000,2025-01-14,CDMX,Rechazado
+316a8019-56a5-4573-9974-0a87e7fe19e7,Rodriguez-Bell,Smartphone,20.0,2000,2025-02-22,Los Angeles,Rechazado
+8879d139-0a5a-4100-a880-bc916e6470fd,Martinez-Le,Smartphone,5.0,1000,2025-05-25,Hamburgo,Pagado
+bcc981e1-24f1-4262-9eca-98ec8470887a,Fletcher LLC,Monitor,10.0,2000,2025-01-11,Hamburgo,Rechazado
+f1f9119e-22e7-40fa-bfec-ef08023616ff,"Mitchell, Hunter and Rodriguez",Impresora,20.0,1500,2025-05-22,CDMX,Pendiente
+e6081ef7-042a-4d30-af3b-44bf76be85ac,Griffith-Rivera,Tablet,10.0,500,2025-06-05,Hamburgo,Pagado
+6c7090be-ae3f-4229-8714-041840c45271,"Mitchell, Hunter and Rodriguez",Tablet,10.0,500,2025-04-28,Los Angeles,Pendiente
+eb85775b-dd86-4461-abad-16d2dc45c6a7,Green-Hays,Monitor,5.0,500,2025-05-19,Shenzhen,Pagado
+040aa25b-1c22-440c-baf2-b67a742e674c,Hogan-Bradley,Impresora,5.0,500,2025-01-20,Monterrey,Rechazado
+6d1a5e7f-79d0-434b-b7d6-c36773113e69,Green-Nelson,Impresora,1.0,2000,2025-04-04,CDMX,Pendiente
+5b7dd20f-7bcf-4a1b-9a56-2fb891a88bf3,"Harris, Harris and Vasquez",Laptop,5.0,2000,2025-05-24,Monterrey,Pendiente
+6fd045ed-ceef-4e19-b2db-b2c8cd7b4592,"Rich, Bradley and Roberts",Monitor,5.0,500,2025-05-20,Monterrey,Rechazado
+4bc08a30-dd86-41f7-8c73-af8fc2e4216e,Braun-Garcia,Tablet,20.0,500,2025-06-22,Hamburgo,Pendiente
+b4771359-ec5b-450c-98d0-345868bb2edf,Perez and Sons,Impresora,5.0,500,2025-05-28,Shenzhen,Pendiente
+b222a96b-2b1d-4b99-aa33-3dcc2f7dfcc1,Mercado Group,Laptop,20.0,2000,2025-02-07,Los Angeles,Rechazado
+4f8dcc08-cde1-454a-ac52-bbdca94dcde7,Johnston-Gonzalez,Tablet,1.0,500,2025-04-26,Los Angeles,Pendiente
+5700083b-78b1-4a47-b561-cc2deedb00f7,Gonzalez-Weiss,Laptop,20.0,2000,2025-01-27,CDMX,Pendiente
+2dc973f8-8f6f-4bb2-9e63-921de93ea257,Green-Hays,Tablet,20.0,1500,2025-06-15,Hamburgo,Pendiente
+e32427e1-2e17-42a7-b864-2c73ff82e131,Lopez-Butler,Monitor,5.0,2000,2025-05-04,CDMX,Pendiente
+4240fc91-a2ae-4c71-b7eb-c5a83233f477,Schroeder Inc,Laptop,10.0,1000,2025-03-28,Monterrey,Pendiente
+6708b4c8-6c16-4cc0-9a59-5da6d5b0cbe3,"Taylor, Wright and Horn",Laptop,20.0,1500,2025-02-05,Los Angeles,Pagado
+73255e70-39e5-4e85-bd08-113683252201,"Lewis, Cole and Salazar",Laptop,1.0,1000,2025-03-04,Shenzhen,Pagado
+a1c20cf8-315f-479a-8b1c-99e37d2dc68d,Gonzalez-Weiss,Monitor,10.0,500,2025-02-12,CDMX,Pendiente
+e8edc6c2-351a-42ff-9601-a543a1cf9936,Ibarra-Brown,Impresora,5.0,2000,2025-06-01,CDMX,Pagado
+499fd18d-9149-4d82-bbde-9ee698b0feea,Johnston-Gonzalez,Laptop,10.0,500,2025-04-02,CDMX,Rechazado
+a795b520-4a60-4e9a-a3bf-289db202cd33,White PLC,Smartphone,5.0,1500,2025-01-20,Los Angeles,Pagado
+f852d180-1836-4ac1-9bb1-0c7c28462e6e,Patel LLC,Tablet,20.0,500,2025-04-18,Hamburgo,Rechazado
+6004dae9-d3c1-4e84-a10b-aaac8afb33ef,Griffith-Rivera,Monitor,20.0,500,2025-02-22,Shenzhen,Pagado
+1f60241c-4dac-46ff-a26f-8cc359f8ae89,Pierce and Sons,Impresora,1.0,2000,2025-02-01,Hamburgo,Pagado
+490e73d7-b09b-4733-926e-7ce5e68da009,Tucker-Ball,Laptop,1.0,500,2025-03-27,Shenzhen,Pendiente
+83ab2504-13a8-4e92-baec-2ab4b0c75107,"Bentley, Sullivan and Keller",Impresora,5.0,1000,2025-02-11,Monterrey,Rechazado
+b8dfd6bd-fbf5-4a4e-86d1-c2ba91ccbc49,Huffman-Hobbs,Impresora,1.0,2000,2025-05-02,CDMX,Pagado
+49ff16a7-eaa3-4612-8dcc-0560cb813088,"Ward, Smith and Henry",Tablet,20.0,2000,2025-03-17,Shenzhen,Rechazado
+3f7a3d0d-2d16-4bfe-bf3b-319ec0c68a1e,"Hernandez, Lane and Lewis",Laptop,5.0,1000,2025-02-21,CDMX,Pagado
+9aa33889-86de-4555-968d-c90753e8a4ee,Jackson and Sons,Tablet,1.0,1000,2025-05-21,CDMX,Pagado
+93fcae26-2bc9-4bc1-b39d-3113676d8ee0,Gonzalez-Weiss,Monitor,10.0,1500,2025-01-05,Hamburgo,Pagado
+ec815feb-665e-41ff-8059-c3a1b64f96ae,Braun-Garcia,Tablet,1.0,1500,2025-05-28,CDMX,Pendiente
+49de388c-0f75-44e3-aa44-a1e617a692f8,Stout Inc,Smartphone,5.0,2000,2025-05-30,Hamburgo,Rechazado
+756226ef-41a3-4183-acb1-5452d6ff902e,Dougherty Group,Smartphone,20.0,2000,2025-03-04,Los Angeles,Pendiente
+76e4b71c-42d2-4f4a-b1ad-7902a590ed9b,Schroeder Inc,Monitor,5.0,500,2024-12-30,Hamburgo,Pendiente
+a4a3b63f-0fc1-486a-a09c-11dddae1226a,Pierce and Sons,Monitor,5.0,1500,2025-01-13,Shenzhen,Rechazado
+ca537290-55db-4a5b-bd7b-56ea0b68dec9,Young LLC,Smartphone,5.0,1000,2025-02-25,Shenzhen,Rechazado
+8ff8d062-9614-4c93-ba89-23ada81419bc,Hogan-Bradley,Tablet,20.0,1000,2025-02-07,Shenzhen,Pagado
+fa5c9ecd-9b97-4d56-bf12-6b1360c8cb64,Parker-Jimenez,Monitor,20.0,1000,2025-02-19,Monterrey,Pagado
+b5de20ff-3e54-455d-82d8-6fed40f823a7,Young LLC,Smartphone,20.0,500,2025-03-07,Monterrey,Pendiente
+d774b28c-693d-4804-af53-6f492ae1ac3a,Griffith-Rivera,Tablet,20.0,1500,2025-04-21,Monterrey,Rechazado
+06150293-6bb9-4908-9a0a-0d2b1033b66d,"Young, Bryant and Rodriguez",Impresora,10.0,2000,2025-02-01,Monterrey,Rechazado
+89f63214-5b60-41f6-8087-cc88efab1934,"Young, Bryant and Rodriguez",Smartphone,20.0,1000,2025-03-26,Monterrey,Pendiente
+e97f8d22-3d07-4656-ae8b-9d3c91ffb743,Jackson and Sons,Smartphone,5.0,1000,2025-02-03,CDMX,Rechazado
+87268cdb-2820-4a0d-a95f-fd6fd2d701c6,Braun-Garcia,Monitor,1.0,1500,2025-01-13,Monterrey,Pagado
+d0707cbe-44f2-4212-9ac1-d529cfe42b0d,Huffman-Hobbs,Tablet,1.0,1000,2025-06-04,Monterrey,Pendiente
+0c82e426-eecf-4ff1-996f-491080cfccec,Dougherty Group,Monitor,20.0,1000,2025-03-13,Los Angeles,Rechazado
+128e08e2-dbc4-49e8-9e8e-36ccf9c2db21,"Campbell, Ochoa and Price",Impresora,10.0,1500,2025-01-11,Shenzhen,Rechazado
+6b7d9cc5-80e4-4f6f-9bb2-50c196af49c5,"Ward, Smith and Henry",Smartphone,10.0,2000,2025-04-10,CDMX,Pendiente
+3eca05a0-32dc-49b6-90e0-78253413048f,Rodriguez-Bell,Smartphone,1.0,1500,2025-02-16,CDMX,Rechazado
+4d8f20ac-1f7f-4aac-8cfb-c21be4316d77,"Young, Bryant and Rodriguez",Laptop,10.0,2000,2025-01-02,Shenzhen,Pendiente
+42a4c47d-4e18-4777-8660-8feff1bacd45,Macdonald-Brown,Tablet,5.0,2000,2025-04-08,CDMX,Rechazado
+9abe8729-00f5-43ba-bde5-7ca3c3f8b3e4,"Mitchell, Hunter and Rodriguez",Smartphone,5.0,2000,2024-12-31,Shenzhen,Pendiente
+7f7fc9b3-8a1e-4f83-9464-b133275efd29,"Lewis, Cole and Salazar",Laptop,1.0,2000,2025-06-02,Shenzhen,Pagado
+710aaa6c-89c5-4ef7-abdd-71c379b09e61,Martinez-Le,Laptop,20.0,2000,2025-06-18,Hamburgo,Pagado
+cefacf57-c9d6-4d5b-a28a-db4cdb948c14,Tucker-Ball,Impresora,10.0,2000,2025-03-12,Shenzhen,Pagado
+025abcf9-5411-4390-bbd2-705577537eb9,Gonzalez PLC,Smartphone,20.0,1500,2025-06-11,Monterrey,Pagado
+d9c04531-88ee-4f88-902d-0d2e62c1a58f,Griffith-Rivera,Smartphone,10.0,1000,2025-03-29,Monterrey,Pendiente
+89a6886c-45c2-4cda-be3d-7f3338211793,Braun-Garcia,Laptop,5.0,2000,2025-03-20,CDMX,Rechazado
+0050d601-ab5a-4207-86d0-b1451932503c,"Anderson, Benson and Duncan",Monitor,10.0,500,2025-06-05,Shenzhen,Rechazado
+be40e644-0ccd-4802-9059-947838cddfe8,Griffith-Rivera,Laptop,10.0,1500,2025-03-05,Monterrey,Pendiente
+6caadcfd-cba1-4006-9ca1-749445187dc1,Stout Inc,Impresora,5.0,2000,2025-05-09,Hamburgo,Pendiente
+56085747-8261-4e65-864a-3c2b2a83a0ca,"Campbell, Ochoa and Price",Tablet,20.0,1500,2025-01-02,Monterrey,Pendiente
+e9dc41c1-08a2-4e38-b0b8-08d4020a787e,Taylor Inc,Impresora,20.0,2000,2025-06-03,Los Angeles,Rechazado
+f3c3180a-2cc8-4405-bd82-58b3850e05f0,Dougherty Group,Smartphone,5.0,2000,2025-02-13,CDMX,Rechazado
+c3380c90-51a0-411f-b1e1-fb8048dfa571,Stout Inc,Laptop,10.0,1000,2024-12-23,Shenzhen,Rechazado
+f31c4054-56c7-47e5-aadd-c37ce66e4d52,Bryant-Wilson,Laptop,20.0,500,2025-01-11,CDMX,Pagado
+223cd2a6-78a3-4345-b8a1-8fd8b3870f75,Bryant-Wilson,Smartphone,1.0,1500,2025-05-11,Hamburgo,Pagado
+c6c66f7d-27c8-447e-ac9a-48e37ddcc570,Prince-Moses,Smartphone,10.0,1500,2025-02-25,Los Angeles,Rechazado
+3fac116f-3aaa-4d61-945d-d06bcff936ce,Morse-Marshall,Tablet,10.0,2000,2025-06-18,Shenzhen,Rechazado
+6b499988-47e0-4267-b2db-99cdaf2d263a,"Harris, Harris and Vasquez",Impresora,10.0,1000,2025-01-01,Monterrey,Pendiente
+1139b98d-aceb-46aa-8785-fe685f1ad644,Braun-Garcia,Smartphone,20.0,2000,2025-02-11,CDMX,Rechazado
+828cd53e-04ce-4c36-ad58-8892c996b769,"Taylor, Wright and Horn",Tablet,5.0,1000,2025-02-24,Hamburgo,Pagado
+3467c325-dafa-4a85-96e0-89adedff113c,Ibarra-Brown,Impresora,1.0,2000,2025-01-28,Monterrey,Pendiente
+8d56cce1-7a26-4931-bfb4-0bea8d3ca1f2,Jackson and Sons,Smartphone,20.0,1500,2025-05-27,CDMX,Rechazado
+402a17b1-fb88-4a8e-8e78-310ca7403a03,Hogan-Bradley,Smartphone,10.0,1000,2025-04-08,CDMX,Pagado
+72340356-90f1-4147-845a-ca6a91790f11,Stout Inc,Monitor,10.0,500,2025-06-17,Los Angeles,Pagado
+ddb03ffb-4442-48ac-a0bf-32f7b027d5bf,Ibarra-Brown,Laptop,1.0,1500,2024-12-31,Monterrey,Rechazado
+f22c2ff0-fafa-48a1-8103-f91aec54d33d,Dawson LLC,Smartphone,10.0,500,2025-05-08,Shenzhen,Pendiente
+bd406e48-ae41-4771-bdd1-01fbdb6a1a0b,Wilkins Inc,Monitor,20.0,1000,2025-02-12,Shenzhen,Rechazado
+b5ca9b88-73bb-42ca-88fd-0441e27450b9,Lopez-Butler,Laptop,20.0,1500,2025-04-28,Monterrey,Pendiente
+27a04c23-d752-4576-8bf8-57540a4f60a7,"Taylor, Wright and Horn",Monitor,10.0,1000,2025-02-22,Monterrey,Pagado
+73aed2b4-5a70-43dd-b79b-8e82e0c53a39,"Hernandez, Lane and Lewis",Monitor,10.0,2000,2025-01-04,CDMX,Pagado
+3436a447-e52b-4b46-87ae-9b8f1643c22d,Lopez-Butler,Laptop,10.0,1000,2025-03-18,Los Angeles,Pendiente
+78c0c9dd-6669-4de8-b701-2c50c25c57ec,Patel LLC,Tablet,1.0,500,2025-04-12,Los Angeles,Pendiente
+2f17609a-15af-461b-9480-1c12b617624b,"Campbell, Ochoa and Price",Laptop,1.0,1000,2025-04-22,Shenzhen,Pagado
+5b4c6c01-c299-458c-95e2-70b8991b4e17,Hogan-Bradley,Tablet,10.0,1000,2025-04-23,Monterrey,Pagado
+8903c990-9bd0-4289-94c8-a0ecc89063cb,Campos LLC,Laptop,1.0,500,2025-02-16,Los Angeles,Pendiente
+3c4e5c4e-8046-4516-bd05-39930defae06,"Mitchell, Hunter and Rodriguez",Laptop,10.0,1500,2025-03-24,Hamburgo,Pendiente
+f3050bf7-1cac-4e64-be13-6d0fb235419f,Bryant-Wilson,Laptop,20.0,2000,2025-04-30,Shenzhen,Pagado
+ce10b057-a679-438a-a17a-2c5d5df76955,Green-Nelson,Monitor,5.0,2000,2025-03-11,Shenzhen,Rechazado
+40ac88b6-9246-4f76-9fda-959349b97e9e,"Bentley, Sullivan and Keller",Impresora,5.0,1500,2025-01-25,Shenzhen,Rechazado
+6fe97c6e-3ad1-42cc-9281-26a5486021fd,Huffman-Hobbs,Monitor,5.0,2000,2025-04-16,Los Angeles,Pagado
+4a516f8b-9a96-461a-b8c9-cba62aeb0f42,Griffith-Rivera,Monitor,20.0,2000,2025-06-10,Los Angeles,Rechazado
+901a4558-0447-4ada-8605-0f4466526b63,Fletcher LLC,Laptop,20.0,1500,2025-04-23,Hamburgo,Rechazado
+97dd744d-730c-4650-abd4-848b2204abaa,Buck-Mcgee,Smartphone,5.0,500,2025-05-07,Shenzhen,Pendiente
+c92fbf94-014a-4017-9683-3048734ef052,Bryant-Wilson,Impresora,20.0,500,2025-04-23,CDMX,Rechazado
+8ba6c98e-dd2c-49d5-b17d-344bd424c02f,Bryant-Wilson,Impresora,1.0,1000,2025-06-08,CDMX,Pagado
+a2814804-a1c5-4510-8014-0dcb9afe904e,Bryant-Wilson,Tablet,5.0,500,2025-02-14,Monterrey,Pagado
+f4b68c5d-6150-4612-9241-b702ba7a612e,Martinez-Le,Tablet,5.0,1500,2025-02-03,Shenzhen,Rechazado
+baf6df14-b997-4045-852d-edd6b4662cd5,"Ward, Smith and Henry",Monitor,1.0,1000,2025-04-24,Hamburgo,Pagado
+84406e52-c0db-4ba5-a420-d33823a008d4,"Campbell, Ochoa and Price",Smartphone,1.0,1500,2025-04-27,CDMX,Pagado
+7b37014a-be34-4b89-88bf-bac21ea990f0,Jones and Sons,Tablet,1.0,500,2025-05-25,Hamburgo,Rechazado
+bff92a50-8fa4-41e0-ab39-54ab91626eb4,"Anderson, Benson and Duncan",Smartphone,20.0,1500,2025-01-07,CDMX,Rechazado
+2dc7fbac-e96f-4b5c-b7ec-1e7e18cf4b31,White PLC,Monitor,5.0,1500,2025-03-25,Hamburgo,Pagado
+cb72b4d3-3d43-4307-bcec-feaa6c44ef1f,Perez and Sons,Tablet,1.0,2000,2025-04-29,Los Angeles,Rechazado
+27e913fe-2b89-487f-ba35-b91747ceb896,Ibarra-Brown,Impresora,5.0,1000,2025-04-02,CDMX,Rechazado
+46f1ab45-0a0d-4e10-a5d3-88bfceb2ddfe,Fletcher LLC,Monitor,1.0,1500,2025-04-29,Monterrey,Pendiente
+7609e1ce-d496-464f-a0fa-bddeea65b38d,Morse-Marshall,Laptop,20.0,500,2025-04-04,Los Angeles,Rechazado
+c78601ea-8010-4890-a8ea-67ee2fe0c6f8,Macdonald-Brown,Monitor,5.0,1500,2025-04-20,Los Angeles,Rechazado
+94582cc1-dbb7-4b70-be7b-9d43be6c17be,"Taylor, Wright and Horn",Monitor,10.0,1500,2025-05-29,Shenzhen,Rechazado
+fd05f91f-2bd9-4036-b2a1-e2bae68f1b92,Morse-Marshall,Monitor,1.0,500,2025-05-04,Los Angeles,Pagado
+6f9d9dc5-84f2-4f1f-8756-75bc262ad48c,Green-Hays,Tablet,20.0,1000,2025-03-03,Hamburgo,Pendiente
+55b1e946-f900-4718-acf2-44f3ed1437ff,Taylor Inc,Laptop,5.0,1500,2025-04-26,Hamburgo,Rechazado
+6f185e88-9cb0-415c-b9d0-c6f4b1ad0c30,Taylor Inc,Smartphone,5.0,2000,2025-06-08,CDMX,Rechazado
+a1229a14-fd09-4571-b1f2-bf9eee1e127b,Macdonald-Brown,Impresora,5.0,2000,2025-06-10,Monterrey,Pendiente
+3173c6f1-f671-4bc1-92ed-30eba85897af,Tucker-Ball,Laptop,1.0,2000,2025-04-13,Hamburgo,Pendiente
+495d75c6-e102-476d-bc36-90e4f5647cb8,"Rich, Bradley and Roberts",Impresora,1.0,1000,2025-02-27,Monterrey,Pagado
+97f80706-3979-4365-a2d7-1b11ff3b70da,Green-Nelson,Tablet,1.0,1500,2025-04-10,Shenzhen,Pendiente
+ad316da2-64a3-4b90-b7f5-fd232073703e,Campos LLC,Impresora,10.0,500,2025-06-03,Monterrey,Rechazado
+2a566522-c778-4dd5-aca2-affc4aaf1fa2,Young LLC,Smartphone,1.0,1000,2025-03-04,Monterrey,Pagado
+6487bd21-6c87-47b8-b60f-5e1f3cd1d2e7,Wilkins Inc,Monitor,10.0,2000,2025-04-18,CDMX,Rechazado
+08ab1da7-a6cc-48e7-8a74-c626a31979ef,Braun-Garcia,Monitor,20.0,2000,2025-06-03,CDMX,Pendiente
+d2a24ae6-777e-4b29-b8bd-809d3beab8ee,Johnston-Gonzalez,Laptop,1.0,500,2025-04-02,Monterrey,Pendiente
+6458797e-7966-49c4-bf77-c3c747926a42,"Copeland, Miller and Shaw",Impresora,1.0,1000,2025-05-25,CDMX,Pagado
+30405704-53fa-41a0-96f8-d9151299f777,Bryant-Wilson,Tablet,10.0,1000,2025-04-22,CDMX,Rechazado
+8ea5f08c-ee31-4f69-9915-f02d3f09c9e0,Campos LLC,Laptop,10.0,500,2025-02-09,Hamburgo,Pagado
+aba8253f-9948-49ae-92b0-e5f26c177580,Dougherty Group,Monitor,20.0,2000,2025-06-07,Los Angeles,Rechazado
+a75c04b7-5f6e-435e-9520-4cc5dbd14065,"Ward, Smith and Henry",Monitor,5.0,1500,2025-03-11,CDMX,Rechazado
+b32ab040-be27-48e6-acf9-cd3770756efa,White PLC,Impresora,10.0,1500,2025-05-06,Monterrey,Rechazado
+8134492a-0983-436b-a4df-09993b336015,White PLC,Tablet,20.0,1500,2025-03-17,Los Angeles,Pendiente
+f2c14cdf-044e-4990-a52a-756c8611b53d,Perez and Sons,Impresora,5.0,500,2025-03-07,Monterrey,Pendiente
+ae6ae7b4-783a-4565-91ea-c63ee8c221f5,Morse-Marshall,Tablet,20.0,1000,2025-02-08,CDMX,Pagado
+befbd5a1-1251-49e0-a3a9-c08d6044b783,Gonzalez PLC,Tablet,10.0,1500,2025-04-21,Hamburgo,Rechazado
+a18fef02-9485-4670-b941-ae507914aa66,Martinez-Le,Laptop,1.0,1500,2025-06-08,Monterrey,Pendiente
+a03eba65-4bda-4908-87b4-3c364ebab9ec,Griffith-Rivera,Laptop,20.0,1500,2025-01-30,Monterrey,Pendiente
+f14b0792-de42-4b05-ae37-80dca0813777,Taylor Inc,Smartphone,10.0,500,2025-04-25,CDMX,Pagado
+910eb597-bb55-49bc-95d0-de8e40253253,"Mitchell, Hunter and Rodriguez",Monitor,5.0,500,2025-03-26,Hamburgo,Pagado
+b8eedfca-b728-47ba-a5fb-608cc1311341,Braun-Garcia,Laptop,10.0,1000,2025-04-13,Hamburgo,Pagado
+4e68469b-b745-4183-9014-276ad89b9fc9,Lopez-Butler,Laptop,5.0,500,2025-04-04,CDMX,Pagado
+9736530f-f60e-48e1-a192-ba95cb713c87,Schroeder Inc,Tablet,1.0,2000,2025-02-11,Hamburgo,Pendiente
+0e43a579-5fd3-4946-bb84-b108304d1796,Mercado Group,Smartphone,5.0,500,2025-01-24,Los Angeles,Pendiente
+f4d67c2e-2661-478a-ba6b-7d8b7be33e28,Macdonald-Brown,Laptop,20.0,1000,2025-03-20,CDMX,Pagado
+7793decd-8a66-4ccb-971e-dcf3d6184e7a,Griffith-Rivera,Laptop,20.0,2000,2025-04-20,Hamburgo,Pendiente
+a02988fd-b6a5-426b-aa06-ec55073d52d0,Young LLC,Tablet,10.0,1500,2025-03-10,Shenzhen,Rechazado
+ac1aaa23-3503-4044-b69c-e6f3059b5c0b,Johnston-Gonzalez,Smartphone,10.0,1500,2025-03-12,Los Angeles,Pendiente
+288544c7-7f54-4818-8a79-49aebef47cda,"Lewis, Cole and Salazar",Laptop,10.0,2000,2025-01-02,Shenzhen,Pendiente
+1ff3e4c1-c869-471b-b167-407f6130e44a,Schroeder Inc,Tablet,5.0,2000,2025-05-23,CDMX,Rechazado
+f5f0f4a4-3aad-4c0c-96b8-53603a94a909,"Rich, Bradley and Roberts",Laptop,1.0,1000,2025-04-03,Shenzhen,Rechazado
+83d39088-09d2-40d6-a487-ca24aaf057be,"Hernandez, Lane and Lewis",Tablet,5.0,1000,2025-03-07,Monterrey,Rechazado
+3da04cb5-a9e7-4ef9-ac27-cf1af0a8bb0b,"Lewis, Cole and Salazar",Laptop,1.0,1500,2025-01-19,Hamburgo,Rechazado
+cb8a28d6-b3ce-44b7-8b31-1ecaeeba965c,Stout Inc,Smartphone,5.0,2000,2025-05-28,CDMX,Rechazado
+db60e747-cd7f-4d5e-85fe-e46f7b5422e2,Taylor Inc,Smartphone,5.0,1000,2025-05-22,CDMX,Pagado
+6e4f2117-9872-4724-b295-66637bccd51b,"Bentley, Sullivan and Keller",Smartphone,1.0,1500,2025-05-23,Los Angeles,Pagado
+a8ad39ec-8c0d-4904-9cd6-490def9c8cc9,Fletcher LLC,Tablet,1.0,2000,2025-04-05,Hamburgo,Rechazado
+ad33c2fa-0e3b-486a-a188-74d27bbdf069,Stout Inc,Impresora,10.0,1000,2025-05-04,Los Angeles,Pagado
+d6f0cb45-6cc2-4e8d-b9c3-2860f70082eb,Hogan-Bradley,Monitor,1.0,500,2025-03-28,Hamburgo,Pagado
+2c397281-e0d2-4102-8385-9749dca07cfd,"Ward, Smith and Henry",Smartphone,10.0,2000,2025-02-20,CDMX,Rechazado
+32b31853-67bc-42fd-958f-a90c50bd520c,Buck-Mcgee,Tablet,1.0,1500,2025-03-06,Los Angeles,Pendiente
+e3133ecb-f728-45cf-830c-daf5f8676f87,"Harris, Harris and Vasquez",Laptop,1.0,1000,2025-02-11,Los Angeles,Rechazado
+057fe148-ee0e-45d8-9452-36803f8823cc,Fletcher LLC,Laptop,5.0,500,2025-04-23,Monterrey,Pagado
+69c4f76e-34e3-483d-b653-10ad768fe82d,"Ward, Smith and Henry",Impresora,20.0,1000,2025-04-16,Hamburgo,Pagado
+6e429cb7-ecae-4ede-adea-c0613bd4ef0d,Alexander-Bowman,Impresora,5.0,2000,2025-01-31,Los Angeles,Pendiente
+7142dd10-78e5-42c3-8e81-a836432459e9,"Campbell, Ochoa and Price",Laptop,5.0,1000,2025-02-02,Shenzhen,Rechazado
+af9823c2-260a-4bf8-8315-1a043a5ebcb8,Macdonald-Brown,Laptop,10.0,2000,2025-05-08,Los Angeles,Pendiente
+9683dccc-a8d2-4928-beec-ab618e64c4d4,Schroeder Inc,Tablet,20.0,1000,2025-03-12,Los Angeles,Pendiente
+842ea21e-0070-45b6-96a9-0881bd378794,Schroeder Inc,Monitor,5.0,2000,2025-05-01,Los Angeles,Pagado
+68803f9d-2c7e-4bf6-a76c-5805f99fd9f0,Parker-Jimenez,Impresora,1.0,2000,2025-03-31,CDMX,Pagado
+c48121dd-1b42-42ed-85b6-5e85e7ee781f,Prince-Moses,Impresora,5.0,500,2025-05-13,Los Angeles,Rechazado
+408494f2-bc4a-45ff-b0cc-27a0689cce7a,Perez and Sons,Smartphone,10.0,500,2025-03-21,CDMX,Rechazado
+6026b934-e808-4e19-9849-ebaa5916435e,Pierce and Sons,Smartphone,20.0,500,2025-05-23,Los Angeles,Pendiente
+6d90d85a-14c5-4d31-b561-1e6056424fb9,"Hernandez, Lane and Lewis",Smartphone,5.0,1500,2025-06-21,Monterrey,Pagado
+644fbb07-8f59-4ffd-86ba-8d725fbf922e,Taylor Inc,Monitor,20.0,1000,2025-04-09,Hamburgo,Pendiente
+b032b9c8-eb13-4072-a6fb-8a6ad6d80e00,"Mitchell, Hunter and Rodriguez",Tablet,1.0,2000,2025-04-25,Los Angeles,Pagado
+a3ca6e10-de9f-45d7-b3e8-c7cae924b828,Pierce and Sons,Tablet,10.0,1500,2025-01-09,Hamburgo,Pendiente
+e6a98bd8-c160-4f0f-973e-ee591789ca60,Gonzalez-Weiss,Monitor,10.0,500,2025-05-27,Los Angeles,Pagado
+23a509e8-5a48-4396-8e32-18303a4cf894,Wilkins Inc,Smartphone,10.0,1500,2025-01-02,Shenzhen,Rechazado
+63e059cf-58d9-4083-bac7-fad428fe8124,Stout Inc,Monitor,20.0,2000,2025-05-17,Los Angeles,Pagado
+be91614d-ab09-412f-99f0-d08e8f020885,Huffman-Hobbs,Tablet,5.0,1000,2025-04-03,Hamburgo,Pagado
+6fcd0912-568f-40e6-b410-14af32064bc4,"Ward, Smith and Henry",Laptop,5.0,2000,2025-02-02,CDMX,Rechazado
+82a640a9-d028-41bf-9f6f-83f3d25b79ba,Rodriguez-Bell,Tablet,10.0,1500,2025-02-18,Los Angeles,Rechazado
+d37033ab-057a-4806-8766-2fb760253135,"Harris, Harris and Vasquez",Impresora,20.0,500,2024-12-31,Hamburgo,Pagado
+cd321edc-9669-4a28-b5d1-6600e477fa66,Parker-Jimenez,Tablet,10.0,2000,2025-04-26,CDMX,Rechazado
+f94a3e0f-9e49-43fe-9e3f-b7913ae71741,Ibarra-Brown,Tablet,1.0,500,2025-04-13,CDMX,Rechazado
+9a4bf65a-6a1d-4299-adc9-feea7f82d2ef,Patel LLC,Smartphone,1.0,1000,2025-05-05,Shenzhen,Pagado
+63911943-9b28-466b-bd71-10a3c1157ff4,Griffith-Rivera,Impresora,1.0,1000,2025-03-19,Los Angeles,Pagado
+a147546d-1b5a-460a-93c8-4f38596c35c5,Bryant-Wilson,Impresora,20.0,500,2025-03-27,Monterrey,Pendiente
+341a0232-6a3c-4611-9348-d1593c30dea6,Rodriguez-Bell,Monitor,1.0,500,2025-01-15,Hamburgo,Pagado
+f368f155-f49a-4d33-ba04-e9623304344c,Braun-Garcia,Tablet,10.0,2000,2025-01-19,CDMX,Pendiente
+89669cff-1155-4835-bb4a-b3656045f7c4,Huffman-Hobbs,Smartphone,10.0,1000,2025-02-04,Shenzhen,Pagado
+a86acb25-c750-45f1-8fd1-b0f512e210bb,Campos LLC,Laptop,1.0,1000,2025-02-16,Hamburgo,Pendiente
+f33fc13f-57a6-48aa-8a65-0c09a736e808,Green-Hays,Laptop,1.0,1000,2024-12-30,Shenzhen,Pendiente
+368baad9-cf4d-4911-a6e3-2c295e4b1818,Jones and Sons,Monitor,5.0,2000,2024-12-31,Monterrey,Rechazado
+7a047a19-b9a9-4855-bb48-8b1fc0d1dd65,Campos LLC,Monitor,10.0,2000,2025-05-30,Los Angeles,Pendiente
+e5e708e0-3e01-45ff-91c9-6a0f52fb5a93,Lopez-Butler,Laptop,1.0,1500,2025-01-13,Shenzhen,Pendiente
+821da002-56a5-4028-878d-db3395c56cb2,Dougherty Group,Laptop,10.0,2000,2024-12-29,CDMX,Pendiente
+b6560c39-75a3-42fe-9ed3-9c61d74df2e2,Taylor Inc,Monitor,1.0,1000,2025-02-07,CDMX,Rechazado
+a3ffdf11-b12b-477c-850a-bb03c9307195,"Anderson, Benson and Duncan",Tablet,5.0,1500,2025-04-07,Hamburgo,Pendiente
+234349b7-4dd9-4998-b099-42a496329425,"Anderson, Benson and Duncan",Monitor,1.0,1500,2025-06-12,Shenzhen,Pagado
+6328add1-3cad-4302-b969-ba24488c5e1b,Jones and Sons,Laptop,1.0,1000,2025-02-09,Los Angeles,Pendiente
+9edb2b27-7eda-43a3-8247-1d6f7bf86744,Bryant-Wilson,Monitor,20.0,2000,2025-05-31,CDMX,Pagado
+c2c6e83d-3ab8-4ddf-9c6b-b2a9be621d43,Parker-Jimenez,Monitor,1.0,1500,2025-01-29,Los Angeles,Pagado
+fd1335f3-2346-4f97-82e4-1ea3abb3562c,Wilkins Inc,Impresora,20.0,2000,2025-06-13,Los Angeles,Rechazado
+47d96acf-93cd-46b3-8548-8f67799474d4,"Campbell, Ochoa and Price",Laptop,10.0,2000,2025-05-22,CDMX,Rechazado
+a01b4456-7396-4ef0-b0eb-824c60fe1c9c,Wilkins Inc,Smartphone,1.0,2000,2025-03-11,Shenzhen,Pendiente
+38469c94-2d27-472b-8451-577f183f99da,White PLC,Tablet,1.0,2000,2024-12-24,Los Angeles,Pendiente
+3a1e252f-9001-4bd6-b795-cbffe777d786,Holt-Montgomery,Laptop,20.0,2000,2025-06-04,Los Angeles,Pagado
+aa0faa7f-3b1d-4302-8a86-0347db4f31bf,Mercado Group,Tablet,5.0,2000,2025-03-13,CDMX,Pagado
+6ac47b50-839b-461a-ac70-9e9f57d64fec,Gonzalez-Weiss,Monitor,1.0,2000,2025-01-09,Hamburgo,Rechazado
+299eceb2-2b07-480e-a82e-505664508fa2,Wilkins Inc,Impresora,20.0,1000,2025-05-26,Shenzhen,Pagado
+4482fb08-4287-4fb4-8156-4d218fc192a1,Wilkins Inc,Laptop,1.0,500,2025-01-09,Monterrey,Rechazado
+fa94e0b8-df80-4be6-a6b7-793354ce6bd8,"Mitchell, Hunter and Rodriguez",Laptop,5.0,1500,2025-06-07,Monterrey,Rechazado
+5ff354ad-985c-4171-a4b9-3afcefeb845d,"Young, Bryant and Rodriguez",Smartphone,10.0,1500,2025-06-22,CDMX,Pagado
+40b2b81b-cd9d-4efc-8c6d-b7c817d2cc51,Green-Nelson,Monitor,10.0,1500,2025-01-09,Shenzhen,Pagado
+4491e376-cfae-41aa-9fed-fbddfacdb206,"Copeland, Miller and Shaw",Smartphone,10.0,500,2024-12-31,Los Angeles,Rechazado
+f1fcc95a-6231-4bfc-9f3a-e018dc43cc6f,Hogan-Bradley,Impresora,20.0,1500,2025-01-13,Hamburgo,Rechazado
+d2e8ff61-d5a0-43f6-b0da-457846a6110d,"Rich, Bradley and Roberts",Smartphone,1.0,2000,2024-12-26,Los Angeles,Rechazado
+19431e21-4c2d-4b19-8df5-f4fd3d65172f,Jones and Sons,Smartphone,1.0,2000,2025-06-22,Monterrey,Pendiente
+352b8d67-062c-4df2-b127-7a6ece3cf8f9,Pierce and Sons,Smartphone,1.0,1500,2025-01-06,Shenzhen,Pagado
+97e7432c-aca6-44a4-8168-9254a69fbe61,Jackson and Sons,Laptop,10.0,1500,2025-01-18,Shenzhen,Rechazado
+5ecc130d-6dd9-4aac-838a-3ff8e0a7fe48,Wilkins Inc,Tablet,5.0,1500,2025-04-05,Hamburgo,Pendiente
+a72cf403-222b-4f33-878f-9e3ede913589,"Young, Bryant and Rodriguez",Laptop,10.0,500,2025-05-30,Hamburgo,Pendiente
+a46e42e5-7031-4f07-9198-821d780e84ee,Holt-Montgomery,Monitor,5.0,500,2025-06-19,Los Angeles,Pagado
+cdc65fb9-f2bc-4201-8d70-24ca4ab6fa01,"Campbell, Ochoa and Price",Smartphone,10.0,2000,2025-04-19,Shenzhen,Pendiente
+5342cc88-7a0c-470a-9a3d-a59e8fb34836,Martinez-Le,Smartphone,1.0,1000,2025-02-09,Hamburgo,Rechazado
+ac81e01e-2042-4d24-9cf6-8c1aeac26b1e,Rodriguez-Bell,Laptop,20.0,500,2025-01-22,Monterrey,Pendiente
+769e447b-0d8c-4c8b-8d1b-580b98c8235a,Perez and Sons,Tablet,20.0,500,2025-05-21,Hamburgo,Pagado
+c5d61daf-3efc-4797-abbc-afd889d9fe8b,Gonzalez-Weiss,Laptop,1.0,1500,2025-01-01,CDMX,Rechazado
+8044efae-fff8-4e02-a5b3-890457eb9b13,Bryant-Wilson,Laptop,10.0,2000,2025-03-22,CDMX,Rechazado
+b1c562c1-f9c9-4807-8d75-c43fab934ca6,Mercado Group,Monitor,1.0,1000,2025-05-14,Los Angeles,Rechazado
+2b0a3a54-a734-4d78-9c5f-f037c9e4fc31,Rodriguez-Bell,Laptop,5.0,1000,2025-05-02,Los Angeles,Rechazado
+01030fad-efa9-494f-80c3-58c592380149,Ibarra-Brown,Laptop,20.0,500,2025-02-12,Monterrey,Pendiente
+44d48032-4f2b-428f-9c75-562e14619b42,"Bentley, Sullivan and Keller",Monitor,10.0,1500,2025-06-05,Shenzhen,Pendiente
+fb76e3a1-607a-4cd9-b444-0b4bd6975395,"Harris, Harris and Vasquez",Smartphone,20.0,1500,2025-03-21,Los Angeles,Pagado
+f2cb90f5-e79a-4425-a817-beff42106b8b,Jackson and Sons,Monitor,5.0,1500,2025-02-10,CDMX,Pagado
+3594a5e5-b804-4248-875b-943063d6b0e3,Tucker-Ball,Monitor,5.0,2000,2025-03-07,Monterrey,Pendiente
+29bc024c-c928-48d5-ab00-d4424e1c04f1,Huffman-Hobbs,Monitor,10.0,2000,2025-01-24,Los Angeles,Pendiente
+c57e0d14-cdcf-4726-b53e-e96794a1841c,Braun-Garcia,Tablet,1.0,1500,2025-01-15,Shenzhen,Rechazado
+6a514bb0-a5c6-48ec-a6bc-132ad8dc1079,"Hernandez, Lane and Lewis",Laptop,10.0,500,2025-02-28,Los Angeles,Rechazado
+3c66cce4-f7e0-4a0d-a83b-dd5c189d4191,Perez and Sons,Tablet,20.0,2000,2025-05-24,Los Angeles,Pagado
+fe6d0ed0-a77e-48a0-8de5-bea800cdc3a6,Green-Nelson,Impresora,5.0,1000,2024-12-28,Hamburgo,Pagado
+573b0225-514e-4a31-b637-83dd07c9b386,Gonzalez-Weiss,Monitor,5.0,500,2025-04-13,Los Angeles,Rechazado
+d291f461-1cc1-4b1c-8bdc-1c19f41b18bb,Pierce and Sons,Impresora,1.0,1000,2025-04-14,Monterrey,Pendiente
+b08df3e0-37f8-456f-9313-94ec041b61e7,Johnston-Gonzalez,Tablet,5.0,1500,2025-04-29,Los Angeles,Rechazado
+fbab2621-4548-4199-8285-73bc3a66dba3,Huffman-Hobbs,Tablet,10.0,500,2025-06-21,Hamburgo,Rechazado
+ce5c145e-33fa-461e-8640-05a2c61dff41,Jackson and Sons,Monitor,5.0,2000,2025-05-02,CDMX,Pendiente
+8c15ab1b-fc23-4df3-9a58-1b7faed82c46,"Mitchell, Hunter and Rodriguez",Smartphone,20.0,2000,2025-03-07,Shenzhen,Pendiente
+8ee38c0b-91af-4a39-9894-d4375bc20fa4,Dawson LLC,Monitor,5.0,500,2025-01-31,Los Angeles,Rechazado
+1ec98272-c931-4bae-904c-8dbfc7c0842d,Dawson LLC,Tablet,10.0,1000,2025-01-13,Los Angeles,Pendiente
+505d3956-796e-4373-ac06-f18ea36f1999,Holt-Montgomery,Laptop,1.0,1000,2025-03-19,Los Angeles,Pagado
+c8af4ecc-eea7-493e-a4ad-169ad846cf7c,Campos LLC,Laptop,10.0,2000,2025-01-12,CDMX,Pagado
+c72564b5-64f4-4a82-b603-8a270809bbd6,Johnston-Gonzalez,Laptop,10.0,1500,2025-05-29,Shenzhen,Rechazado
+45dcd2ae-b045-4195-84a7-5ae3eacbbb91,"Hernandez, Lane and Lewis",Impresora,1.0,1000,2025-05-31,CDMX,Rechazado
+2472f682-3c56-472c-9577-7faf8f064155,"Campbell, Ochoa and Price",Tablet,5.0,1000,2025-06-21,Los Angeles,Pendiente
+5064ac71-3a48-413d-a180-9676726f7239,"Rich, Bradley and Roberts",Laptop,10.0,1500,2025-01-17,CDMX,Pagado
+4752edc5-9576-4dab-b68a-3749df6a182a,Gonzalez PLC,Smartphone,20.0,500,2025-04-03,Los Angeles,Pagado
+d2962e0b-0078-4ffb-945e-879c0ae6d733,Alexander-Bowman,Laptop,5.0,500,2025-05-07,Monterrey,Rechazado
+b6848a81-fe69-40b9-b89f-39b99a31e9cd,"Taylor, Wright and Horn",Impresora,5.0,1000,2025-02-05,Monterrey,Pagado
+78c6dc46-5b26-43fc-b42c-fa6200e647d1,Jones and Sons,Tablet,1.0,2000,2025-05-10,Shenzhen,Pagado
+f2013df6-b50f-4c42-9261-6eada250891c,Wilkins Inc,Tablet,5.0,500,2024-12-28,Monterrey,Pendiente
+5639d141-a837-422a-987b-629b0753c712,"Rich, Bradley and Roberts",Smartphone,5.0,500,2025-02-26,CDMX,Pendiente
+b4172d0e-7505-40f6-84b6-ea13f90f72ee,Ibarra-Brown,Impresora,5.0,500,2025-02-19,Hamburgo,Pendiente
+f8f7652b-ced6-4feb-ad11-afe64f89f7ec,Tucker-Ball,Smartphone,1.0,500,2025-01-17,Shenzhen,Pagado
+1f32e794-0d15-4280-aca4-6c2c53e14d50,Schroeder Inc,Monitor,20.0,1000,2025-04-28,Hamburgo,Pendiente
+c8e78f74-8bb3-4299-ba3a-9a5a07a00568,Holt-Montgomery,Tablet,1.0,500,2025-06-18,CDMX,Pagado
+6b696a54-f657-45e4-97b6-d67d133d3f41,Taylor Inc,Tablet,1.0,500,2024-12-30,CDMX,Pendiente
+e09d0642-74f2-4109-9274-61dc7f1aa1bf,Schroeder Inc,Laptop,20.0,1000,2025-02-12,CDMX,Rechazado
+cc7efa6b-606e-4a7f-8568-b537b1c922ec,"Rich, Bradley and Roberts",Monitor,20.0,1500,2025-05-17,Los Angeles,Pagado
+dda23b01-3e2a-44a6-b192-e608626e2716,Ibarra-Brown,Impresora,20.0,1500,2025-02-13,Los Angeles,Pagado
+87ce7c18-a46f-4b6a-badf-1a9945d7309e,"Young, Bryant and Rodriguez",Tablet,1.0,1500,2024-12-29,Los Angeles,Pendiente
+91d37d72-de1f-4d9f-aef9-fd446b371cde,"Lewis, Cole and Salazar",Tablet,20.0,1500,2025-03-12,Shenzhen,Rechazado
+cdc0589b-dc74-4078-a552-12f1234b7cd0,"Bentley, Sullivan and Keller",Tablet,1.0,500,2025-05-03,CDMX,Pendiente
+c5d2ce8e-aaa6-4d6c-9281-c9c6fa8f1598,Bryant-Wilson,Tablet,20.0,1000,2025-01-07,Hamburgo,Pagado
+14332d53-e850-4507-9c50-ed537ba2a1ec,Patel LLC,Tablet,20.0,1000,2025-03-10,Los Angeles,Rechazado
+8b6428af-e60c-44c3-95c2-cdd555c2ef4f,Parker-Jimenez,Smartphone,5.0,2000,2025-04-20,Shenzhen,Pagado
+6aea2530-f300-4e3d-a3f6-a2006aba8279,Gonzalez PLC,Laptop,5.0,2000,2025-05-02,Monterrey,Pendiente
+09841659-c043-4ee9-9e9e-9efb9ccd626a,Lopez-Butler,Smartphone,20.0,2000,2025-05-17,Shenzhen,Pendiente
+46e96435-ac80-47a0-8718-328ccda9b59b,Young LLC,Smartphone,1.0,2000,2025-03-05,Monterrey,Pagado
+c5d0accf-150d-44e3-80b8-4a4a8e892726,Jackson and Sons,Monitor,1.0,1500,2025-04-01,Monterrey,Rechazado
+39f48d8e-769d-417d-913f-6ecbb4a6fbeb,Gonzalez-Weiss,Laptop,10.0,1000,2025-03-02,Los Angeles,Rechazado
+1599840e-80c6-489f-90ae-52912d1eb353,"Hernandez, Lane and Lewis",Laptop,1.0,2000,2025-05-25,Hamburgo,Pendiente
+61c83378-ce63-4471-bcb1-173ae72839be,Tucker-Ball,Tablet,20.0,500,2025-05-14,Monterrey,Pendiente
+1393ab61-4bb8-4598-98c6-a242cabc99af,Hogan-Bradley,Monitor,10.0,2000,2025-03-03,Monterrey,Rechazado
+820a7ee2-fb3f-45e8-acdb-16768ebd5ea0,Prince-Moses,Laptop,5.0,1000,2025-02-20,Shenzhen,Rechazado
+8b9760bb-efbf-4ece-8de2-dbc535c84914,"Rich, Bradley and Roberts",Smartphone,1.0,1500,2025-04-11,Monterrey,Pagado
+4aeada47-6e28-463e-af6f-6ae020f7994f,Stout Inc,Smartphone,10.0,1500,2025-04-28,CDMX,Pagado
+f41a4f5a-8bde-4fb9-aa8b-ce42df111650,"Campbell, Ochoa and Price",Monitor,10.0,1500,2025-01-11,Shenzhen,Pagado
+2436cac2-e33a-4465-ac9d-2852f5ba1962,"Copeland, Miller and Shaw",Smartphone,5.0,500,2025-03-29,CDMX,Pagado
+e9b755e3-ff3c-49b3-bd9b-56003bb0edb2,Schroeder Inc,Monitor,5.0,500,2025-04-25,Los Angeles,Pagado
+79bd7141-ccce-4e25-85b4-cec2e360b134,Braun-Garcia,Impresora,20.0,500,2025-06-15,Hamburgo,Pendiente
+f50c8bfa-3749-4159-83e2-27256161df33,Prince-Moses,Impresora,10.0,1500,2025-03-18,Los Angeles,Rechazado
+0707546a-c192-4432-8371-22c4e8d9bdcd,Tucker-Ball,Tablet,10.0,1000,2025-05-24,CDMX,Pagado
+2b6ccdf7-21d5-46d8-8e98-59a2ab973f75,Braun-Garcia,Tablet,5.0,1500,2025-02-24,Monterrey,Pagado
+fce921ab-167b-4e0b-a850-a394c5350086,Gonzalez-Weiss,Laptop,10.0,2000,2025-05-22,Shenzhen,Pendiente
+ee00b23c-d6b7-459f-9663-22e359553fbd,Griffith-Rivera,Tablet,10.0,2000,2025-05-10,Los Angeles,Pendiente
+f5cedcad-f4ff-46a9-9a74-ada561e9a467,Perez and Sons,Monitor,1.0,500,2025-04-24,CDMX,Pendiente
+10e038cf-36e0-44bf-9466-f1f15c7f7831,Alexander-Bowman,Laptop,5.0,500,2025-04-02,Monterrey,Pendiente
+43ff9371-c536-430f-aa4a-bd12622cef32,Morse-Marshall,Tablet,10.0,500,2025-02-27,CDMX,Rechazado
+38d0e5ff-931c-4c28-942f-765e2b81a9e3,Holt-Montgomery,Smartphone,5.0,1000,2025-03-28,CDMX,Pagado
+c053a1ff-0fcb-4665-bc3e-5e1391cf79c2,"Rich, Bradley and Roberts",Smartphone,20.0,500,2025-05-20,Los Angeles,Pendiente
+faad3d9f-7951-4dc0-9d5f-e7e4cff8be06,Macdonald-Brown,Impresora,20.0,1500,2025-04-25,Los Angeles,Pagado
+57ab4d8d-e275-401e-8feb-684fedd89bb6,Dawson LLC,Impresora,10.0,500,2025-04-07,Hamburgo,Rechazado
+0ea4fdec-6116-4f21-bdbd-d8ebafab3b6a,Johnston-Gonzalez,Monitor,5.0,1000,2025-06-13,Los Angeles,Pagado
+c0673428-a637-4194-abf4-78114f7ed7cf,Macdonald-Brown,Impresora,5.0,1000,2025-04-17,CDMX,Pagado
+75516d0d-e005-40d5-abfd-9c9b1d9e60dc,Macdonald-Brown,Impresora,10.0,500,2025-05-15,CDMX,Rechazado
+0ed12d9c-9191-431b-8190-094640e624ce,Jackson and Sons,Laptop,5.0,2000,2025-02-03,CDMX,Pagado
+3ffd30a4-ed83-45cd-b2e1-f9c7a8427ed6,Jackson and Sons,Monitor,20.0,1500,2025-02-03,CDMX,Pagado
+5e03e976-2136-47e5-87a8-a8c874298abd,Tucker-Ball,Laptop,5.0,1000,2025-01-19,Hamburgo,Pagado
+25750372-2dda-4808-98a9-b86f159b4ec4,Hogan-Bradley,Monitor,1.0,1000,2025-01-19,Monterrey,Pagado
+6d953afc-d341-4e01-95c7-8c19aeccc21c,"Young, Bryant and Rodriguez",Smartphone,1.0,1500,2024-12-24,CDMX,Rechazado
+adc48202-cfa3-4824-ab9d-ac3ce5a8c250,Morse-Marshall,Laptop,1.0,1000,2025-04-25,Hamburgo,Pendiente
+dae9c9ca-75d0-4ef8-bb18-120d3ad851ab,Patel LLC,Tablet,20.0,2000,2025-03-11,Shenzhen,Rechazado
+b3e6e310-23ec-4aba-99de-f856df32f20b,"Lewis, Cole and Salazar",Smartphone,20.0,1500,2025-06-07,Monterrey,Pendiente
+a8a640ed-580a-4a13-af1c-b254b615fb67,Morse-Marshall,Laptop,20.0,2000,2025-05-17,Los Angeles,Pendiente
+56da80f7-0b49-4e9d-acd9-94f8a69326df,Prince-Moses,Tablet,10.0,500,2025-04-07,Hamburgo,Rechazado
+4613c94d-b994-44a5-a987-74962da4f8c3,Bryant-Wilson,Impresora,1.0,1000,2025-05-28,Shenzhen,Pendiente
+5689a914-4595-4007-a7f4-122ba8843014,Macdonald-Brown,Smartphone,10.0,1500,2025-06-20,Los Angeles,Pendiente
+6a24c496-172a-478d-99f0-590f422d77fb,Martinez-Le,Monitor,20.0,500,2025-01-27,Hamburgo,Pendiente
+1ea4f7d1-f36b-4bc0-8c57-52480702b771,"Ward, Smith and Henry",Tablet,5.0,1000,2025-01-13,Monterrey,Rechazado
+0178d25c-85b1-4f8f-9f51-90b44c6a04c3,Campos LLC,Monitor,1.0,2000,2025-05-23,Shenzhen,Rechazado
+b2252a41-2322-40a8-acb4-777f864515f3,Jackson and Sons,Impresora,20.0,500,2025-04-20,Shenzhen,Rechazado
+f77e0bcf-4362-45b1-b4da-5e4d4b26edaa,Pierce and Sons,Laptop,5.0,2000,2025-05-07,Monterrey,Pagado
+c25cfdc1-774b-4bfd-9354-5126fe9ea190,Griffith-Rivera,Impresora,5.0,500,2025-03-17,Monterrey,Pendiente
+c654cc52-e250-43da-aa92-cf8afea331c6,Huffman-Hobbs,Tablet,5.0,1500,2025-05-15,Los Angeles,Rechazado
+98f3ff0d-369c-4678-b5e7-e6925ad16948,"Bentley, Sullivan and Keller",Laptop,1.0,1000,2025-02-16,Los Angeles,Rechazado
+99524361-7ae2-4840-8d75-a9aa597f173b,"Copeland, Miller and Shaw",Tablet,1.0,2000,2025-03-29,CDMX,Pendiente
+39f75de4-d3cd-4376-b58f-3fc6a3d60329,Dawson LLC,Tablet,1.0,1000,2025-06-06,Shenzhen,Rechazado
+31a6e895-b17f-4ea6-8de4-c11ae491308f,"Harris, Harris and Vasquez",Impresora,5.0,500,2025-02-17,Los Angeles,Pendiente
+7758981a-c06c-425d-8a5f-cb7b45be3f0e,Jones and Sons,Tablet,20.0,2000,2025-06-15,Los Angeles,Rechazado
+1091a9c0-9289-4afa-948b-ef87d9562eb6,"Bentley, Sullivan and Keller",Tablet,10.0,500,2025-04-23,Los Angeles,Pagado
+ec5409c2-f4da-44f2-85a8-56ad77bea016,Parker-Jimenez,Tablet,5.0,1500,2025-02-17,Monterrey,Pagado
+686005f8-6a60-45e3-9f31-07b306041a1b,Parker-Jimenez,Tablet,5.0,1500,2025-06-15,Monterrey,Pagado
+e9957c2d-3637-42df-9a66-c61063d20088,Huffman-Hobbs,Impresora,10.0,1500,2025-02-19,Los Angeles,Pendiente
+76c1f614-26a7-4101-b111-d5e937f0fb82,Johnston-Gonzalez,Smartphone,20.0,500,2025-04-13,CDMX,Rechazado
+f445631a-c435-409d-817f-5e43378a2f3e,Perez and Sons,Monitor,1.0,1500,2025-04-21,Shenzhen,Pendiente
+97e88868-cf71-42dd-91f0-bd6d82bb08b5,Macdonald-Brown,Impresora,10.0,1500,2025-03-28,Hamburgo,Pagado
+90d2354b-56ad-4eca-b8e4-b9b05e5817b6,"Taylor, Wright and Horn",Laptop,5.0,1500,2025-02-11,Monterrey,Rechazado
+50ce758d-b061-48e8-99c7-46b241d1c038,"Campbell, Ochoa and Price",Tablet,1.0,500,2025-04-29,Hamburgo,Pendiente
+4f331521-6352-4450-a1d5-015ff730b510,Pierce and Sons,Monitor,1.0,2000,2025-06-08,Shenzhen,Pagado
+e7dc5e12-1fa2-491e-8676-eea8c46359a5,Bryant-Wilson,Laptop,20.0,1000,2024-12-26,Hamburgo,Pagado
+078cab81-c26b-4a3a-8ba7-bbf5b38035b5,"Ward, Smith and Henry",Laptop,1.0,1000,2025-04-18,CDMX,Pendiente
+272081b7-a027-442c-8f88-04ad3f74c14e,"Hernandez, Lane and Lewis",Tablet,5.0,1500,2025-03-06,CDMX,Pagado
+f1f5fcc5-d6dd-46ad-bc7e-3a3c4a657902,Young LLC,Smartphone,20.0,1000,2025-04-14,Monterrey,Pendiente
+b73d42de-cf65-412a-bbf0-d42866a1e6d6,Stout Inc,Smartphone,1.0,500,2025-04-11,Los Angeles,Pendiente
+dd70cbed-265a-4fa9-8d6f-2ab7c2cef54b,Taylor Inc,Tablet,1.0,1000,2025-06-23,Monterrey,Pendiente
+7d70a330-eb7c-4bd9-acc4-aedf71f23031,Pierce and Sons,Tablet,20.0,1000,2025-01-31,CDMX,Rechazado
+497ad30c-5018-4556-b9ed-ba1ddef1db99,Ibarra-Brown,Impresora,20.0,500,2025-05-29,CDMX,Pendiente
+81a9da79-f2db-4ba9-8336-d1644134d6df,Gonzalez PLC,Monitor,1.0,1500,2025-01-28,Hamburgo,Rechazado
+0a453bc5-87d1-49fd-9f91-e28a3589e646,Wilkins Inc,Impresora,5.0,2000,2025-06-05,Shenzhen,Rechazado
+b843b63f-d3ac-407d-bc8c-6a46abad646a,"Rich, Bradley and Roberts",Tablet,1.0,1000,2025-04-02,Hamburgo,Rechazado
+050105bb-4e85-4622-959c-ecc826fbcea6,"Lewis, Cole and Salazar",Monitor,20.0,2000,2025-03-18,Shenzhen,Pendiente
+1b004992-a1e2-46df-a160-9e3ac354efdf,"Anderson, Benson and Duncan",Laptop,5.0,1500,2025-05-24,Shenzhen,Pagado
+8417489f-1d3a-4a2d-953e-3e8a4f0ee163,"Young, Bryant and Rodriguez",Tablet,1.0,2000,2025-05-12,Hamburgo,Pendiente
+04ca7d68-0eae-4550-a9de-afac0b2d4750,Buck-Mcgee,Smartphone,10.0,1000,2025-05-07,Monterrey,Pagado
+bb0927cb-0e31-4bac-b9e0-4267cb217c8a,"Bentley, Sullivan and Keller",Tablet,5.0,500,2025-01-09,Monterrey,Rechazado
+e7af793a-e3a7-4cf0-a522-2d78a9d1a91a,Macdonald-Brown,Tablet,20.0,2000,2025-04-16,Hamburgo,Rechazado
+39a79bc7-f417-4aff-b46e-47b37b76c531,Green-Hays,Smartphone,20.0,500,2025-01-10,Shenzhen,Pagado
+0d4258bc-0093-4a0a-9d06-78fe8bd97fab,Martinez-Le,Impresora,1.0,1000,2025-01-20,Shenzhen,Rechazado
+71e345b9-0b5f-4f7e-bc63-47524eab60f4,Morse-Marshall,Smartphone,20.0,1500,2025-01-14,Hamburgo,Pendiente
+3821919c-0ffc-4af8-8e40-2b97538c8124,Fletcher LLC,Monitor,10.0,500,2025-06-07,Monterrey,Pagado
+9986a58d-d1b4-43f2-b070-91686f71cd32,Taylor Inc,Laptop,1.0,1000,2025-05-19,Hamburgo,Rechazado
+6d9cc396-a0bf-42df-b2b1-5476be63c54f,Ibarra-Brown,Smartphone,1.0,2000,2025-03-24,CDMX,Rechazado
+3d6def52-da34-402c-9531-48035db42e2f,Campos LLC,Laptop,10.0,2000,2025-04-15,Hamburgo,Rechazado
+110a5964-95f6-4319-bfaa-9881a45bbef5,Johnston-Gonzalez,Impresora,20.0,1500,2024-12-31,CDMX,Pendiente
+3661a270-f9bf-4d6f-9114-3799ed0fdd8c,Stout Inc,Smartphone,10.0,1000,2025-01-21,Monterrey,Pagado
+33a8a67d-8d80-4bb3-83e1-548f5e38e322,Patel LLC,Monitor,10.0,1000,2025-04-06,Shenzhen,Pagado
+ebdbbe1e-4d58-44dc-94f4-f8c11d62717d,Buck-Mcgee,Laptop,1.0,500,2025-04-01,Monterrey,Pagado
+5ccf891c-da0d-4bd8-a198-14219c39b684,Martinez-Le,Laptop,10.0,500,2025-02-28,Hamburgo,Pendiente
+299f4a17-00f4-498c-80ca-af39de8036f6,"Bentley, Sullivan and Keller",Monitor,5.0,1500,2025-04-19,Shenzhen,Rechazado
+04606926-2b95-47bd-8458-ef0adc75f14a,"Lewis, Cole and Salazar",Laptop,5.0,500,2025-02-10,CDMX,Pagado
+f41eb89b-bce4-4dc8-b886-95b6c68f5062,"Ward, Smith and Henry",Smartphone,20.0,1000,2025-05-13,Los Angeles,Pagado
+64372efb-5bf4-4619-ab95-9ec0d1aa78f7,Campos LLC,Smartphone,5.0,500,2025-01-12,Monterrey,Pagado
+cb015f66-7c43-4cca-b019-ad15dfec88a5,Morse-Marshall,Tablet,5.0,1000,2025-04-16,Los Angeles,Rechazado
+b4f6d8c3-8865-4f99-a6eb-d6efee331c99,Patel LLC,Tablet,10.0,1000,2025-05-31,Monterrey,Rechazado
+837c0562-598a-4816-9a3b-46b5c168da1c,"Hernandez, Lane and Lewis",Laptop,20.0,2000,2025-03-16,Monterrey,Pagado
+73da91b9-3c55-4622-a166-ad3616fa4759,Gonzalez-Weiss,Smartphone,20.0,1000,2025-04-24,Los Angeles,Pagado
+006b34cd-24cd-4f46-855d-16ad03394f30,Holt-Montgomery,Tablet,1.0,2000,2025-05-26,Monterrey,Pagado
+becf05b0-ed9f-441d-b07f-77f5fd8edfa2,Gonzalez-Weiss,Monitor,20.0,1000,2025-05-13,Monterrey,Rechazado
+53d1f729-5517-43ae-9d69-75029b015183,Griffith-Rivera,Smartphone,5.0,1000,2025-01-26,Shenzhen,Rechazado
+b999ddc2-9f4b-428a-8a8e-1df56c62f271,Dougherty Group,Impresora,5.0,1500,2025-04-06,Monterrey,Pagado
+577b0227-6b88-4fc1-a6ec-7ba417dbb9e3,Braun-Garcia,Smartphone,1.0,1500,2025-01-30,Shenzhen,Rechazado
+1f40d75a-2cea-4f5b-bb37-79c1c0319436,Patel LLC,Tablet,10.0,1000,2025-04-14,CDMX,Rechazado
+2df042fd-5e2a-49ec-acbc-bf0257a48b6c,"Young, Bryant and Rodriguez",Tablet,20.0,1500,2024-12-31,Shenzhen,Pendiente
+6e025efc-85f3-4072-9ef0-ee4dcaa69399,Dougherty Group,Impresora,1.0,2000,2025-05-16,Los Angeles,Pagado
+f6a6c1dd-868e-4cb1-8d0b-44f6ffd273b1,Jackson and Sons,Laptop,20.0,500,2025-04-10,Monterrey,Pagado
+53ac8e87-765a-415f-8313-4f2447749aa5,Huffman-Hobbs,Impresora,1.0,2000,2025-04-29,Shenzhen,Rechazado
+ecd5da0f-f55e-48c5-a610-237c6dd60b64,Jackson and Sons,Laptop,10.0,1500,2025-04-22,CDMX,Pendiente
+84b88f67-acde-4b9a-85ed-e6912f26d931,Perez and Sons,Laptop,1.0,2000,2025-01-29,Los Angeles,Pagado
+49d34ca5-1192-43d4-a731-cf0c583d54a8,Fletcher LLC,Monitor,10.0,1000,2025-04-26,Monterrey,Rechazado
+c9b8e458-eba1-4016-994c-9af693e8ec04,Wilkins Inc,Smartphone,10.0,1500,2025-03-21,Los Angeles,Pagado
+395aa422-14d4-4411-9a70-8ace95244dc0,Bryant-Wilson,Smartphone,10.0,1500,2025-05-02,CDMX,Pagado
+fc3a1b9c-40bf-4f61-a3bc-e43513d6a4d3,Rodriguez-Bell,Tablet,5.0,2000,2025-05-19,Monterrey,Pagado
+6aca891a-ac69-47dd-8b68-09e748b996e6,Patel LLC,Tablet,10.0,500,2025-03-28,Shenzhen,Pagado
+79fc5e32-b858-4e6c-95d1-417d253a7c7b,Green-Nelson,Monitor,5.0,2000,2025-04-29,Los Angeles,Rechazado
+d4f7c1a2-a2cf-42a5-82d5-a0d4ea83458e,Prince-Moses,Smartphone,5.0,2000,2025-04-22,Shenzhen,Pendiente
+6a505c5b-80e3-47c3-a516-1f3322d363ba,"Hernandez, Lane and Lewis",Tablet,5.0,1500,2025-04-04,CDMX,Pendiente
+72be3c3d-f1ec-4626-8394-6b6424b28e87,Griffith-Rivera,Laptop,20.0,1000,2025-04-20,Shenzhen,Rechazado
+39ec5ca2-9237-4dfa-b79d-446e72b14dfc,Prince-Moses,Impresora,10.0,2000,2025-02-06,Los Angeles,Rechazado
+5a54ef3b-900e-4386-add2-507fc8cf9687,Holt-Montgomery,Tablet,10.0,2000,2025-01-25,Shenzhen,Pagado
+06c8c48d-828e-4b04-8ba9-92fbeaf31c51,"Young, Bryant and Rodriguez",Tablet,10.0,1000,2025-02-19,CDMX,Pendiente
+d8aedf6c-fb76-4fc7-bfdb-f1e2b850cda9,Wilkins Inc,Impresora,10.0,2000,2025-04-16,Shenzhen,Rechazado
+b6f61bed-9217-4428-aa28-851ce6bee269,Schroeder Inc,Monitor,1.0,1500,2025-04-13,Los Angeles,Pagado
+8bcd938b-b42e-4dc0-b95d-f26e1bf9051e,Bryant-Wilson,Monitor,20.0,1500,2025-03-03,Shenzhen,Pagado
+477fb4bc-ee7e-4572-99cd-0e3c1fb5bda2,Pierce and Sons,Tablet,20.0,2000,2025-01-17,Shenzhen,Pendiente
+6eb26083-e80a-42fb-bcdc-f7784aa60a4d,Gonzalez PLC,Impresora,5.0,1500,2025-04-03,Los Angeles,Pagado
+27e76142-39c3-4d9d-b8f8-1e7dd1ee319c,"Campbell, Ochoa and Price",Monitor,5.0,2000,2025-03-04,Monterrey,Rechazado
+e78c2326-447b-44c3-8fac-c5f9866db0a1,Morse-Marshall,Impresora,5.0,1500,2025-06-22,Monterrey,Rechazado
+fc7f18e2-584e-4ea2-b696-fee9018cfe56,Huffman-Hobbs,Impresora,1.0,2000,2025-05-16,CDMX,Rechazado
+c23b34dc-0039-4702-bf2f-74e62b231753,Green-Hays,Tablet,10.0,500,2025-02-03,Monterrey,Pendiente
+47dc9903-7e72-442b-ba1e-a804716a065f,"Copeland, Miller and Shaw",Smartphone,1.0,2000,2025-02-02,Monterrey,Pendiente
+de270575-fde9-4b0c-aa6b-a1fce6ed47f2,Hogan-Bradley,Smartphone,1.0,2000,2025-04-08,CDMX,Pendiente
+93bfd5a6-eb22-4011-b057-d15a8b9cc654,Pierce and Sons,Monitor,5.0,2000,2025-04-09,CDMX,Pagado
+f0fe8763-871c-43bb-9750-f3390e3dcd6e,Dougherty Group,Monitor,1.0,2000,2025-04-02,Shenzhen,Pendiente
+38c5a6bf-6cc9-4ba6-b0bc-c979b7cb294a,Holt-Montgomery,Laptop,5.0,1000,2024-12-24,Los Angeles,Pagado
+fb71fd78-d2cc-46f1-9729-7ccadfd75b0d,Tucker-Ball,Impresora,5.0,500,2025-03-15,Shenzhen,Pagado
+04658709-905a-45dc-b474-5b3029594d0b,Green-Hays,Tablet,20.0,1000,2025-04-09,Shenzhen,Pagado
+13c92340-5256-41ee-a884-6a9635725a2a,Patel LLC,Tablet,20.0,1500,2025-04-23,CDMX,Pendiente
+5fac3ef1-9c71-4910-bcce-debdec9e8d77,"Lewis, Cole and Salazar",Smartphone,20.0,1000,2025-05-15,Shenzhen,Rechazado
+82a0161f-8650-4631-b636-d7cac8163ac0,Griffith-Rivera,Tablet,5.0,1500,2025-03-06,Hamburgo,Rechazado
+1a774694-2189-4492-aab0-db8a7d6553a0,"Anderson, Benson and Duncan",Laptop,5.0,1000,2025-03-27,Shenzhen,Pendiente
+823c525b-8643-4bd6-a07d-5e5052152282,Fletcher LLC,Tablet,20.0,2000,2025-05-05,Hamburgo,Rechazado
+2afaa971-dbde-4b63-b4b8-0b42797edd07,Parker-Jimenez,Tablet,10.0,1500,2025-05-03,Los Angeles,Pendiente
+5e0ec17b-d352-4442-84ca-1ee084105e41,Griffith-Rivera,Monitor,20.0,500,2025-02-22,Shenzhen,Pendiente
+9e1198ad-739c-4c5f-bcb9-94fe42b725df,Prince-Moses,Impresora,10.0,1500,2025-04-19,Hamburgo,Pagado
+4aab6fdb-2320-4ea7-94bb-86be7cc2fdad,Johnston-Gonzalez,Monitor,20.0,1000,2025-06-18,Shenzhen,Rechazado
+5af44076-e83a-453d-8e9e-075e5659fc64,Martinez-Le,Impresora,20.0,1000,2025-01-15,Los Angeles,Rechazado
+4e904720-68b7-4b44-849e-1c67884aea41,"Mitchell, Hunter and Rodriguez",Impresora,5.0,2000,2025-02-13,Shenzhen,Rechazado
+e9ed9759-a670-4358-85cc-6c53687aefd7,Patel LLC,Tablet,20.0,500,2025-03-29,Los Angeles,Pagado
+2f47550a-2cc7-4f4f-85a1-111afd3af21d,"Mitchell, Hunter and Rodriguez",Tablet,10.0,1000,2025-03-27,Shenzhen,Pendiente
+d73a29da-bd86-4261-9d4d-b71d3b696d22,Macdonald-Brown,Smartphone,10.0,500,2025-05-04,CDMX,Pagado
+d63fcfb5-c390-41ea-b0a7-f80637c0f6d9,Green-Hays,Laptop,20.0,2000,2025-03-28,Monterrey,Pendiente
+a3d7377d-7b36-4516-ba56-413a40fb9941,Young LLC,Laptop,20.0,1500,2025-04-28,Monterrey,Pendiente
+cfacf416-673e-4cf3-9438-bc3c3f591e63,"Taylor, Wright and Horn",Laptop,5.0,500,2025-05-03,Los Angeles,Pagado
+682ed79e-ff13-42b6-9d61-e9558fe5de1f,Fletcher LLC,Smartphone,10.0,1000,2025-05-02,CDMX,Pendiente
+c1e961bf-1dc0-4bd6-a27c-12fe3c73f6cb,White PLC,Monitor,5.0,500,2025-05-26,Monterrey,Rechazado
+cbd0b233-9774-41c8-9042-78c830989880,Morse-Marshall,Monitor,5.0,2000,2025-01-27,Shenzhen,Pendiente
+41b378e8-f648-4b03-b6c6-dd58815ece64,Morse-Marshall,Monitor,5.0,500,2025-01-28,Shenzhen,Pendiente
+54f62773-452e-434f-b8b4-de1859c11c71,Taylor Inc,Tablet,1.0,2000,2025-05-05,Hamburgo,Rechazado
+8ed0d8e4-fda9-4a0a-8926-7386d815461c,Young LLC,Impresora,10.0,500,2025-02-12,Monterrey,Rechazado
+d2ddb293-77a9-4377-8a4c-7b5a96c96bf9,Gonzalez PLC,Laptop,20.0,1500,2025-01-21,Monterrey,Rechazado
+db4b56d2-6668-4aa6-861f-7c17d6f34998,Parker-Jimenez,Laptop,5.0,1000,2025-06-15,Shenzhen,Pagado
+4e933079-eaad-4c6c-9d81-72dbd58a3c6b,Huffman-Hobbs,Smartphone,10.0,1000,2025-03-25,Los Angeles,Pendiente
+7bee3633-955b-4e9d-8314-6d4176fcad3b,Perez and Sons,Monitor,1.0,500,2025-06-02,Los Angeles,Pendiente
+0889361c-bf58-4f61-9b9f-b3bd5bb22185,"Mitchell, Hunter and Rodriguez",Tablet,5.0,500,2025-03-11,Los Angeles,Pendiente
+4d125042-552d-4ac0-828b-7d346daead34,Young LLC,Monitor,10.0,1500,2024-12-25,CDMX,Pagado
+6be01952-b284-473d-8913-30cd548c0904,Schroeder Inc,Monitor,20.0,1000,2025-03-16,CDMX,Pagado
+4db5da7d-2d91-4ee2-b6e0-b150d7cf1fd7,Jones and Sons,Tablet,20.0,2000,2024-12-29,CDMX,Pagado
+c53af5e5-5693-44fe-8fb1-30cbec9144ef,Patel LLC,Smartphone,20.0,1500,2025-03-24,Los Angeles,Rechazado
+5ebd5a7e-f69f-4dc9-82d1-8c231442fe01,"Hernandez, Lane and Lewis",Smartphone,20.0,2000,2025-05-12,Los Angeles,Rechazado
+c0bbea4b-d642-4385-8db8-d42ea9f98fad,Mercado Group,Tablet,20.0,2000,2025-05-11,Shenzhen,Pagado
+79cdee57-a3be-4400-9478-5b4c25e0794e,Johnston-Gonzalez,Tablet,1.0,2000,2025-05-11,Los Angeles,Pendiente
+6ad4bf82-5abe-489b-8e52-12f0c721ca08,Johnston-Gonzalez,Smartphone,1.0,1500,2025-05-09,Los Angeles,Pendiente
+7e0666c5-baef-48f5-b4ea-aa1eeee22fcb,"Lewis, Cole and Salazar",Tablet,20.0,2000,2025-05-08,CDMX,Rechazado
+7a3aeb24-80ee-47ea-b00e-6cc73f465391,"Harris, Harris and Vasquez",Laptop,1.0,2000,2025-03-05,Los Angeles,Pagado
+ad721548-03f2-498e-8dc0-372928683fd7,Braun-Garcia,Tablet,1.0,2000,2025-06-17,CDMX,Pagado
+6df1c1b3-4b20-4d3e-a377-aa2b82e4d5cb,Schroeder Inc,Impresora,5.0,1000,2025-03-31,Shenzhen,Rechazado
+ab94ed2e-7cbc-4e04-b56b-4424b973cbc8,Jackson and Sons,Laptop,10.0,1500,2024-12-26,Shenzhen,Pendiente
+b734d004-7050-4e6a-832e-b1a1c8f56ef3,Griffith-Rivera,Tablet,5.0,500,2025-03-02,Monterrey,Pendiente
+be7310f4-6583-4c02-b1b4-97286717d9b1,"Hernandez, Lane and Lewis",Smartphone,20.0,1500,2025-03-22,Monterrey,Pagado
+f270c3de-5f40-4239-b0a4-3d7a49b34bd1,"Bentley, Sullivan and Keller",Laptop,20.0,500,2025-04-18,CDMX,Pendiente
+29f8164b-736c-4100-bfb5-a8293a7d2166,Bryant-Wilson,Impresora,10.0,500,2025-03-22,CDMX,Pagado
+bd029bfc-dd56-4340-a43e-b873c6f308be,"Lewis, Cole and Salazar",Smartphone,10.0,500,2025-04-09,Hamburgo,Pagado
+32df6f6e-3295-4cb3-b6a4-fd06c13c6524,Perez and Sons,Laptop,1.0,1000,2025-01-04,Shenzhen,Rechazado
+5a15707a-eafd-49bf-8aef-341fd1292124,Hogan-Bradley,Monitor,20.0,2000,2025-01-17,CDMX,Pagado
+0b954880-1d8f-401e-9a79-c103cbf294c0,Huffman-Hobbs,Smartphone,20.0,500,2025-04-15,Monterrey,Pagado
+b9be890a-bcaa-43e4-a311-a38027cc029c,Huffman-Hobbs,Smartphone,5.0,2000,2025-03-27,Monterrey,Rechazado
+f1abe422-63ab-46c8-83d5-2ee2719d393d,Lopez-Butler,Monitor,1.0,1500,2025-03-08,Los Angeles,Pendiente
+925b0c3b-ebd2-4a06-9fb2-b6fa1c1711ae,Pierce and Sons,Monitor,20.0,2000,2025-06-03,Shenzhen,Rechazado
+43a13adc-988e-43a1-9047-6f6336946d6c,Parker-Jimenez,Laptop,1.0,1000,2025-05-06,Hamburgo,Pendiente
+d3c0cb5d-27b9-49d1-96ba-6fb05791f07e,Pierce and Sons,Smartphone,5.0,2000,2025-03-25,Shenzhen,Pagado
+93e280a5-28d8-40f0-a8f3-7a3d8da8b7ee,Buck-Mcgee,Impresora,5.0,1000,2025-03-19,Los Angeles,Pagado
+8b96a60d-5fae-4617-a105-68b913638222,Stout Inc,Monitor,20.0,1500,2025-04-16,Hamburgo,Pagado
+fab47cd1-6a5c-49ff-a76c-4f73fc5ece62,Taylor Inc,Tablet,1.0,1000,2025-03-04,Hamburgo,Rechazado
+5e7899e0-9c4c-4220-a8b1-a366829452d7,"Mitchell, Hunter and Rodriguez",Tablet,20.0,1000,2025-01-21,Shenzhen,Rechazado
+7ca796b3-54d2-4c86-94a3-f06ece5273ee,Prince-Moses,Laptop,5.0,500,2025-03-02,Los Angeles,Rechazado
+c62260fa-21af-4437-bb3e-1bf9d10e8c77,Campos LLC,Impresora,20.0,2000,2025-03-30,Shenzhen,Pendiente
+d1c4bdcc-f99b-487f-a21a-72b68c4e81cd,Hogan-Bradley,Impresora,10.0,2000,2024-12-26,CDMX,Pendiente
+ff67093d-8557-4f0b-bcad-4c656de014dc,Tucker-Ball,Laptop,1.0,1500,2025-05-06,Hamburgo,Pendiente
+58a96d7c-afb6-46af-88d0-06f134d9c214,Gonzalez PLC,Laptop,1.0,1000,2025-03-16,CDMX,Pagado
+823dddb2-5741-4fb5-ba4c-ebdcd0341a9a,Morse-Marshall,Smartphone,10.0,2000,2025-01-28,Los Angeles,Rechazado
+7eef3bed-93ce-423d-a80f-97af0eaa91f0,"Mitchell, Hunter and Rodriguez",Monitor,10.0,500,2025-02-16,Monterrey,Pagado
+aa74c386-4080-408d-815e-4d9a217cae06,Morse-Marshall,Monitor,5.0,500,2025-05-01,Hamburgo,Pendiente
+900ffbfc-8417-400c-bf2f-e230f9ac7875,Prince-Moses,Laptop,10.0,2000,2025-01-23,Los Angeles,Rechazado
+1644796d-8ad9-40cf-ae41-230fa40ca271,Huffman-Hobbs,Laptop,10.0,1500,2025-05-07,Los Angeles,Pagado
+4e5a2d57-fc56-4cf7-9a4e-8763e70ac872,Holt-Montgomery,Impresora,10.0,1000,2025-04-20,Shenzhen,Rechazado
+f72c2608-68cd-445f-b0b3-8a66ec3cf323,Bryant-Wilson,Impresora,20.0,500,2025-04-18,Los Angeles,Pagado
+f8218cb5-714a-4fa7-b0fd-70da7ea3d01f,Hogan-Bradley,Impresora,20.0,1000,2025-03-02,Shenzhen,Pagado
+442e75a2-d35c-4139-90a8-3d509e98ba1a,Tucker-Ball,Impresora,20.0,1500,2025-04-19,Los Angeles,Pendiente
+8938d838-918e-446c-827f-d5c2ee46fc17,Hogan-Bradley,Monitor,10.0,1000,2025-05-30,Monterrey,Rechazado
+b7d5259d-f938-49a2-b6a0-6bb8319ee7d5,Holt-Montgomery,Impresora,5.0,1000,2025-04-11,Monterrey,Pendiente
+74e42408-da7f-41d0-850f-0710e7919150,Braun-Garcia,Smartphone,20.0,1000,2025-02-08,Los Angeles,Rechazado
+a5264f4f-bd3a-493a-8a85-650e4dab9369,Parker-Jimenez,Monitor,10.0,1500,2025-04-14,Los Angeles,Pagado
+f7bb766f-492c-4c19-ae9a-08f63dd12829,Alexander-Bowman,Monitor,20.0,1000,2025-02-10,CDMX,Pagado
+89a59959-bfbb-465f-820b-04e7f59dc93f,Schroeder Inc,Laptop,5.0,500,2024-12-31,Monterrey,Rechazado
+5d7503ea-ac2a-469d-af18-bb55be0e3893,Stout Inc,Impresora,20.0,2000,2025-04-12,Los Angeles,Pagado
+36ea4af7-6cab-4bd3-966d-fd3bb0fad39a,"Campbell, Ochoa and Price",Impresora,1.0,2000,2025-05-06,Monterrey,Pendiente
+b226c38c-40bb-4e80-bc62-e86092d55e0e,Buck-Mcgee,Impresora,10.0,1500,2025-04-17,CDMX,Rechazado
+6b0c89e3-f3d2-47fb-816a-32d9e5792162,Gonzalez PLC,Laptop,1.0,1500,2025-01-30,Hamburgo,Pendiente
+19f7a3ae-6897-4884-9223-a9fd82bc5573,"Taylor, Wright and Horn",Monitor,20.0,2000,2025-05-05,CDMX,Pagado
+00827a88-5970-4b5d-b8a7-d5df5c975715,Tucker-Ball,Smartphone,5.0,1000,2025-03-20,Shenzhen,Rechazado
+1d1d9db8-da14-4572-a1a3-b11873e625a9,Stout Inc,Laptop,20.0,1000,2025-02-09,Hamburgo,Pendiente
+bc2800ef-a0b5-4edb-a4bd-7db6fc262d84,"Rich, Bradley and Roberts",Laptop,10.0,2000,2025-03-06,Hamburgo,Pagado
+d001548b-079f-44ae-af2c-129f156f7b26,"Harris, Harris and Vasquez",Monitor,1.0,1500,2025-02-23,Los Angeles,Rechazado
+0d2ef3cf-8b5c-4ea8-948a-1741e9d3d7ee,Schroeder Inc,Monitor,20.0,1000,2025-05-14,Hamburgo,Pendiente
+3ae4728b-a0eb-4d6b-aad5-cb513263647e,Morse-Marshall,Tablet,10.0,2000,2025-04-24,CDMX,Rechazado
+55781219-18a9-41ab-8811-04e562e54a47,Ibarra-Brown,Impresora,20.0,2000,2025-02-28,Shenzhen,Pagado
+3a09badc-0cd7-48e7-8b8b-d157d40e23ae,Fletcher LLC,Tablet,5.0,1500,2025-04-26,Hamburgo,Pagado
+1028b082-527e-48d4-9c02-f069108a15c3,"Anderson, Benson and Duncan",Laptop,20.0,1500,2025-06-18,Hamburgo,Pendiente
+192c65ea-93e5-4ff2-8bae-32ff366e1ff6,Johnston-Gonzalez,Tablet,5.0,1500,2025-06-20,Shenzhen,Pagado
+25e84253-5b2c-4494-8f9e-202086414073,Gonzalez PLC,Tablet,20.0,500,2025-05-30,Monterrey,Pendiente
+af7751c6-7425-449a-a25e-b803d3a6a1cb,Jackson and Sons,Laptop,20.0,2000,2025-06-02,Shenzhen,Pendiente
+10e29dac-4d78-4152-8cea-4dfb569742ae,Pierce and Sons,Monitor,20.0,2000,2025-03-31,Hamburgo,Pendiente
+7ecfad81-efdc-434a-a6c8-5a54a2d99d44,Green-Nelson,Smartphone,1.0,1000,2024-12-23,Los Angeles,Rechazado
+5ca7e0ee-68d1-413b-aded-19ab97e4e561,Green-Nelson,Monitor,10.0,1500,2025-05-07,CDMX,Rechazado
+b2b591b4-b608-43fa-86fe-90f86b835571,"Ward, Smith and Henry",Smartphone,10.0,1500,2025-01-02,CDMX,Pendiente
+f3fec829-c992-40a0-9765-09389e7fdb7e,Fletcher LLC,Monitor,20.0,2000,2025-01-03,Monterrey,Pagado
+2a1a0614-4564-4c58-b42e-1684f4dbc485,"Lewis, Cole and Salazar",Impresora,1.0,1000,2025-04-25,CDMX,Rechazado
+a84004c0-37da-4799-9fff-9dce313d2970,"Bentley, Sullivan and Keller",Monitor,10.0,1500,2025-03-06,Monterrey,Rechazado
+828fd269-3c62-4d59-8d97-5325f1aa4cb8,Prince-Moses,Tablet,20.0,2000,2025-04-05,Monterrey,Pagado
+5dd5ccc3-e839-4717-a3ed-bcb7b9baf591,Pierce and Sons,Impresora,1.0,1500,2025-02-01,Shenzhen,Rechazado
+c9a62d24-374f-4128-9a77-2b6be8e1c62b,Tucker-Ball,Monitor,20.0,1000,2025-02-14,Los Angeles,Pendiente
+999346e9-e00b-4bbd-a715-558bcd8591a0,Hogan-Bradley,Impresora,10.0,1500,2025-05-22,Monterrey,Pagado
+2e71f124-d0db-4cec-a117-d6f400b03679,Morse-Marshall,Tablet,5.0,2000,2025-03-12,Los Angeles,Pendiente
+9e8f8ce4-65b1-4b84-a21e-c6b0ff9794ec,Johnston-Gonzalez,Smartphone,1.0,500,2025-06-08,Hamburgo,Pagado
+9a809d7d-8162-43b0-9b69-96fe436cbcc1,Lopez-Butler,Tablet,5.0,2000,2025-02-06,CDMX,Pendiente
+6f6a39b2-07dd-4c6b-871f-1719bcad8ddd,"Anderson, Benson and Duncan",Laptop,10.0,1500,2025-01-29,Monterrey,Pendiente
+edf7f381-9fee-49ec-a5e0-53ae88810d68,Schroeder Inc,Monitor,20.0,500,2025-05-17,Monterrey,Pendiente
+f35320d9-5bbf-4231-925a-7c53c02b21a6,"Rich, Bradley and Roberts",Monitor,1.0,2000,2025-03-06,Monterrey,Rechazado
+7a56490f-89ca-46ab-b1cc-07e2da0fc8eb,Martinez-Le,Tablet,20.0,500,2025-05-19,CDMX,Pendiente
+04681d36-bd5f-45e7-9aa6-68983d320e0f,"Campbell, Ochoa and Price",Monitor,1.0,1500,2025-03-11,Monterrey,Rechazado
+95bcb5e3-465f-458d-aede-f6b54551996a,"Anderson, Benson and Duncan",Impresora,5.0,500,2025-01-01,Monterrey,Pagado
+f6c3d907-2494-4b2e-a71c-d28c63fca6e0,Taylor Inc,Laptop,10.0,1000,2025-04-28,CDMX,Pagado
+fe85fa2f-085b-45b3-9c4c-a59c9bb3f6eb,Hogan-Bradley,Monitor,10.0,500,2025-06-10,Los Angeles,Pendiente
+b12c4c4f-4449-4ec6-98b2-cf2710142238,Stout Inc,Laptop,20.0,1500,2025-05-20,CDMX,Pendiente
+82aa468a-2110-46fc-8b23-a5039b985a00,Stout Inc,Impresora,5.0,1000,2025-03-31,Hamburgo,Pendiente
+a985e9d3-fa01-497b-9d6e-139c69c2678d,Griffith-Rivera,Laptop,20.0,2000,2025-03-17,CDMX,Pagado
+770b0d49-076f-441f-90b9-bce58f091663,"Hernandez, Lane and Lewis",Laptop,10.0,1000,2025-01-26,CDMX,Pendiente
+dd28484f-bbcc-4005-b075-37cd20cfa272,"Rich, Bradley and Roberts",Laptop,10.0,500,2025-05-28,Monterrey,Pagado
+ec1350ec-f83e-4c7a-b60e-50ee26bcdc3b,Wilkins Inc,Laptop,10.0,1500,2025-04-18,CDMX,Rechazado
+dbf5574b-cc1a-4b9a-84b1-8405dd8b4439,Green-Hays,Monitor,5.0,500,2025-01-13,CDMX,Pagado
+4b379580-1a3e-47ab-806b-4b86bb025138,Martinez-Le,Monitor,20.0,1500,2025-01-22,CDMX,Rechazado
+f36ffbf8-d85d-449b-a49e-87af574ec948,"Ward, Smith and Henry",Impresora,5.0,1500,2025-04-07,Monterrey,Pendiente
+54abfd5d-9351-43f6-8230-cca27ac2d261,Schroeder Inc,Smartphone,1.0,1500,2024-12-25,CDMX,Pendiente
+5bd41167-6f8e-4927-b7bd-746a0e6d3693,Prince-Moses,Impresora,5.0,500,2025-01-31,Los Angeles,Pagado
+45a5718e-9870-493d-8e36-18009775e475,Buck-Mcgee,Laptop,1.0,500,2025-04-15,Los Angeles,Pagado
+64d4cae2-3fea-429c-a258-8b041b6e6488,Macdonald-Brown,Smartphone,20.0,2000,2025-04-29,Shenzhen,Pendiente
+1a79b1e7-ec86-4de9-a48c-cd2dba50a753,"Harris, Harris and Vasquez",Tablet,10.0,500,2025-03-16,Hamburgo,Pagado
+7cdf71fb-e25c-4683-857e-5350c0841821,Parker-Jimenez,Impresora,1.0,2000,2025-06-16,Shenzhen,Rechazado
+b7b8d726-aea3-4675-b382-6a2679eaac62,Alexander-Bowman,Monitor,10.0,500,2025-03-03,Los Angeles,Rechazado
+5fe8b134-5103-4654-8fc3-bd5639051beb,Ibarra-Brown,Monitor,20.0,1500,2025-03-08,CDMX,Rechazado
+8a135a49-18b2-4f66-a158-99c4c65825cf,Pierce and Sons,Smartphone,1.0,1000,2025-02-27,Hamburgo,Pendiente
+22cf21fb-9e7f-4696-9e07-41abb27950a6,"Harris, Harris and Vasquez",Monitor,1.0,1000,2025-03-14,Monterrey,Rechazado
+be16c5c8-e1f8-4393-913a-76509bdd272b,Macdonald-Brown,Tablet,20.0,1500,2025-02-04,Monterrey,Rechazado
+0cf35d8c-e786-4645-b9ea-83cdcc33c18a,Green-Hays,Laptop,1.0,1500,2025-03-08,Monterrey,Pagado
+4832e27c-1675-4ff0-833a-20c49fd971c7,Green-Hays,Monitor,10.0,2000,2025-01-30,Hamburgo,Rechazado
+1638e9d6-0656-4264-bc13-a78727d97011,Jones and Sons,Smartphone,5.0,2000,2025-04-05,CDMX,Rechazado
+3784be3f-8bf6-4667-8edc-68c8837eaf37,Young LLC,Laptop,20.0,1000,2025-05-04,Hamburgo,Pendiente
+504b95ad-985e-4565-b2c7-a573d5587bc1,Patel LLC,Tablet,20.0,2000,2025-04-02,Los Angeles,Pendiente
+ab998885-c120-4cbe-8f8f-2c3fe77ff4ac,Parker-Jimenez,Tablet,10.0,500,2025-03-23,Monterrey,Rechazado
+fbf76e47-04ae-40ae-b9ad-a767720a1557,Schroeder Inc,Laptop,20.0,2000,2025-03-27,CDMX,Rechazado
+244818f9-13c8-460a-9c98-0ea92beadd30,"Lewis, Cole and Salazar",Tablet,20.0,1000,2025-01-26,CDMX,Rechazado
+7a3eb1ee-b0e2-47f6-bb76-22074406d5b4,White PLC,Tablet,5.0,500,2025-04-11,CDMX,Pendiente
+876da942-a613-4164-aa03-c0f49984f1c7,Griffith-Rivera,Monitor,1.0,2000,2025-06-20,CDMX,Rechazado
+8a761c5c-e724-421f-a36c-22c631a3f529,Rodriguez-Bell,Tablet,20.0,500,2025-01-29,CDMX,Pagado
+409ea919-b551-4194-b039-c33647402dd3,Bryant-Wilson,Impresora,20.0,1000,2024-12-28,CDMX,Pendiente
+7eabed57-e7a1-40a1-9556-bcc03219cb36,Perez and Sons,Smartphone,20.0,1000,2025-05-05,Shenzhen,Pagado
+82b4b0f9-1518-4cc2-8f27-247716f8afcb,White PLC,Impresora,10.0,500,2025-04-04,Shenzhen,Pagado
+7132dfd6-d770-478a-a99a-c94f819c973d,Mercado Group,Smartphone,20.0,500,2025-06-09,Shenzhen,Rechazado
+4c99f5a4-6f61-47f8-b881-9e7fcfad770a,"Mitchell, Hunter and Rodriguez",Smartphone,1.0,2000,2025-01-14,Monterrey,Pagado
+f1cc8e8e-d85a-4e53-aa74-f381bfbd69c6,Perez and Sons,Monitor,1.0,2000,2025-06-17,Los Angeles,Pagado
+088b20e4-9eb8-4dbf-890f-cbe6cb77c615,Alexander-Bowman,Smartphone,1.0,500,2025-01-22,Hamburgo,Pagado
+1274719b-19f3-4267-a9ad-0a5fc81f1752,Perez and Sons,Smartphone,20.0,1000,2025-03-25,Hamburgo,Pagado
+a790907e-43a4-47d3-b7da-612aa3dd3d37,Braun-Garcia,Tablet,20.0,2000,2025-03-23,Hamburgo,Rechazado
+f0850c5c-d006-4bb3-ae25-c22a02383f45,"Ward, Smith and Henry",Tablet,20.0,1000,2024-12-29,Hamburgo,Rechazado
+26ba7e44-8465-4b26-b9c1-3837bed71baa,Macdonald-Brown,Monitor,20.0,500,2025-01-11,CDMX,Pagado
+3fe103b2-a7d6-43ea-a777-f1cd9381f1d3,Stout Inc,Monitor,1.0,1500,2025-02-13,Los Angeles,Rechazado
+9fb2b075-1ee7-476b-b66a-3eed500a7939,Schroeder Inc,Tablet,20.0,2000,2025-02-04,Monterrey,Rechazado
+4ad69c92-97ec-4ead-afab-7a24fba3c094,Schroeder Inc,Impresora,20.0,1000,2025-05-28,Hamburgo,Rechazado
+3ef2a4d9-23f6-4545-81b7-b8d76bc5974a,Gonzalez PLC,Monitor,1.0,1500,2025-04-04,Hamburgo,Pagado
+bbc1a1e1-cf1b-4a53-8a10-f1ec5f7d2623,"Rich, Bradley and Roberts",Impresora,5.0,1000,2025-05-31,Hamburgo,Pendiente
+0062ce63-94f1-496e-838c-ca861a225d77,Patel LLC,Monitor,20.0,500,2025-03-22,Monterrey,Pendiente
+b33c58f9-7da6-4d6e-b5f5-baca7a24a805,"Anderson, Benson and Duncan",Impresora,10.0,500,2025-03-30,Monterrey,Rechazado
+5218bc22-bfdc-4450-a42d-0457e3298dd0,Parker-Jimenez,Impresora,10.0,2000,2025-03-27,CDMX,Rechazado
+607e9710-ee85-41e3-b46a-003e0867ca96,Gonzalez-Weiss,Monitor,5.0,1500,2025-04-20,Hamburgo,Rechazado
+0de3e310-ebef-40e9-8de3-fc7041646de3,Perez and Sons,Impresora,10.0,1500,2025-05-03,Hamburgo,Pagado
+8ce544ee-298d-4b4c-9959-2b8596423eea,Macdonald-Brown,Smartphone,10.0,1000,2025-04-03,Hamburgo,Pendiente
+98bf881c-79f2-4dbe-86da-d5c851cdc1be,Green-Nelson,Laptop,1.0,500,2025-04-21,Hamburgo,Rechazado
+1bb794de-9ad2-4067-bafd-9c9d78bb1022,Prince-Moses,Monitor,1.0,1000,2025-02-09,Los Angeles,Rechazado
+49c5c480-5404-4eea-a71a-471c85edbedb,"Copeland, Miller and Shaw",Smartphone,10.0,500,2025-03-25,Hamburgo,Rechazado
+cbc8f3b5-ff3e-46cf-b861-d79aa25c9a25,Gonzalez-Weiss,Tablet,10.0,500,2025-02-28,Hamburgo,Rechazado
+f34fda3d-6fd2-4d23-a2fa-ae89e7733ef1,Young LLC,Smartphone,20.0,2000,2025-02-26,CDMX,Pagado
+c492b25d-362a-4e80-b328-e5520e16a92e,Tucker-Ball,Impresora,1.0,500,2025-05-19,Hamburgo,Pagado
+6286a28f-cfa0-486d-a20f-8ae9d8c8df14,Johnston-Gonzalez,Laptop,1.0,500,2025-06-10,Monterrey,Pagado
+968d49e3-e682-45b7-b044-7166d34c2b3f,Green-Nelson,Tablet,1.0,2000,2025-03-01,CDMX,Pagado
+6bbe7132-1ebc-4716-ac50-3a3546ad2a20,Mercado Group,Monitor,10.0,2000,2025-02-04,CDMX,Pagado
+e0c9c1b8-f717-44bb-bdbb-a0dcb79b5457,Fletcher LLC,Monitor,10.0,2000,2025-04-26,Hamburgo,Pendiente
+1d396090-68b5-41da-94a5-179d0042c951,Macdonald-Brown,Impresora,5.0,2000,2025-05-21,Hamburgo,Pendiente
+b965973c-9121-4db7-899c-3f7c40dfd2ee,Jackson and Sons,Smartphone,5.0,500,2025-06-11,Hamburgo,Rechazado
+e7f48e06-22a7-4fd1-a2ac-b42300f78f45,Green-Nelson,Impresora,5.0,1500,2025-04-30,Hamburgo,Pagado

@@ -1,0 +1,38 @@
+/* —— Login —— */
+.login-wrapper{
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:linear-gradient(135deg,var(--purple-pastel),var(--malva));
+}
+
+.login-card{
+  width:100%;
+  max-width:400px;
+  gap:1rem;
+  display:flex;
+  flex-direction:column;
+}
+
+.login-card h1{
+  text-align:center;
+  color:var(--purple-royal);
+  margin-bottom:.5rem;
+}
+
+.login-card label{
+  display:flex;
+  flex-direction:column;
+  font-weight:600;
+  color:var(--purple-dark);
+}
+
+.login-card input{
+  margin-top:.4rem;
+  padding:.6rem .8rem;
+  border:1px solid var(--purple-mid);
+  border-radius:var(--radius);
+}
+
+.full{width:100%;}

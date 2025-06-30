@@ -1,0 +1,74 @@
+/* —— Dashboard —— */
+.dashboard{
+  min-height:100vh;
+  display:flex;
+  flex-direction:column;
+  gap:1.2rem;
+  padding:1.2rem;
+  background:var(--lavender);
+}
+
+/*  Cabecera  */
+.dash-header h2{
+  font-size:clamp(1.4rem,4vw,2rem);
+  color:var(--purple-royal);
+}
+.subtitle{
+  display:block;
+  font-size:.8em;
+  font-weight:400;
+  color:var(--purple-dark);
+}
+
+/*  Tabs  */
+.tabs{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.6rem;
+}
+.tab-btn{
+  flex:1 1 120px;
+  padding:.6rem 1rem;
+  background:var(--purple-pastel);
+  color:var(--purple-dark);
+  border-radius:var(--radius);
+  border:1px solid transparent;
+  cursor:pointer;
+  transition:all .2s;
+}
+.tab-btn:hover{background:var(--malva);}
+.tab-btn.active{
+  background:var(--purple-mid);
+  color:#fff;
+}
+
+/*  Contenido  */
+.content{
+  flex:1;
+  overflow:auto;
+}
+
+/*  Responsivo — ajusta paddings en pantallas pequeñas  */
+@media (max-width:600px){
+  .dashboard{padding:.8rem;}
+  .tabs{gap:.4rem;}
+}
+
+.filtros input[type="date"] {
+  padding: 4px 8px;
+  border-radius: 6px;
+  border: 1px solid #aaa;
+  background: #fff;
+}
+.filtros button {
+  padding: 5px 12px;
+  border-radius: 6px;
+  background: #6200ea;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.filtros button:hover {
+  background: #4b009e;
+}
+

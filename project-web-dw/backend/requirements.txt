@@ -1,0 +1,17 @@
+#backend requirements.txt
+# This file contains the Python dependencies for the backend of the project.
+Flask
+Flask-RESTful
+Flask-JWT-Extended
+Flask-SQLAlchemy
+Flask-Migrate
+psycopg2-binary
+marshmallow
+Flask-Caching
+redis
+Flask-Cors
+pandas
+SQLAlchemy
+psycopg2-binary
+python-dateutil
+faker
